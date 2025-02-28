@@ -47,14 +47,7 @@ def iniciar_driver(headless=False):
 
     print("🌐 Iniciando ChromeDriver... (headless =", headless, ")")  # Debug
     driver = webdriver.Chrome(options=options)
-    driver.get("https://legal.unal.edu.co/rlunal/home/")  # Ir a una página dentro del dominio
-    cookie = {
-        'name': 'JSESSIONID',
-        'value': 'C7789F514C88A354AEAFBBBCB3E02741',
-        'domain':'legal.unal.edu.co',
-        'path':'/rlunal'
-    }
-    driver.add_cookie(cookie)
+
     return driver
 
 # Función para manejar captchas
@@ -87,8 +80,8 @@ def obtener_html_selenium(d_i, tmt, driver, cookie2=None):
         driver.get(url)
         cookie2 = driver.get_cookie('JSESSIONID')
     else:
-        driver.add_cookie(cookie2)
         driver.get(url)
+        driver.add_cookie(cookie2)
 
     try:
         WebDriverWait(driver, 20).until(
@@ -99,9 +92,9 @@ def obtener_html_selenium(d_i, tmt, driver, cookie2=None):
         print(f"⚠ Tiempo de espera agotado para {url}")
         html = None
 
-    driver.close()
+    # driver.close()
     driver.switch_to.window(driver.window_handles[0])
-    driver.quit()
+    # driver.quit()
     
     return html, cookie2  # Devolver también la cookie actualizada
 
@@ -127,6 +120,12 @@ driver = iniciar_driver(headless=False)
 
 with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, ncols=80) as pbar:
     cookie2 = None
+    try:
+        driver.title  # Intentar acceder al título de la página
+    except:
+        print("⚠ ChromeDriver no responde. Reiniciando...")
+        driver.quit()
+        driver = iniciar_driver(headless=False)
     for categoria, id_tuples in ids_dict.items():
         resultados[categoria] = {}
 
@@ -134,14 +133,10 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
             if (d_i,tmt) in visited:
                 continue
             print(f"📄 Accediendo a d_i: {d_i}, tmt: {tmt}")
-            try:
-                driver.title  # Intentar acceder al título de la página
-            except:
-                print("⚠ ChromeDriver no responde. Reiniciando...")
-                driver.quit()
-                driver = iniciar_driver(headless=False)
+
 
             html, cookie2 = obtener_html_selenium(d_i, tmt, driver, cookie2)
+            print(cookie2, type(cookie2))
             contenido_html = extraer_html_completo(html) if html else "⚠ No se pudo obtener el contenido."
             resultados[categoria][(d_i, tmt)] = contenido_html
 
@@ -154,6 +149,7 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
             print(f"✅ Guardado en {filename}")
             pbar.update(1)
             time.sleep(random.uniform(2, 5))
+    driver.close()
          
 
 with open("resultados.json", "w", encoding="utf-8") as f:
