@@ -1,0 +1,680 @@
+CIRCULAR 01 DE 2021 Fecha:            28 de mayo de 2021 De:                 Vicerrectoría
+de Investigación Asunto:         Guía para la planeación,
+gestión, ejecución, seguimiento y cierre de proyectos, programas y actividades
+financiados con recursos del Fondo de Investigación de la Universidad Nacional
+de Colombia Para:               Instancias
+gestoras de los recursos del Fondo de
+Investigación de la Universidad Nacional de Colombia. Con el ánimo de fortalecer la administración del Fondo de
+Investigación de la Universidad Nacional de Colombia mediante la implementación
+de los principios rectores del Sistema de Planeación de la Universidad [1] ,
+a continuación se establece la siguiente guía para la planeación, gestión,
+ejecución, seguimiento y cierre de los proyectos, programas y actividades
+financiados con recursos provenientes del mismo. Por su intermedio se busca estandarizar y
+armonizar las actuaciones de las dependencias universitarias participantes en
+la gestión de los recursos del Fondo de Investigación, así como establecer
+pautas de acción que faciliten la aplicación de las normas universitarias que
+rigen a este en la cotidianidad administrativo-financiera. Capítulo I. Disposiciones aplicables 1. Política
+Nacional de Ciencia, Tecnología e Innovación. 2. Ley
+1286 de 2009, "Por la cual se modifica la Ley 29 de 1990, se transforma a
+Colciencias en Departamento Administrativo, se fortalece el Sistema Nacional de
+Ciencia, Tecnología e Innovación en Colombia y se dictan otras disposiciones":
+artículos 16 a 21. 3. Ley 1951 de
+2019, "Por la cual crea el Ministerio de Ciencia, Tecnología e Innovación, se
+fortalece el Sistema Nacional de Ciencia, Tecnología e Innovación y se dictan
+otras disposiciones": artículo 2 (o aquella que la remplace). 4. Acuerdo 011 de 2005 del CSU, "Por el cual se adopta el Estatuto General de la
+Universidad Nacional de Colombia": artículo 67. 5. Acuerdo 014 de 2006 del CSU, "Por el cual se crea y organiza el Sistema de
+Investigación de la Universidad Nacional de Colombia": artículo 3; artículo 9,
+literales j y k; y artículo 10. 6. Acuerdo 031 de
+2006 del CSU, "Por el cual se estructura y se establecen disposiciones para el
+funcionamiento del Fondo de Investigación de la Universidad Nacional de
+Colombia": completo. 7. Acuerdo 036 de
+2006 (sic) del CSU, "Por el cual se reglamenta la Extensión en la Universidad
+Nacional de Colombia": artículo 19, literal a. 8. Acuerdo 113 de
+2013 del CSU, "Por el cual se establece la estructura interna académico -
+administrativa del Nivel Nacional de la Universidad Nacional de Colombia":
+artículo 6 (modificado por el artículo 1 del Acuerdo CSU 168 de 2014),
+numerales 1 y 2. 9. Acuerdo 153 de
+2014 del CSU, "Por el cual se adopta el régimen financiero de la Universidad
+Nacional de Colombia": completo. 10. Acuerdo 238 de 2017 del CSU, "Por
+medio del cual se adopta el Régimen de Planeación y de Evaluación Permanente de
+Resultados de la Universidad Nacional de Colombia" : artículos 1 a
+7, 17, 23, 24 y 33 a 40. 11. Resolución 1277 de 2005 de
+Rectoría, "Por la cual se delegan funciones y se dictan otras disposiciones
+para los efectos del funcionamiento de la Vicerrectoría de Investigación de la
+Universidad Nacional de Colombia": artículos 1 y 3. 12. Resolución 372 de 2007 de Rectoría,
+"Por la cual se establecen medidas reglamentarias y administrativas para el
+funcionamiento del Fondo de Investigación de la Universidad Nacional de
+Colombia": completo. 13. Resolución 309 de 2009 de
+Rectoría, "Por la cual se establecen lineamientos para los procedimientos del
+Banco de Proyectos de Inversión de la Universidad Nacional de Colombia-BPUN":
+completo. 14. Resolución 1345 de 2009 de
+Rectoría, "Por la cual se deroga la Resolución de Rectoría No. 929 de 2007, y
+se establecen las medidas reglamentarias y administrativas para la ejecución de
+los recursos del Fondo de Investigación de la Universidad Nacional de
+Colombia": completo. 15. Resolución RG 015 de 2012 de
+Rectoría, "Por la cual se reglamenta la adquisición, instalación y
+sostenibilidad de equipos de investigación en la Universidad Nacional de
+Colombia": completo. 16. Resolución RG 016 de 2012 de
+Rectoría, "Por la cual se reglamentan las contrapartidas para las actividades
+de investigación y creación artística en la Universidad Nacional de Colombia":
+completo. 17. Resolución RG 017 de 2012 de
+Rectoría, "Por el cual se reglamenta el uso de los ingresos por concepto de
+gastos de administración para los proyectos de investigación y creación
+artística en la Universidad Nacional de Colombia": completo. 18. Resolución 1379 de 2013 de
+Rectoría, "Por la cual se modifica el Artículo 1 de la Resolución de Rectoría
+1345 de 2009 donde se establecen las medidas reglamentarias y administrativas
+para la ejecución de los recursos del Fondo de Investigación de la Universidad
+Nacional de Colombia". completo. 19. Resolución 1221 de 2014 de Rectoría, "Por la cual establece la estructura interna de la
+Vicerrectoría de Investigación y se determinan sus funciones": completo . 20. Resolución 1551 de 2014 de
+Rectoría, "Por medio de la cual se adopta el Manual de convenios y contratos de
+la Universidad Nacional de Colombia": artículos 92 y 93. 21. Resolución 09 de 2014 de la VRI,
+"Por la cual se adopta el Sistema de Información HERMES, para la
+armonización de la información sobre las actividades de Investigación y
+Extensión en la Universidad Nacional de Colombia": completo. 22. Resolución 02 de 2019 de la VRI,
+"Por la cual se deroga la Resolución 02 de 2017 de la Vicerrectoría de
+Investigación, y se reglamenta el mecanismo de convocatoria para el fomento de
+la Investigación, la Extensión, la Creación Artística y la Innovación en la
+Universidad Nacional de Colombia, mediante la financiación de actividades y
+proyectos": completo. 23. Circular 01 de 2018 de la VRI y
+la GNFA, "Directrices que garanticen la adecuada gestión, ejecución y
+reconocimiento financiero de los proyectos de investigación y extensión que
+cuentan con financiación externa": completo. 24. Circular 036 de 2010 de la
+División Nacional de Contabilidad, "Reglamentación de la Extensión Acuerdo CSU 036 de 2009 - Actualización Catálogo UN": completo. Capítulo II. Convenciones - BPUN : Banco de Proyectos de Inversión
+de gestión y soporte institucional de que trata el
+artículo 33 del Acuerdo 238 de 2017 del CSU - CSU : Consejo Superior Universitario - CDP : Certificado de
+disponibilidad presupuestal - CTP : Certificado de
+traslado presupuestal - Direcciones adscritas : Dirección Nacional de
+Investigación y Laboratorios, Dirección Nacional de Extensión, Innovación y
+Propiedad Intelectual, Dirección Nacional de Bibliotecas y Editorial de la
+Universidad Nacional de Colombia - DNB : Dirección
+Nacional de Bibliotecas - DNIL : Dirección
+Nacional de Investigación y Laboratorios - DNPE : Dirección Nacional de Planeación y Estadística - DNEIPI : Dirección
+Nacional de Extensión, Innovación y Propiedad Intelectual - EUNAL : Editorial de
+la Universidad Nacional de Colombia - Hermes : Sistemas de
+Información Hermes, adoptado mediante la Resolución 09 de 2014 de la VRI, para
+la armonización de la información sobre las actividades de investigación y
+extensión en la Universidad Nacional de Colombia - GNFA : Gerencia
+Nacional Financiera y Administrativa - Período del PGD : lapso
+institucional para el cual es formulado y aprobado un Plan Global de Desarrollo
+por el Consejo Superior Universitario. - PGD : Plan Global de Desarrollo - PLEI : Plan
+Estratégico Institucional - Proyecto de
+inversión :
+instrumento de planificación, ejecución y gestión registrado en la plataforma
+BPUN - SGF - Q UIPU :
+Sistema de Gestión Financiera SGF- Q UIPU - SIUN : Sistema de
+Investigación de la Universidad Nacional de Colombia - UGI : Unidad de
+Gestión de Investigación - UNAL :
+Universidad Nacional de Colombia - VRI : Vicerrectoría de Investigación Capítulo III. Del Fondo de Investigación De
+acuerdo a lo señalado en los Acuerdo No. 031 de 2006 y 153 de 2014 del CSU, y
+en la Resolución No. 372 de 2007 de Rectoría, el Fondo de Investigación
+constituye un fondo especial, que funciona desde el nivel nacional hasta la
+mínima unidad ejecutora de los diferentes niveles de la UNAL, en el cual se
+administran exclusivamente los recursos destinados a investigación, desarrollo
+tecnológico, creación artística e innovación. El
+Fondo de Investigación es gestionado a través de empresas UGI en el SGF-QUIPU,
+y su administración es responsabilidad de la VRI. Para efectos de estandarizar
+la planeación, gestión, ejecución y seguimiento de los proyectos y actividades
+financiados con recursos provenientes de este, y en seguimiento del mandato
+dado por el artículo 5 del Acuerdo 031 de 2006 del CSU, a continuación, se
+presenta un modelo de gestión integrado por los siguientes componentes: - Plan de Acción
+General de la VRI. - Planes de acción
+específicos de las Direcciones adscritas de la VRI. - Gestión de
+recursos del Fondo de Investigación del nivel nacional no asociados a proyectos
+de inversión o planes de acción específicos. - Programación
+presupuestal del Fondo de investigación en los niveles de sede y facultad. - Apertura de
+convocatorias y proyectos y traslado de recursos. - Seguimiento,
+acciones de monitoreo y corrección y cierre de proyectos. - Elaboración de
+informes y visibilidad de resultados. Capítulo IV. De la obligatoriedad del registro y actualización de
+información en los sistemas institucionales De
+conformidad con las normas internas y externas aplicables a la materia, es
+obligación de todos los niveles y personal de la UNAL que participen en la
+gestión del Fondo de Investigación, desde la etapa de planeación hasta la de
+cierre y presentación de informes, diligenciar y actualizar de manera completa,
+detallada y oportuna la información sobre dicha gestión en los sistemas
+institucionales establecidos para tal fin, así como en aquellos que se
+desarrollen en lo sucesivo. Algunos de estos sistemas son Hermes y SGF-QUIPU. Capítulo V. Del Plan de Acción General de la Vicerrectoría de
+Investigación En seguimiento de lo preceptuado en el numeral 1 del artículo 2 de
+la Resolución No. 1221 de 2014 de Rectoría, la VRI diseñará el Plan de Acción
+General que desarrollará a lo largo del período del PGD correspondiente. Este será
+el instrumento orientador en el diseño, aprobación, ejecución, monitoreo y
+cierre de los proyectos de inversión y planes de acción específicos financiados
+con recursos provenientes del Fondo de Investigación del nivel nacional para
+dicho período. La estructuración y aprobación del Plan de Acción General se hará
+de acuerdo con el PLEI y con el PGD en construcción para dicho período, y será
+el resultado de un proceso de construcción colectiva que involucre las necesidades
+y aportes de la comunidad universitaria, defina objetivos, metas, actividades y
+asignaciones presupuestales y tome en consideración y propicie el
+aprovechamiento de las capacidades universitarias consolidadas en
+investigación. Asimismo, la formulación y desarrollo del Plan de Acción General
+se hará de conformidad con los principios establecidos en el artículo 7 del
+Acuerdo 238 de 2017 del CSU. 5.1. Referentes
+programáticos para el diseño del Plan de Acción de la Vicerrectoría de Investigación Para
+el diseño del Plan de Acción General se tendrán en consideración los siguientes
+referentes: a) La Política
+Nacional de Ciencia, Tecnología e Innovación. b) Los principios y
+objetivos estatuidos en la Ley 1286 de 2009, en particular los objetivos y
+actividades atinentes al Sistema Nacional de Ciencia, Tecnología e Innovación. c) Los principios y
+políticas que guían el SIUN, estatuidos en los artículos 1 y 3 del Acuerdo 014
+de 2006 del CSU. d) El PGD que est é en proceso de formulación y aprobación , en relación con las líneas de política, objetivos y ejes
+estratégicos, programas, estrategias y metas del mismo que sean consecuentes
+con la naturaleza y funciones de la VRI y las Direcciones adscritas. e) Como mínimo, el informe de gestión de la VRI y sus Direcciones
+adscritas del período
+del PGD inmediatamente anterior, con el fin de
+propiciar la continuidad de los proyectos, mecanismos y acciones que hayan
+tenido buenos resultados y de generar acumulados de capital estructural,
+relacional y humano para el largo plazo. f) Las propuestas, sugerencias, necesidades y expectativas de las
+sedes de la Universidad Nacional de Colombia. Con este fin, la VRI y las
+Direcciones adscritas propenderán por mantener un diálogo constante con las
+sedes. g) Las formas de trabajo colaborativo en curso o proyectadas con
+otras dependencias de la UNAL, ya sea para la celebración de acuerdos de
+voluntades con actores externos con el objeto de
+fortalecer las funciones misionales y gestionar la obtención de recursos no
+pertenecientes al presupuesto de la Universidad , o
+para apoyar el desarrollo de proyectos o actividades de investigación, extensión, creación artística o
+cultural en beneficio de la comunidad universitaria. h) De manera
+preferente, los usos de los recursos del Fondo de Investigación establecidos en
+el artículo 3 del Acuerdo 031 de 2006 del CSU que serán apoyados durante el
+período del PGD, y que deberán quedar explicitados en el plan de acción junto
+con los montos asignados. i) Lo
+señalado en la Resolución No. 372 de 2007 de Rectoría acerca de la
+transferencia de recursos administrados por la UGI de nivel nacional entre
+unidades responsables de la ejecución y desarrollo de actividades del SIUN, la
+competencia de distribución, los plazos de recaudo y las UGI a las que
+ingresarán y los administrarán. j) Lo
+dispuesto en la Resolución 1345 de 2009 de Rectoría. modificada por la
+Resolución 1379 de 2013 de Rectoría, sobre las UGI a las cuales ingresarán y
+administrarán los recursos del Fondo de Investigación, los criterios y límites
+para su asignación, el procedimiento para su distribución y aprobación y la
+temporalidad con que se realizará su programación y ejecución. k) La
+reglamentación sobre la adquisición, instalación y sostenibilidad de equipos de
+investigación adoptada mediante la Resolución RG 015 de 2012 de Rectoría. l) Lo
+señalado sobre contrapartidas para investigación y creación artística en la
+Resolución RG 016 de 2012 de Rectoría. m) Lo reglamentado
+sobre gastos de administración para proyectos de investigación y creación artística
+a través de la Resolución RG 017 de 2012. n) Todos los demás que, a criterio de la VRI y las Direcciones
+adscritas, permitan reconocer buenas prácticas y lecciones aprendidas en la
+gestión de las administraciones anteriores de estas dependencias y de las
+sedes, así como aquellos que contribuyan a identificar oportunidades de mejora
+y temáticas estratégicas para el período del PGD . 5.2.
+Identificación presupuestal y diseño del Plan de Acción General L a VRI identificará el presupuesto que integrará el Fondo de
+Investigación del n ivel n acional para el período del PGD. Esto se hará con el apoyo
+de la DNPE y de conformidad con lo establecido en los Acuerdos 153 de
+2014 y 031 de 2006 del CSU y las resoluciones que reglamentan este último. A
+partir del presupuesto identificado, el Comité
+Directivo de la VRI diseñará una propuesta de Plan de Acción General para
+la programación y ejecución de dicho presupuesto durante el período del PGD.
+Esta propuesta incluirá lo siguiente: a) El
+plan de acción específico de la VRI para el período del PGD, y el porcentaje
+del presupuesto del Fondo de Investigación del nivel nacional que se propone
+destinar para su puesta en marcha. b) Los
+planes de acción específicos que formule la DNIL para el período del PGD y el
+porcentaje del presupuesto del Fondo de Investigación del nivel nacional que se
+propone destinar para su puesta en marcha. c) Los
+planes de acción específicos o proyectos de inversión que formulen la DNEIPI,
+la DNB y la EUNAL. En estos planes, además de la programación y distribución de
+los recursos pertenecientes a estas direcciones o a los fondos bajo su
+administración, se indicarán los objetivos específicos, metas o actividades que
+se propongan financiar con recursos del Fondo de Investigación del nivel
+nacional. En
+el diseño del Plan de Acción se propenderá por la integralidad y articulación
+recíproca entre los planes de acción específicos que lo componen, en aras de
+propiciar la integración de las funciones misionales de investigación y
+extensión y con los procesos de bibliotecas y editorial. 5.3.
+Presentación de la propuesta de Plan de Acción General al Comité Nacional de Investigación La
+propuesta de Plan de Acción General será presentada por el Vicerrector de
+Investigación ante el Comité Nacional de Investigación para su estudio y
+aprobación. Este estudio y aprobación se enfocará en los planes de acción
+específicos de la VRI y la DNIL, y abordará además los traslados de recursos
+del Fondo de Investigación a la DNEIPI, la DNB y la EUNAL que se propongan en
+el marco del Plan de Acción General presentado. La
+propuesta de Plan de Acción General se ajustará según las observaciones
+realizadas por el Comité Nacional de Investigación . 5.4. Aprobación
+del Plan de Acción de la Vicerrectoría de Investigación Una
+vez aprobados los planes de acción específicos de la VRI y las Direcciones
+adscritas por los comités nacionales correspondientes, la propuesta de Plan de
+Acción General resultante será presentada por la VRI a la DNPE para su
+retroalimentación, ajustes y validación técnica, presupuestal y de planeación. La
+versión aprobada por la DNPE fungirá, para todos los efectos, como el Plan de
+Acción General de la VRI. Para
+el diseño, estudio, ajustes, seguimiento y cierre del Plan de Acción General se
+podrá implementar un sistema de información que facilite su gestión, o hacer
+los ajustes a que haya lugar en los ya existentes. Esto se hará en coordinación
+con las dependencias universitarias pertinentes 5.5. Lineamientos
+para la socialización del Plan de Acción General El
+Plan de Acción General será dado a conocer por la VRI a las Direcciones
+Nacionales y a las sedes a través de un documento de lineamientos. Por su
+intermedio se definirán los criterios técnicos y presupuestales que deberán
+tener en cuenta para diseñar sus respectivas propuestas de inversión, de tal
+manera que guarden coherencia con el Plan de Acción General. Para tal efecto,
+los lineamientos serán enviados a las direcciones de investigación y extensión de
+las Sedes Andinas y a quienes hagan sus veces en las Sedes de Presencia
+Nacional y a las direcciones o secciones de laboratorios de sede o a quienes
+hagan sus veces. Capítulo VI. De los Planes de Acción Específicos y los Proyectos de
+Inversión 6.1. Diseño de
+los planes de acción específicos del nivel nacional En
+el diseño de sus respectivos planes de acción específicos, la VRI y las
+Direcciones adscritas indicarán como mínimo la siguiente información: a) Nombre. b) Dependencia
+responsable. c) Director y
+coordinador funcional o funcionario de apoyo, si aplica. d) Las relaciones
+del plan de acción específico con las líneas de política, objetivos y ejes
+estratégicos, programas, estrategias y metas del PGD. e) Objetivo general
+y resultado general. f) Objetivos
+específicos. g) Las metas
+comprendidas en cada objetivo específico. h) Las actividades
+a través de las cuales se lograrán las metas asociadas a los objetivos
+específicos, si aplica. i) Los
+indicadores o entregables a través de los cuales se medirá el nivel de avance
+de las antedichas actividades o metas. j) El
+presupuesto del Fondo de Investigación asignado al plan de acción específico
+(costo estimado), su distribución entre los objetivos específicos, metas y
+actividades que lo conforman, e indicación del porcentaje que será transferido
+a las sedes y aquel que será ejecutado en el nivel nacional. En
+la medida en que resulte aplicable, estos planes de acción específicos darán
+cuenta a su vez de lo siguiente: k) Situación a
+transformar, antecedentes y justificación. l) Metodología. m) Marco legal. n) Estudios que
+respaldan el plan de acción específico. o) Costo de
+sostenibilidad y su justificación. En
+el caso de la DNEIPI, la DNB y la EUNAL, sus planes de acción específicos se
+formularán de conformidad con lo que aprueben sus respectivos comités
+nacionales. En caso de incluir recursos provenientes del Fondo de Investigación
+del nivel nacional, deberán dar cuenta de los objetivos específicos, metas o
+actividades que serán financiados con ellos, así como informar a la VRI sobre
+el avance en su ejecución. 6.2. De los
+Proyectos de Inversión Sobre
+la base del Plan de Acción General, se formularán los proyectos de inversión
+que correspondan a través del aplicativo virtual dispuesto para tal fin por la
+UNAL. Esto se hará de acuerdo con lo dispuesto en la Resolución 309 de 2009 de
+Rectoría o aquella que la modifique. En
+el evento en que la VRI o la DNIL consideren pertinente que los recursos del
+Fondo de Investigación del nivel nacional correspondientes a sus planes de
+acción específicos sean administrados directamente por los niveles de sede o
+facultad, ya sea su totalidad o una fracción, diseñarán lineamientos
+específicos que orienten a dichos niveles en la formulación de sus respectivos
+proyectos de inversión en lo atinente a tales recursos y realizarán las
+gestiones a que haya lugar para su traslado. Capítulo VII. De los recursos del Fondo de Investigación del nivel
+nacional no asociados a proyectos de inversión o planes de acción específicos. Los
+recursos del Fondo de Investigación del nivel nacional que no estén asociados
+al Plan de Acción de la VRI, los planes de acción específicos de las
+Direcciones adscritas o los proyectos de inversión resultantes de estos, se
+administrarán a través de proyectos específicos definidos para tal fin en el
+SGF-QUIPU. Estos proyectos específicos harán parte de la misma empresa contable
+del Fondo de Investigación del nivel nacional. La
+programación, gestión, ejecución y seguimiento de estos recursos se hará de
+acuerdo con las normas y procedimientos definidos para tal efecto por la
+Universidad. Capítulo VIII. De la programación presupuestal del Fondo de
+Investigación en los niveles de sede y facultad De
+acuerdo a lo señalado en el artículo 1 del Acuerdo 031 de 2006 del CSU y el
+artículo 2 de la Resolución 1345 de 2009 de Rectoría, los niveles de sede y
+facultad, mediante resolución, realizarán semestralmente la distribución
+presupuestal y aprobación del presupuesto de ingresos y gastos de los
+siguientes recursos del Fondo de Investigación: a) El 25% de los
+recursos obtenidos por el pago de derechos académicos de los programas de
+posgrado; b) Los recursos que
+ingresen a los Fondos Especiales por exenciones tributarias contempladas en la
+Ley; y c) Los rendimientos
+financieros de los recursos administrados. La
+expedición de esta resolución estará a cargo del órgano colegiado
+correspondiente a cada nivel, requerirá de aprobación previa de la VRI, se
+sujetará al régimen presupuestal de la UNAL y tendrá en consideración: a) Lo dispuesto en
+el PGD; b) Los planes de
+desarrollo y/o planes de acción de sede o facultad; c) Los usos
+indicados en el artículo 3 del Acuerdo 031 de 2006 del CSU, los cuales deberán
+quedar explicitados en la distribución presupuestal, sin perjuicio de aquellos
+otros que, no estando enlistados en dicho artículo, sean propuestos para dar
+desarrollo al propósito del Fondo de Investigación. Los
+ajustes que se realicen a tal distribución presupuestal y aprobación de los
+recursos del Fondo de Investigación previamente indicados se harán siguiendo el
+mismo procedimiento y requerirán de aprobación previa de la VRI. En el caso de
+los centros e institutos, la programación y distribución presupuestal y sus
+ajustes se harán de acuerdo con los criterios que establezcan las sedes a los
+cuales están adscritos. Capítulo IX. De la apertura de convocatorias y proyectos y el
+traslado de recursos 9.1. Apertura de
+modalidades de asignación de recursos La
+VRI y la s Direcciones adscritas
+correspondientes realizarán las acciones pertinentes para dar apertura a las
+convocatorias de asignación de recursos del Fondo de Investigación, de
+conformidad con los proyectos de inversión aprobados por la DNPE, las
+correspondientes resoluciones aprobatorias emitidas por Rectoría y lo dispuesto
+en la Resolución 02 de 2019 de la VRI. Tanto
+las convocatorias como las actividades y proyectos postulados a estas deberán
+estar registrados en el Sistema de Información Hermes, desde donde serán
+gestionados por los equipos de trabajo correspondientes, de acuerdo con la
+Resolución 09 de 2014 de la VRI y los procedimientos aplicables. En
+relación con los proyectos y las actividades que, de acuerdo con el parágrafo
+segundo del artículo 3 del Acuerdo 031 de 2006 del CSU, impliquen financiación
+con recursos provenientes del Fondo de Investigación mediante la modalidad de
+destinación específica, su revisión final, solicitud de ajustes y aprobación
+será ejercida por el Comité Directivo de la VRI. En
+el caso de los acuerdos de voluntades igualmente apoyados mediante la modalidad
+de destinación específica cuya competencia de suscripción esté radicada en
+cabeza del Vicerrector de Investigación, su revisión final, solicitud de
+ajustes y aprobación será ejercida por el Comité Directivo de la VRI. Si su
+firma fuere competencia del Rector, la VRI y las Direcciones adscritas cuyas
+funciones estén relacionadas con el objeto del acuerdo de voluntades
+participarán en su proceso de estructuración junto con las demás dependencias
+universitarias involucradas. 9.2. Traslado de
+recursos desde la VRI y creación de fichas financieras en el SGR-Quipú Para
+dar traslado a los recursos del Fondo de Investigación desde la VRI se
+procederá del siguiente modo . 9.2.1. Para las
+convocatorias abiertas por el nivel nacional, una vez haya sido publicado de
+manera oficial el listado de propuestas ganadoras, las sedes, facultades,
+centros e institutos, según corresponda, indicarán a
+la VRI las e mpresas Quipú a las cuales se deberá
+realizar el traslado, así como los montos que serán transferidos en cada
+vigencia del período del PGD. La
+VRI gestionará el traslado de recursos ante las dependencias correspondientes. 9.2.2. Para las
+convocatorias de los niveles de sede o facultad, centro o instituto que se
+desarrollen con recursos del Fondo de Investigación del nivel nacional, el
+traslado se podrá realizar antes de la apertura de tales convocatorias. Para
+tal efecto, dichos niveles indicarán las empresas Quipú a las cuales se efectuará
+el traslado, junto con los montos que serán transferidos. La
+VRI gestionará el traslado de recursos ante las dependencias correspondientes. 9.2.3. Los proyectos y
+actividades apoyados mediante la modalidad de destinación específica, previo al
+traslado de recursos, deberán estar debidamente registrados en el Sistema de
+Información Hermes, de conformidad con lo preceptuado en la Resolución 09 de
+2014 de la VRI, incluyendo la definición del nivel o dependencia universitaria
+responsable de su ejecución presupuestal. La VRI asesorará el proceso de
+creación de las fichas financieras en el SGF-Quipú correspondientes y
+gestionará el traslado de recursos ante las dependencias competentes. 9.2.4. Para los
+acuerdos de voluntades apoyados con recursos del Fondo de Investigación del
+nivel nacional, el traslado de recursos se realizará mediante resolución de
+Rectoría o de la GNFA, con cargo al proyecto de inversión correspondiente. Para
+aquellos cuya suscripción sea competencia de la VRI, esta designará mediante
+acto administrativo la dependencia universitaria responsable de su ejecución, y
+se atenderán las disposiciones legales y estatutarias relativas a su supervisión
+o interventoría, según sea el caso. Capítulo X. Del seguimiento, las acciones de monitoreo y corrección
+y cierre de proyectos 10.1. Del
+seguimiento y las acciones de monitoreo y corrección La
+VRI, con el apoyo de las Direcciones adscritas, será responsable de hacer
+seguimiento a la ejecución de los recursos del Fondo de Investigación por parte
+de los diferentes niveles de la Universidad. Asimismo, formulará medidas,
+asesorará a las sedes, facultades, centros e institutos y sugerirá e
+implementará soluciones que viabilicen el correcto cierre y liquidación de los
+proyectos, actividades y estrategias financiados con estos recursos, y que
+contribuyan a corregir las situaciones anómalas que llegaren a producirse. En
+ejercicio de este mandato, la VRI y las Direcciones adscritas, por sí mismas o
+en alianza con otras dependencias universitarias, emprenderán las siguientes
+acciones con el propósito de fortalecer y hacer más eficiente el seguimiento, y
+de convertirlo en una herramienta que facilite la toma de decisiones y la
+adopción de correctivos en la ejecución: a) Fortalecer los
+mecanismos de medición ya existentes, y desarrollar aquellos otros que sean
+necesarios para este propósito, en seguimiento de los criterios de pertinencia,
+oportunidad, claridad, trazabilidad, actualización periódica y articulación
+recíproca. b) Fortalecer los
+sistemas de información ya existentes, e implementar aquellos otros que sean
+requeridos, con el propósito de brindar acceso público, transparente y fácil. El
+seguimiento a la ejecución de los recursos del Fondo de Investigación se
+realizará a partir de los siguientes componentes de monitoreo: a) Las
+convocatorias nacionales y las realizadas por los niveles sede y facultad,
+centro o instituto con recursos del Fondo de Investigación. b) Los proyectos de
+inversión y los planes de acción específicos del nivel nacional. c) Los proyectos,
+acuerdos de voluntades y actividades de investigación, extensión y creación
+artística y cultural apoyados mediante la modalidad de destinación específica. d) Los recursos del
+Fondo de Investigación recaudados por los niveles de sede y facultad . e) Los recursos del
+Fondo de Investigación de que trata el artículo 4 del Acuerdo 031 de 2006 del
+CSU. f) Los usos
+enlistados en el artículo 3 del Acuerdo 031 de 2006 del CSU. 10.2. De las
+acciones de monitoreo en particular La
+revisión de estos componentes de monitoreo se hará de manera articulada, de tal
+forma que su análisis aporte una visión integral sobre la ejecución de los
+recursos del Fondo de Investigación, permite hacer diagnósticos periódicos y
+sea la base para la implementación de mejoras de gestión y toma de decisiones. 10.2.1. Convocatorias Con
+base en la naturaleza de las actividades y proyectos que serán financiados con
+recursos del Fondo de Investigación, en los términos de referencia de cada
+convocatoria se establecerán los períodos de seguimiento a la ejecución técnica
+y de registro de avances, junto con los responsables de estas labores. Para tal
+efecto, en investigación y creación artística se seguirá lo dispuesto en los
+procedimientos que sean aplicables. La
+VRI y las Direcciones adscritas correspondientes realizarán el monitoreo al
+cierre oportuno de los proyectos y actividades, y en coordinación con las sedes
+y las facultades, establecerán estrategias para garantizar el cumplimiento
+satisfactorio de los compromisos adquiridos. 10.2.2. Proyectos de
+inversión y planes de acción específicos Para
+cada período, los directores de los proyectos de inversión de la VRI y las Direcciones
+adscritas, con el apoyo de los coordinadores funcionales, velarán por presentar
+de manera completa y oportuna los informes técnicos
+de avance a través del aplicativo dispuesto por la Universidad. Al respecto, se
+atenderá lo establecido en la Resolución 309 de 2009 de Rectoría o aquella que
+la modifique. En
+el caso de los planes de acción específicos, las Direcciones adscritas harán un
+balance sobre los avances alcanzados frente a sus objetivos específicos, metas
+y actividades, tomando en consideración los indicadores propuestos y la
+ejecución del presupuesto asignado a cada uno de tales componentes. De igual
+modo, propenderán por articular la generación de estos balances con la
+información que solicite la DNPE. 10.2.3. Proyectos,
+acuerdos de voluntades y actividades apoyadas mediante la modalidad de
+destinación específica La
+labor de seguimiento a los proyectos y actividades apoyados mediante la
+modalidad de destinación específica será realizada por el personal o las
+dependencias que designe para tal fin la VRI, a partir de la información
+alojada en los sistemas Hermes y Quipú. Para tal fin, se dará aplicación a la
+normativa nacional e institucional en materia de supervisión e interventoría,
+teniendo en consideración la naturaleza académica y particularidades de los
+proyectos y actividades que son objeto de seguimiento. En cualquier caso, este
+seguimiento involucrará el análisis riguroso, la retroalimentación y la
+aprobación o devolución para corrección de los informes de avance y finales
+presentados por los directores, investigadores principales o responsables de
+tales actividades y proyectos. En
+el caso de los acuerdos de voluntades, su seguimiento se hará según lo
+siguiente: a) De acuerdo con
+las características del acuerdo de voluntades, se establecerán los parámetros a
+partir de los cuales se hará su seguimiento, los cuales incluirán como mínimo
+su plazo de ejecución y, en los casos en que resulte aplicable, el avance en su
+ejecución técnica y financiera. b) Cuando la
+ejecución, coordinación o responsabilidad en el desarrollo del convenio sea
+asignada por la VRI a otra instancia de la UNAL, la segunda presentará a la
+primera informes de avance en su ejecución, con un periodicidad semestral o
+aquella que se indique en el acto de asignación. De igual modo, la instancia
+asignada informará sobre el surgimiento de cualquier anomalía que frustre o
+pueda frustrar la correcta ejecución del acuerdo de voluntades. c) Con el apoyo de
+la instancia de la UNAL a la que le haya sido asignada la ejecución,
+coordinación o responsabilidad se evaluará la necesidad de efectuar
+modificaciones en el plazo, el valor u otros elementos del acuerdo de
+voluntades. En todo caso, tales modificaciones se realizarán según lo acordado
+por las partes. d) Cuando se trate de
+acuerdos de voluntades financiados con recursos externos y suscritos por la VRI
+cuya ejecución dependa de más de una instancia de la UNAL, se definirá de mutuo
+acuerdo con estas la manera en que se remitirán los informes de avance a la
+entidad financiadora, sin perjuicio de los procedimientos que establezca esta
+última. En todo caso, se garantizará que la VRI cuente con la trazabilidad
+técnica y financiera completa y oportuna sobre la ejecución de tales acuerdos
+de voluntades y los informes presentados. e) De acuerdo a lo
+señalado en el literal a, parágrafo 2, artículo 4 del Manual de Convenios y
+Contratos , los vicerrectores y directores de sede presentarán semestralmente a
+la VRI un informe sobre los convenios suscritos y ejecutados cuyo objeto esté
+relacionado con el capítulo IX de dicho manual. 10.2.4. Recursos del
+Fondo de Investigación recaudados por los niveles de sede y facultad, centro o
+instituto La
+VRI hará seguimiento a la ejecución de los recursos del Fondo de Investigación
+en los niveles de sede, facultad, centro e instituto a partir del control a las
+resoluciones de distribución presupuestal y aprobación de que trata el artículo 2 de la Resolución 1345 de 2009 de Rectoría, incluyendo las modificaciones
+aprobadas de estas, y sobre la base de los informes que presenten dichos
+niveles. Para
+la elaboración de estos informes se tendrá en cuenta lo siguiente: a) Los informes
+deberán dar cuenta de los recursos del Fondo de Investigación que hayan sido
+recaudados durante el período objeto del análisis, el estado de su ejecución y
+las transferencias internas que realicen de ellos. Asimismo, indicarán los usos
+de que trata el Acuerdo 031 de 2006 del CSU que fueron apoyados con tales
+recursos. b) Las facultades,
+y los centros e institutos de sede presentarán estos informes a las direcciones
+de investigación y extensión de sus respectivas sedes, o a quien haga sus veces
+en las sedes de presencia nacional. c) Las direcciones
+de investigación y extensión de sede, o quien haga sus veces en las sedes de
+presencia nacional, presentarán sus informes a la VRI. En estos se dará cuenta
+de la información reportada por las facultades, centros e institutos referida
+en el literal anterior. d) Estos reportes
+se enviarán una vez al semestre. Los
+reportes serán analizados por la VRI y las Direcciones adscritas
+correspondientes, con apoyo en la información registrada en los sistemas de
+información Hermes y Quipú. En caso de haber imprecisiones, inconsistencias o
+elementos faltantes en la información reportada por las sedes, se solicitará a
+estas realizar las correcciones y adiciones a que haya lugar. A
+partir de estos reportes se establecerá el balance global del Fondo de
+Investigación para efectos de su monitoreo periódico, y se determinarán las
+acciones que deban ser adoptadas para superar las anomalías de gestión que se
+presenten. 10.2.5. Los recursos
+que integran el Fondo de Investigación (artículo 4 del Acuerdo 031 de 2006 del
+CSU) La
+VRI, las sedes, las facultades, los centros y los institutos harán seguimiento
+en sus respectivos niveles a los recursos de que trata el artículo 4 del
+Acuerdo 031 de 2006 del CSU respecto de los cuales sean responsables en su
+administración. Para
+tal fin, cada nivel realizará semestralmente un balance del recaudo realizado
+frente a cada uno de estos recursos previo a la determinación del monto que de
+ellos debe ser transferido al Fondo de Investigación, de los montos
+efectivamente transferidos y de su gasto o transferencia a otras instancias de
+la UNAL. Las
+sedes, por intermedio de las direcciones de investigación y extensión o quien
+haga sus veces en las sedes de presencia nacional, harán a su vez un
+seguimiento a la administración de estos recursos en sus facultades, centros e
+institutos a partir de los informes de que trata el literal b de la sección
+9.2.4 de este instrumento. La VRI hará lo propio respecto de las sedes con base
+en los informes referidos en el literal c de dicha sección. En
+aras de fortalecer este seguimiento y hacerlo más eficiente y confiable, la
+VRI, en coordinación de las dependencias correspondientes de la UNAL,
+propondrá, diseñará o contribuirá a fortalecer las estrategias, mecanismos o
+sistemas a que haya lugar. 10.2.6. Usos de los
+recursos del Fondo de Investigación (artículo 3 del Acuerdo 031 de 2006 del
+CSU) La
+VRI, junto con las dependencias correspondientes de la UNAL, procurará generar
+una estrategia de seguimiento integral al Fondo de Investigación sobre la base
+de los usos indicados en el artículo 3 del Acuerdo 031 de 2006 del CSU, y de
+aquellos otros que sean implementados en el ejercicio académico. Por
+intermedio de esta estrategia se fomentará la estandarización y transparencia
+en la destinación dada a los recursos del Fondo de Investigación, a la vez que
+se impulsará la realización de análisis que contribuyan a fortalecer su
+gestión, distribución equitativa y alineación con objetivos de política
+académica estratégicos. En
+todo caso, este seguimiento estará articulado al análisis de los gastos
+realizados por rubros contables. 10.3.
+Finalización y cierre de proyectos de inversión, planes de acción específicos, programas y
+actividades 10.3.1. Proyectos de
+inversión y planes de acción específicos La VRI y las Direcciones adscritas, con el apoyo de sus
+coordinadores funcionales, elaborarán los informes finales de sus
+respectivos proyectos de inversión y realizarán su cierre de conformidad con lo
+dispuesto en los artículos 15 y siguientes de la Resolución 309 de 2009 de
+Rectoría, o aquella que la modifique o sustituya. Esto se realizará dentro del período del PGD en el cual fueron formulados, a menos que por sus dimensiones,
+características o necesidades requieran ser cerrados dentro de la vigencia del
+siguiente PGD. Para
+el cierre de los planes de acción específicos se deberá dar cuenta como mínimo
+del avance logrado frente a sus objetivos, metas y actividades, los indicadores
+o entregables asociados, el logro de las estrategias o metas asociadas del PGD
+y la ejecución presupuestal alcanzada. En caso de no haber sido ejecutados en
+su totalidad los recursos del Fondo de Investigación destinados a la
+financiación de estos proyectos de inversión o planes de acción, el remanente
+deberá ser reintegrado a dicho fondo. 10.3.2. Proyectos y actividades El
+cierre de los proyectos y actividades apoyados mediante la modalidad de
+destinación específica se llevará a cabo a través del Sistema de Información
+Hermes. Con tal propósito, el personal o las dependencias designados por la VRI
+para hacer su seguimiento realizarán la evaluación y aprobación de sus informes
+finales de conformidad con lo dispuesto en la sección 9.2.3 de este
+instrumento. En
+el evento en que no haya sido ejecutada la totalidad del presupuesto otorgado a
+un proyecto o actividad, el remanente deberá ser transferido al Fondo de
+Investigación del Nivel Nacional. Para esto se seguirán los procedimientos
+financieros establecidos por la UNAL. 10.3.3. Acuerdos de
+voluntades Con
+el apoyo de la instancia de la UNAL a la que haya sido asignada su ejecución o
+coordinación, se hará un balance sobre el avance final alcanzado en la
+ejecución técnica y financiera del acuerdo de voluntades. Esto incluirá las
+adiciones presupuestales, prórrogas y demás modificaciones que se hayan
+surtido. En
+los casos exigidos por la ley, o cuando esté expresamente establecido en el
+acuerdo de voluntades, se realizará la liquidación de este, lo cual constará en
+acta suscrita por las partes. Capítulo XI. De la elaboración de informes de gestión y visibilidad
+de resultados 11.1. Informes de
+gestión anuales y de trienio de la Vicerrectoría de Investigación La
+VRI y las Direcciones adscritas elaborarán informes de gestión anuales, en los
+cuales incluirán como mínimo los siguientes componentes: a) El grado de
+alcance de las metas del PGD asociadas a la gestión de la VRI y las Direcciones
+adscritas. b) El avance
+alcanzado respecto de cada una de las actividades, metas y objetivos
+específicos de los proyectos de inversión y planes de acción específicos que
+integran el Plan de Acción de la VRI. c) El avance de los proyectos, los convenios, las alianzas y
+demás iniciativas apoyadas con recursos del Fondo de Investigación provenientes
+del nivel nacional que hayan culminado o se encuentren en ejecución durante la
+vigencia objeto del informe. d) Los cambios que
+hayan sido implementados en los proyectos y programas formulados, las
+dificultades experimentadas y los logros adicionales obtenidos. e) En materia de
+gestión, los planes de mejoramiento adelantados durante la vigencia, los
+resultados de las mediciones o auditorías realizadas y las acciones emprendidas
+para su resolución o atención. f) La información
+consolidada por cada sede, facultad, centro o instituto sobre los avances en la
+ejecución de los recursos del Fondo de Investigación que son competencia de las
+UGI de dichos niveles, previa validación realizada por la VRI y las Direcciones
+adscritas según corresponda, de acuerdo a lo estipulado en los artículos 3 y 4 de la Resolución 1345 de 2009 de Rectoría. g) Los anexos que
+desarrollen o profundicen la información referida en los literales anteriores. Los
+informes de las dependencias de la VRI serán sintetizados en un único informe,
+que incluirá un balance financiero conjunto sobre la ejecución de la VRI, las
+Direcciones adscritas y la información reportada por las sedes y las
+facultades, centros o institutos. Al
+final del período del PGD, la VRI y las Direcciones adscritas presentarán
+informes que recojan el avance alcanzado al cierre de dicho período. Estos
+documentos serán sintetizados en un único informe de gestión para la entrega y
+empalme con la nueva administración, el cual contendrá los mismos componentes y
+características de los informes anuales de gestión. Tanto
+los informes de gestión anuales como del período del PGD serán enviados a la
+DNPE para su revisión y ajustes. Una vez consolidadas sus versiones
+definitivas, las mismas se remitirán a la DNPE, la Rectoría y demás
+dependencias universitarias competentes, se publicarán en la página web oficial
+de la VRI y se presentarán al Comité Nacional de Investigación, de acuerdo a lo
+señalado en el artículo 10 de la Resolución 372 de 2007 de Rectoría. 11.2. Informe
+financiero en los informes de gestión de la Vicerrectoría de Investigación El
+informe financiero incluido en los informes de gestión reflejará el estado de
+ejecución del presupuesto del Fondo de Investigación administrado por la VRI,
+las Direcciones adscritas y las Sedes, con indicación de los montos asignados a
+la vigencia o vigencias objeto del informe, los que hayan sido apropiados, los
+saldos pendientes y las variaciones introducidas. Adicionalmente, este balance
+presentará de manera particularizada la información relativa a los siguientes
+aspectos: a) El estado de
+ejecución del presupuesto de la VRI y las Direcciones adscritas. b) El estado de
+ejecución de los recursos del Fondo de Investigación en los niveles de sede,
+facultad, centro e instituto. c) El estado de
+avance en la ejecución de los recursos indicados en el artículo 4 del Acuerdo
+031 de 2006 del CSU. d) El estado de
+ejecución presupuestal de los usos referidos en el artículo 3 del Acuerdo 031
+de 2006 del CSU, con base en la estrategia que se implemente para su
+seguimiento. 11.3. Insumos de
+los informes de gestión de la Vicerrectoría de Investigación Los informes de gestión anuales de la VRI y las Direcciones
+adscritas y los de cierre para entrega a la nueva administración se elaborarán
+con base en los siguientes insumos: a) Los informes remitidos por las sedes en relación con la ejecución
+de los recursos que les hayan sido traslados y hayan apropiado en el marco del
+Plan de Acció n
+de la VRI , y aquellos que administran directamente en
+virtud de lo dispuesto en el Acuerdo 031 de 2006 del CSU y las r esoluciones que lo reglamentan. b) La información obtenida a partir de la labor de seguimiento y
+control a la ejecución técnica y financiera de los proyectos
+de inversión y planes de acción específicos de la VRI
+y las Direcciones adscritas. c) Los informes
+sobre los proyectos, los acuerdos de voluntades y las actividades apoyados
+mediante el mecanismo de destinación específica. d) Los planes de
+mejoramiento adelantados durante la vigencia, los resultados de las mediciones
+o auditorías realizadas y las acciones emprendidas para su resolución o
+atención. 11.4 Mecanismos
+para la gestión de conocimiento de programas, planes y proyectos resultantes
+del Fondo de Investigación. La
+VRI, junto con las Direcciones adscritas, fomentará la gestión del conocimiento
+en los programas, planes y proyectos financiados con recursos del Fondo de
+Investigación en los diferentes niveles. Esto se hará de conformidad con los
+lineamientos institucionales que establezca la UNAL, de tal forma que a través
+del manejo, conservación, transformación, depuración y transmisión del
+conocimiento se fortalezca el aprendizaje organizacional. 11.5. Mecanismos
+adicionales para la socialización de los resultados de la gestión del Fondo de
+Investigación La
+VRI y las Direcciones adscritas, actuando en el marco de sus funciones y
+capacidades, articularán esfuerzos con las dependencias responsables de la
+gestión de los sistemas de información, datos estadísticos y divulgación de la
+Universidad en la adopción de acciones y mecanismos conducentes a socializar y
+visibilizar, internamente, en el país e internacionalmente, los resultados
+derivados de los proyectos y actividades financiados con recursos provenientes
+del Fondo de Investigación. Dada en
+Bogotá, D. C., a los veintiocho (28) días del mes de mayo de 2021 GUSTAVO BUITRAGO HURTADO Vicerrector de Investigación [1] Según
+el artículo 4 del Acuerdo 238 de 2017 del CSU, este Sistema de Planeación
+consiste en el " conjunto de talentos, capacidades, instrumentos, procesos,
+recursos, instancias y autoridades que se articulan adecuadamente con el
+propósito de planear y gestionar el desarrollo institucional a corto, mediano y
+largo plazo, garantizando el cumplimiento de los fines institucionales y se
+caracteriza por su condición unificadora de la planeación estratégica
+institucional y la planeación táctica, señalando de manera armónica y coherente
+la ruta para el desarrollo de la Universidad. Este sistema abarca desde la
+planeación institucional hasta el proceso permanente de rendición pública de
+cuentas ".
