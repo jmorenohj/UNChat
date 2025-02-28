@@ -1,1 +1,8 @@
-*.env
+# Ignorar archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Ignorar configuraciones locales de editores de texto
+.vscode/
+.idea/
