@@ -14,6 +14,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from tqdm import tqdm
 from selenium.common.exceptions import StaleElementReferenceException, TimeoutException
 
+cookie2 = None
+
 # Ocultar warnings innecesarios
 warnings.filterwarnings("ignore", category=UserWarning, module="requests")
 warnings.filterwarnings("ignore", category=DeprecationWarning)
@@ -40,7 +42,8 @@ def iniciar_driver(headless=False):
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--window-size=1920x1080")
     options.add_argument("--log-level=3")  # Oculta warnings de Selenium
-    
+    options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36")
+
 
     print("🌐 Iniciando ChromeDriver... (headless =", headless, ")")  # Debug
     driver = webdriver.Chrome(options=options)
@@ -53,8 +56,6 @@ def iniciar_driver(headless=False):
     }
     driver.add_cookie(cookie)
     return driver
-    
-
 
 # Función para manejar captchas
 def resolver_captcha(driver):
@@ -77,30 +78,32 @@ def resolver_captcha(driver):
         return driver
 
 # Función para obtener HTML con Selenium y manejar `stale element reference`
-def obtener_html_selenium(d_i, tmt, driver):
+def obtener_html_selenium(d_i, tmt, driver, cookie2=None):
     url = BASE_URL.format(d_i, tmt)
-    driver.execute_script("window.open('', '_blank');")  # Crear nueva pestaña vacía
+    driver.execute_script("window.open('', '_blank');")
     driver.switch_to.window(driver.window_handles[-1])
-    driver.get(url)
 
-    driver = resolver_captcha(driver)
+    if cookie2 is None:
+        driver.get(url)
+        cookie2 = driver.get_cookie('JSESSIONID')
+    else:
+        driver.add_cookie(cookie2)
+        driver.get(url)
 
     try:
-        # Intentar obtener el contenido con reintentos
         WebDriverWait(driver, 20).until(
             lambda d: d.find_element(By.ID, "nor_texto").text.strip() != ""
-            )
-
-                # Obtener el HTML final
+        )
         html = driver.page_source
-        
-
     except TimeoutException:
         print(f"⚠ Tiempo de espera agotado para {url}")
         html = None
 
+    driver.close()
+    driver.switch_to.window(driver.window_handles[0])
     driver.quit()
-    return html
+    
+    return html, cookie2  # Devolver también la cookie actualizada
 
 # Función para extraer contenido del div
 def extraer_html_completo(html):
@@ -123,6 +126,7 @@ driver = iniciar_driver(headless=False)
 
 
 with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, ncols=80) as pbar:
+    cookie2 = None
     for categoria, id_tuples in ids_dict.items():
         resultados[categoria] = {}
 
@@ -130,8 +134,14 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
             if (d_i,tmt) in visited:
                 continue
             print(f"📄 Accediendo a d_i: {d_i}, tmt: {tmt}")
+            try:
+                driver.title  # Intentar acceder al título de la página
+            except:
+                print("⚠ ChromeDriver no responde. Reiniciando...")
+                driver.quit()
+                driver = iniciar_driver(headless=False)
 
-            html = obtener_html_selenium(d_i, tmt, driver)
+            html, cookie2 = obtener_html_selenium(d_i, tmt, driver, cookie2)
             contenido_html = extraer_html_completo(html) if html else "⚠ No se pudo obtener el contenido."
             resultados[categoria][(d_i, tmt)] = contenido_html
 
