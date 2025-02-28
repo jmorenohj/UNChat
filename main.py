@@ -3,8 +3,7 @@ import base64
 from dotenv import load_dotenv
 from openai import OpenAI
 import gradio as gr
-from google import genai
-from google.genai import types
+
 
 load_dotenv()
 os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY')

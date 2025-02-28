@@ -32,6 +32,7 @@ BASE_URL = "https://legal.unal.edu.co/rlunal/home/doc.jsp?d_i={}&tmt={}&subtm="
 
 # Función para iniciar Selenium con o sin headless
 def iniciar_driver(headless=False):
+    
     options = webdriver.ChromeOptions()
     if headless:
         options.add_argument("--headless")  # Solo activar si es necesario
@@ -39,8 +40,21 @@ def iniciar_driver(headless=False):
     options.add_argument("--disable-dev-shm-usage")
     options.add_argument("--window-size=1920x1080")
     options.add_argument("--log-level=3")  # Oculta warnings de Selenium
+    
+
     print("🌐 Iniciando ChromeDriver... (headless =", headless, ")")  # Debug
-    return webdriver.Chrome(options=options)
+    driver = webdriver.Chrome(options=options)
+    driver.get("https://legal.unal.edu.co/rlunal/home/")  # Ir a una página dentro del dominio
+    cookie = {
+        'name': 'JSESSIONID',
+        'value': 'C7789F514C88A354AEAFBBBCB3E02741',
+        'domain':'legal.unal.edu.co',
+        'path':'/rlunal'
+    }
+    driver.add_cookie(cookie)
+    return driver
+    
+
 
 # Función para manejar captchas
 def resolver_captcha(driver):
@@ -63,7 +77,7 @@ def resolver_captcha(driver):
         return driver
 
 # Función para obtener HTML con Selenium y manejar `stale element reference`
-def obtener_html_selenium(d_i, tmt):
+def obtener_html_selenium(d_i, tmt, driver):
     url = BASE_URL.format(d_i, tmt)
     driver.execute_script("window.open('', '_blank');")  # Crear nueva pestaña vacía
     driver.switch_to.window(driver.window_handles[-1])
@@ -73,27 +87,13 @@ def obtener_html_selenium(d_i, tmt):
 
     try:
         # Intentar obtener el contenido con reintentos
-        for _ in range(3):  # Reintentar hasta 3 veces en caso de `stale element`
-            try:
-                body = driver.find_element(By.TAG_NAME, "body")
-                for _ in range(3):  # Hacer scroll varias veces
-                    body.send_keys(Keys.PAGE_DOWN)
-                    time.sleep(2)
-
-                # Esperar hasta que el div tenga texto
-                WebDriverWait(driver, 30).until(
-                    lambda d: d.find_element(By.ID, "nor_texto").text.strip() != ""
-                )
+        WebDriverWait(driver, 20).until(
+            lambda d: d.find_element(By.ID, "nor_texto").text.strip() != ""
+            )
 
                 # Obtener el HTML final
-                html = driver.page_source
-                break  # Si no hay error, salir del bucle
-            except StaleElementReferenceException:
-                print("🔄 Elemento cambiado, reintentando extracción...")
-                time.sleep(3)  # Espera antes de reintentar
-                continue
-        else:
-            html = None  # Si después de 3 intentos sigue fallando, devolver None
+        html = driver.page_source
+        
 
     except TimeoutException:
         print(f"⚠ Tiempo de espera agotado para {url}")
@@ -107,7 +107,7 @@ def extraer_html_completo(html):
     soup = BeautifulSoup(html, "html.parser")
     div = soup.find('div', id='nor_texto')
     text = div.get_text(separator=' ', strip=True)
-    print(text)
+
     return text if text else "⚠ No se pudo obtener el contenido."
 
 # Iniciar scraping
@@ -118,6 +118,9 @@ print(f"🔍 Iniciando scraping de {total_documentos} documentos...\n")
 
 with open("visited.pkl", "rb") as f:
     visited = pickle.load(f)
+driver = iniciar_driver(headless=False)
+
+
 
 with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, ncols=80) as pbar:
     for categoria, id_tuples in ids_dict.items():
@@ -128,7 +131,7 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
                 continue
             print(f"📄 Accediendo a d_i: {d_i}, tmt: {tmt}")
 
-            html = obtener_html_selenium(d_i, tmt)
+            html = obtener_html_selenium(d_i, tmt, driver)
             contenido_html = extraer_html_completo(html) if html else "⚠ No se pudo obtener el contenido."
             resultados[categoria][(d_i, tmt)] = contenido_html
 
@@ -141,6 +144,7 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
             print(f"✅ Guardado en {filename}")
             pbar.update(1)
             time.sleep(random.uniform(2, 5))
+         
 
 with open("resultados.json", "w", encoding="utf-8") as f:
     json.dump(resultados, f, ensure_ascii=False, indent=4)
