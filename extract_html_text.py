@@ -65,7 +65,8 @@ def resolver_captcha(driver):
 # Función para obtener HTML con Selenium y manejar `stale element reference`
 def obtener_html_selenium(d_i, tmt):
     url = BASE_URL.format(d_i, tmt)
-    driver = iniciar_driver(headless=False)
+    driver.execute_script("window.open('', '_blank');")  # Crear nueva pestaña vacía
+    driver.switch_to.window(driver.window_handles[-1])
     driver.get(url)
 
     driver = resolver_captcha(driver)
