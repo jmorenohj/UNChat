@@ -1,8 +1,3 @@
-# Ignorar archivos de entorno
+# .gitignore
 .env
-.env.local
-.env.*.local
-
-# Ignorar configuraciones locales de editores de texto
-.vscode/
-.idea/
+.gradio/
