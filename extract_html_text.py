@@ -123,6 +123,8 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
         resultados[categoria] = {}
 
         for d_i, tmt in id_tuples:
+            if (d_i,tmt) in visited:
+                continue
             print(f"📄 Accediendo a d_i: {d_i}, tmt: {tmt}")
 
             html = obtener_html_selenium(d_i, tmt)
@@ -132,7 +134,7 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
             filename = f"documentos/{categoria}-{d_i}-{tmt}.txt"
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(contenido_html)
-            visited.add(id_tuples)
+            visited.add((d_i,tmt))
             with open('visited.pkl', 'wb') as file:
                 pickle.dump(visited, file)
             print(f"✅ Guardado en {filename}")
