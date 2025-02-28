@@ -1,0 +1,629 @@
+RESOLUCIÓN 207 DE 2021 (16 de abril) " Por
+la cual se establece la Política de Tratamiento de
+Datos Personales de la Universidad Nacional de Colombia y se
+deroga la Resolución No. 440 de 2019 de Rectoría " LA RECTORA DE LA UNIVERSIDAD NACIONAL DE COLOMBIA En uso de sus facultades
+legales y estatutarias, y en especial, las conferidas en los numerales 2 y 18
+del Artículo 16 del Acuerdo No. 011 de 2005 del Consejo Superior Universitario,
+y CONSIDERANDO: 1. Que la Ley 1581 de 2012, la cual tiene por objeto desarrollar el
+derecho constitucional que tienen todas las personas a
+conocer, actualizar y rectificar las informaciones que se hayan recogido sobre
+ellas en bases de datos o archivos , y los demás derechos, libertades y
+garantías constitucionales a que se refiere el artículo 15 de la Constitución
+Política. 2. Que
+el Decreto 1074 de 26 mayo de 2015, Único Reglamentario del Sector Comercio, Industria y Turismo , en su Artículo 2.2.2.25.3.1., de Políticas de
+Tratamiento de la información, establece que los responsables del tratamiento
+deberán desarrollar sus políticas para el tratamiento de los datos personales y
+velar porque los encargados del tratamiento den cabal cumplimiento a las
+mismas. 3. Que
+el Decreto 1074 de 2015, en su Artículo 2.2.2.26.1.1. y
+siguientes reglamenta el artículo 25 de la Ley 1581 de 2012, en lo relativo al
+Registro Nacional de Bases de Datos y establece que los responsables del
+tratamiento de la información personal deben inscribir sus bases de datos en
+dicho Registro. 4. Que
+la Resolución 440 de 2019 de la Rectoría de la Universidad Nacional de Colombia
+adoptó la Política de Tratamiento de Datos Personales de la Universidad
+Nacional de Colombia y definió los responsables de su implementación, de
+obligatorio cumplimiento en el tratamiento de datos personales y bases de datos
+en la Institución. 5. Que
+se busca velar porque el tratamiento de los datos cumpla con los fines para su uso
+ por la Universidad, tales como: la Gestión de Ofertas, Servicios e Información
+Institucional y Académica, Gestión Administrativa - Financiera, Gestión de
+Tratamiento de Datos Sensibles, Gestión de Datos de Historias Clínicas, Gestión
+de Riesgos y Emergencias, Urgencias Médicas o Sanitarias, Gestión Plataformas
+WEB y Aplicaciones Tecnológicas, Gestión de Datos Biométricos - Imágenes y
+Video, Gestión de Actividades de Investigación y de Extensión. 6. Que
+se hace necesaria una actualización y modificación a la Política de Tratamiento
+de Datos Personales de la Universidad Nacional de Colombia establecida en la
+Resolución No. 440 de 2019 de la Rectoría, respecto  del ámbito de aplicación
+de la Política de Tratamiento de Datos Personales de la Universidad
+Nacional de Colombia , en lo relativo al responsable de la Política
+de tratamiento de datos y líder de la
+atención de consultas reclamos y solicitudes, así como establecer con precisión
+lo relativo a las autorizaciones del titular de la información, la legitimación
+de los derechos de los titulares, la inclusión de lo referente al aviso de
+privacidad, de acuerdo con las recomendaciones proporcionadas por la
+Superintendencia de Industria y Comercio, a través de las diferentes guías de Implementación,
+para fortalecer el Régimen de Protección de Datos de la Universidad Nacional de
+Colombia en toda su documentación Técnica. Que, en mérito
+de lo expuesto, RESUELVE ARTÍCULO 1. OBJETO: Adoptar la Política de Tratamiento de Datos Personales de la
+Universidad Nacional de Colombia como lineamientos base para establecer el
+debido proceso para la recolección, uso y tratamiento de los datos personales
+por parte de la Universidad Nacional de Colombia, así como el ejercicio de los
+derechos por parte del titular de estos datos, la cual hará parte integral de
+la presente Resolución. ARTÍCULO 2. ÁMBITO DE APLICACIÓN. Los lineamientos previstos en "la Política de
+Tratamiento de Datos Personales de la Universidad Nacional de Colombia"
+serán de obligatorio cumplimiento por parte de las personas naturales y
+jurídicas que tengan algún vínculo laboral, contractual o académico con la
+Universidad Nacional de Colombia y que en el ejercicio de sus actividades o
+funciones deban tratar datos personales y decidir sobre bases de datos y/o su
+tratamiento (Encargados y Responsables del Tratamiento). ARTÍCULO 3. PROCESO DE IMPLEMENTACIÓN: El proceso de implementación de la Política de
+Tratamiento de Datos Personales estará a cargo de la Vicerrectoría General,
+quien impartirá las directrices necesarias con el fin de que los encargados del
+tratamiento de los datos personales en la Universidad cumplan a cabalidad con
+los lineamientos definidos en la política , así como la implementación de buenas prácticas de gestión de datos
+personales. ARTÍCULO 4. PUBLICACIÓN: La Secretaría General publicará el contenido de la presente
+Resolución, en el Sistema de Información Normativa, Jurisprudencial y de
+Conceptos - Régimen Legal de la Universidad Nacional de Colombia. ARTICULO 5.
+DEROGATORIA: El presente acto
+administrativo deroga la Resolución de Rectoría No. 440 de 2019 y las demás
+disposiciones que le sean contrarias. ARTICULO 6.
+VIGENCIA: La presente Resolución rige
+a partir de la fecha de su publicación en el Sistema de Información Normativa,
+Jurisprudencial y de Conceptos Régimen Legal de la Universidad Nacional de
+Colombia. PUBLÍQUESE Y CÚMPLASE Dada en Bogotá D.C., a los  dieciséis (16) días del
+mes abril de 2021 DOLLY
+MONTOYA CASTAÑO Rectora POLÍTICA DE
+TRATAMIENTO DE DATOS PERSONALES DE LA UNIVERSIDAD NACIONAL DE COLOMBIA La Universidad Nacional de Colombia, comprometida con el respeto
+de los Derechos de los titulares en el Tratamiento de Datos Personales, adopta
+la presente política con el fin de dar cumplimiento a la regulación vigente y
+definir el marco de tratamiento de los datos de carácter personal que recoja,
+almacene, use y circule de conformidad con lo dispuesto en la Ley Estatutaria
+1581 de 2012 y el Decreto 1074 de 2015, Único Reglamentario del Sector Comercio, Industria y Turismo y demás normas concordantes. I. IDENTIFICACIÓN RESPONSABLE DEL TRATAMIENTO DE DATOS PERSONALES: Actuará como Responsable del Tratamiento de Datos Personales, la
+Universidad Nacional de Colombia, ente universitario autónomo, vinculado al
+Ministerio de Educación Nacional, con régimen especial y definida como una
+Universidad Nacional, Pública y del Estado cuyo objetivo es el desarrollo de la
+educación superior y la investigación, la cual será fomentada por el Estado
+permitiendo el acceso a ella y desarrollándola a la par de las ciencias y las
+artes para alcanzar la excelencia. DIRECCIÓN: Carrera 45 No. 26-85 - Edificio Uriel Gutiérrez, Bogotá
+D.C. CORREO ELECTRÓNICO: protecdatos_na@unal.edu.co TELEFÓNO DEL RESPONSABLE: (+57 1) 316 5000 II. MARCO LEGAL El Tratamiento de Datos Personales debe realizarse respetando las
+normas generales y especiales sobre la materia y para actividades permitidas de
+acuerdo al artículo 15 de la Constitución Política de Colombia, que establece
+que todas las personas tienen derecho a conocer, actualizar y rectificar las
+informaciones que se hayan recogido sobre ellas en bancos de datos, por persona
+natural o jurídica y en archivos de entidades públicas y privadas. Marco normativo y de referencia legal de Colombia: · Artículo 15 de la Constitución Política de Colombia. · Ley Estatutaria 1266 de 2008. · Ley 1273 de 2009. · Ley Estatutaria 1581 de 2012. · Decreto 1074 de 2015 -Decreto Único Reglamentario del Sector
+Comercio, Industria y Turismo, en el cual se encuentran compilados los Decretos Reglamentarios 1727
+de 2009, 2952 de 2010, 1377 de 2013 y 886 de 2014 III. ÁMBITO DE APLICACIÓN La presente Política será aplicable a los datos personales
+registrados en archivos o cualquier base de datos de la Universidad Nacional de
+Colombia cuyo titular sea una persona natural. Esta Política de Tratamiento de Protección de Datos Personales,
+aplica a todos los colaboradores en todos los niveles e instancias, con los que
+la Universidad Nacional de Colombia establezca alguna relación académica,
+profesional, comercial, laboral y todas las demás relacionadas con el desarrollo
+de los fines de la Universidad Nacional de Colombia en
+desarrollo de las funciones propias. Así mismo, esta Política es de estricto
+cumplimiento para todos los encargados del tratamiento de las bases de datos e
+implica estricta confidencialidad en relación con los datos tratados. IV. DEFINICIONES Para una mejor compresión de la presente política de Tratamiento
+de Datos Personales conforme a la legislación vigente, nos permitimos
+relacionar los siguientes términos para los diferentes grupos de interés. AUTORIZACIÓN: Consentimiento previo, expreso
+e informado del titular para llevar a cabo el Tratamiento de Datos Personales. AVISO DE PRIVACIDAD : Comunicación
+verbal o escrita generada por el responsable del Tratamiento de Datos
+Personales y dirigida a quien se le va a realizar dicho tratamiento, en la cual
+se le informa acerca de la existencia de las políticas que le serán aplicables
+y la forma de acceder a las mismas, así como las finalidades que se pretende
+dar a los datos personales . BASE DE DATOS: Conjunto organizado de datos
+personales bien sea en medio físico o en medio electrónico que sea objeto de
+tratamiento. CONFIDENCIALIDAD : Característica que posee cualquier información no divulgada de
+una persona natural o jurídica que no entra dentro del ámbito de la naturaleza
+pública. CONTRATISTA: Persona natural o jurídica que
+se contrata para la prestación de servicios de acuerdo a las necesidades del
+contratante, por un valor determinado, asumiendo todos los riesgos, para prestar
+tales servicios con sus propios medios y con libertad y autonomía técnica y
+directiva. DATO PERSONAL: Cualquier información vinculada
+o que pueda asociarse a una o varias personas naturales determinadas o
+determinables. DATO PÚBLICO : Es el dato
+calificado como tal según los mandatos de la ley o de la Constitución Política
+y todos aquellos que no sean semiprivados o privados de conformidad con la ley.
+Son públicos, entre otros, los datos contenidos en documentos públicos,
+sentencias judiciales debidamente ejecutoriadas que no estén sometidos a
+reserva y los relativos al estado civil de las personas. DATO SEMIPRIVADO : Es el dato que no tiene naturaleza íntima, reservada, ni pública
+y cuyo conocimiento o divulgación puede interesar no sólo a su titular sino a
+cierto sector o grupo de personas o a la sociedad en general, como el dato
+financiero y crediticio de actividad comercial. DATO PRIVADO : Es el dato
+que por su naturaleza íntima o reservada sólo es relevante para el titular. DATOS SENSIBLES : Aquellos datos que afectan la intimidad del titular o cuyo uso
+indebido puede generar su discriminación, como aquellos que revelen el origen
+racial o étnico, la orientación política, las convicciones religiosas, filosóficas o discapacidad, la pertenencia a sindicatos,
+organizaciones sociales, de Derechos humanos o que promueva intereses de
+cualquier partido político o que garanticen los Derechos y garantías de
+partidos políticos de oposición, así como los datos relativos a la salud, a la
+vida sexual y los datos biométricos; la información genética, los que revelen
+ideologías y los hábitos de las personas, el domicilio, las cartas, las
+conversaciones telefónicas, las relaciones personales de índole estrecha o
+aquello cuyo conocimiento esté reservado exclusivamente a los miembros de una determinada
+relación jurídica, así como los defectos o imperfecciones físicas, el ámbito de
+las creencias y la conciencia y las peculiaridades de la individualidad de la
+persona. ENCARGADO DEL TRATAMIENTO : Persona natural o jurídica, pública o privada que por sí misma o
+en asocio con otros, realice el Tratamiento de Datos Personales por cuenta del responsable
+del tratamiento. HABEAS DATA : Derecho constitucional que
+tienen todas las personas a conocer, incluir, actualizar, rectificar o corregir
+y excluir las informaciones que se hayan recogido sobre ellas en bases de datos
+o archivos, y los demás derechos, libertades y garantías a que se refiere el
+artículo 15 de la Constitución Política. INFORMACIÓN : Conjunto organizado de datos
+generados, obtenidos, adquiridos, transformados o controlados que constituyen
+un mensaje sin importar el medio que lo contenga (digital o no digital). LÍDER DE TRATAMIENTO DE DATOS : Dependencia
+que asume al interior de la Universidad, la actividad de articular los
+lineamientos para el Tratamiento de Datos Personales y gestión del
+procedimiento de consultas, reclamos y solicitudes de los titulares para el
+ejercicio de los Derechos a que se refiere la Ley 1581 de 2012, sus Decretos
+reglamentarios y las Circulares Externas expedidas por la Superintendencia de
+Industria y Comercio, y demás normas o disposiciones que la modifiquen,
+complementen o reemplacen. Para el caso de la Universidad Nacional de Colombia,
+el líder de tratamiento de datos será la Vicerrectoría General. OFICIAL DE TRATAMIENTO DE DATOS : Persona
+encargada dentro de la Entidad, que depende del Líder de Tratamiento de Datos
+Personales, que tiene como fin velar por la implementación efectiva de las
+políticas y procedimientos adoptados para cumplir las normas de Tratamiento de
+Datos Personales, así como la implementación de buenas prácticas de gestión de
+datos personales dentro de la Entidad, bajo la orientación y lineamientos del
+Líder de Tratamiento de Datos Personales. Responsable del Tratamiento : La Universidad Nacional de Colombia es responsable del
+tratamiento de los datos cuando por sí misma o en asocio con otras compañías,
+instituciones o entidades decida sobre las bases de datos y/o el tratamiento de
+los datos personales de los Titulares. RIESGO : Representa la posibilidad de ocurrencia de un
+evento, cuyas consecuencias negativas puedan entorpecer el normal desarrollo de
+las funciones de la Universidad, afectando el logro de sus objetivos. TITULAR : Persona natural cuyos datos personales son objeto de
+Tratamiento. TRATAMIENTO : Cualquier operación o conjunto
+de operaciones sobre datos personales, tales como la recolección,
+almacenamiento, uso, circulación o supresión. TRANSFERENCIA DE DATOS : Tiene lugar cuando
+el responsable y/o encargado del Tratamiento de Datos Personales, ubicado en
+Colombia, envía la información o los datos personales a un receptor, que a su
+vez es responsable del tratamiento y se encuentra dentro o fuera del país. TRANSMISIÓN: Tratamiento de Datos Personales
+que implica la comunicación de los mismos dentro o fuera del territorio de la
+República de Colombia cuando tenga por objeto la realización de un tratamiento
+por el encargado por cuenta del responsable. TERCERO : Persona natural o jurídica que interactúa con la Universidad
+para el ejercicio de actividades o funciones propias de una relación
+contractual o en el marco de un convenio de cooperación o por actividades
+adelantadas por entes de vigilancia, control y/o certificación. V. PRINCIPIOS En el desarrollo, interpretación y aplicación de la presente
+política, se aplicarán de manera armónica e integral, los principios previstos
+en la Ley 1581 de 2012 sin perjuicio de otros propios de la administración de
+datos: PRINCIPIO DE LEGALIDAD : El Tratamiento de
+Datos Personales realizado por la Universidad Nacional de Colombia se sujetará
+a lo establecido en la Constitución, la Ley y las demás disposiciones que la
+desarrollen. PRINCIPIO DE FINALIDAD : El tratamiento de
+los datos recolectados por la Universidad Nacional de Colombia obedece al
+propósito específico y explícito autorizado por el titular y permitido por la
+ley, para lo cual se informará al titular del dato de manera clara, suficiente
+y previa acerca de la finalidad de la información suministrada. En caso de ser
+necesario modificar el uso de los datos personales, se deberá obtener
+nuevamente el consentimiento previo del titular. PRINCIPIO DE LIBERTAD : Para ejercer el tratamiento de los datos personales de
+los titulares de la Universidad Nacional de Colombia , previamente se requiere el consentimiento expreso e
+informado de su Titular, incluso para los datos previstos en el artículo 10 de
+la Ley 1581 de 2012, sin perjuicio de la prevalencia de los principios de
+protección de datos personales. Los datos personales no podrán ser
+obtenidos o divulgados sin el previo consentimiento del titular, o en ausencia
+de mandato legal o judicial que releve el consentimiento. PRINCIPIO DE VERACIDAD O CALIDAD : La información sujeta a Tratamiento debe ser veraz,
+completa, exacta, actualizada, comprobable y comprensible. Se prohíbe el
+tratamiento de datos parciales, incompletos, fraccionados o que induzcan a
+error. La Universidad Nacional de Colombia adoptará las medidas razonables para asegurar que los datos sean precisos y
+suficientes y, cuando así lo solicite el Titular o cuando la Universidad
+Nacional de Colombia lo determine y sea procedente, serán actualizados,
+rectificados o suprimidos. PRINCIPIO DE TRANSPARENCIA: L a Universidad garantiza el derecho del titular de
+obtener, en cualquier momento y sin restricción, información acerca de la
+existencia de sus datos objeto de tratamiento. PRINCIPIO DE ACCESO Y CIRCULACIÓN RESTRINGIDA: El tratamiento se sujeta a los límites que se derivan de la
+naturaleza de los datos personales, de las disposiciones de la Ley y la
+Constitución. En este sentido, el tratamiento sólo podrá hacerse por personas
+autorizadas por el titular y/o por las personas previstas en la ley. Los datos personales, salvo la información pública, no podrán
+estar disponibles en internet u otros medios de divulgación o comunicación
+masiva, salvo que el acceso sea técnicamente controlable para brindar un
+conocimiento restringido sólo a los titulares o terceros autorizados conforme a
+la ley. PRINCIPIO DE SEGURIDAD : Los datos
+personales e información usada, capturada, recolectada y sujeta a tratamiento
+por la Universidad Nacional de Colombia será objeto de protección a través de
+la adopción de medidas técnicas, humanas y administrativas necesarias para
+otorgar seguridad a los registros evitando su adulteración, pérdida, consulta,
+uso o acceso no autorizado o fraudulento, para lo cual se atenderá a lo
+dispuesto en el Acuerdo 228 de 2016 del Consejo Superior Universitario,
+"Pol í tica de Seguridad Inform á tica y de la Informaci ó n de la Universidad Nacional de Colombia". PRINCIPIO DE CONFIDENCIALIDAD: El personal
+de la Universidad Nacional de Colombia que intervenga en el Tratamiento de
+Datos Personales que no tengan la naturaleza de públicos está obligado a
+garantizar la reserva de la información, inclusive después de finalizada su
+relación con alguna de las labores que comprende el tratamiento, pudiendo sólo
+realizar suministro o comunicación de datos personales cuando ello corresponda
+al desarrollo de las actividades autorizadas por la ley y en los términos de la
+misma. PRINCIPIO DE INTERPRETACIÓN INTEGRAL DE DERECHOS CONSTITUCIONALES : Se deberá amparar adecuadamente los Derechos constitucionales de
+los titulares, como son el hábeas data, el derecho al buen nombre, el derecho a
+la honra, el derecho a la intimidad y el derecho a la información. Los Derechos
+de los titulares se interpretarán en armonía y en un plano de equilibrio con el
+derecho a la información previsto en el artículo 20 de la Constitución y con
+los demás Derechos constitucionales aplicables. VI. DERECHOS QUE LE ASISTEN AL TITULAR DE LA INFORMACIÓN La Universidad Nacional de Colombia garantiza al titular de los
+datos personales los siguientes Derechos: a) Conocer, incluir, actualizar, rectificar o corregir, excluir o
+solicitar la supresión de sus datos personales frente a la Universidad, en su
+condición de responsable del Tratamiento. Este derecho se podrá ejercer, entre
+otros, frente a datos parciales, inexactos, incompletos, fraccionados, que
+induzcan a error, o aquellos cuyo tratamiento esté expresamente prohibido o no
+haya sido autorizado en los términos de la Ley 1581 de 2012. b) Solicitar la prueba de autorización otorgada a la Universidad
+Nacional de Colombia salvo cuando expresamente se exceptúe como requisito para
+el tratamiento (casos en los cuales no es necesaria la autorización). c) Ser informado en cualquier momento por la Universidad Nacional de
+Colombia o el Encargado del Tratamiento, previa solicitud, respecto del uso que
+se ha dado a sus datos personales. d) Presentar ante la Superintendencia de Industria y Comercio quejas
+por infracciones a lo dispuesto en la Ley 1581 de 2012 y las demás normas que
+la modifiquen, adicionen o complementen. El titular debe tener en cuenta que
+previamente deberá agotar el trámite de reclamo o consulta ante la Universidad
+Nacional de Colombia. e) Revocar la autorización y/o solicitar la supresión del dato cuando
+en el tratamiento no se respeten los principios, derechos y garantías
+constitucionales y legales o en virtud de su solicitud libre y voluntaria. La
+solicitud de supresión de la información y la revocatoria de la autorización no
+procederán cuando el titular tenga un deber legal o contractual de permanecer
+en las bases de datos de la Universidad Nacional de Colombia. f) Acceder en forma gratuita a sus datos personales objeto de
+tratamiento a través de los canales dispuestos por la Universidad Nacional de
+Colombia para tal fin. Los Derechos de los Titulares antes relacionados, podrán ejercerse
+por las siguientes personas: a) Por el Titular, quien deberá acreditar su identidad en forma suficiente
+por los distintos medios que le ponga a disposición la Universidad Nacional de
+Colombia. b) Por sus causahabientes, quienes deberán acreditar tal calidad. c) Por el representante y/o apoderado del Titular, previa
+acreditación de la representación o apoderamiento. d) Por estipulación a favor de otro o para otro. VII. DEBERES DE LA UNIVERSIDAD COMO RESPONSABLE Y ENCARGADA DEL
+TRATAMIENTO DE DATOS PERSONALES En virtud de esta Política, a la Universidad Nacional de Colombia
+le corresponderá en calidad de Responsable y Encargada del Tratamiento de Datos
+Personales, cumplir los siguientes deberes, sin perjuicio de las disposiciones
+previstas en la Ley: a) Garantizar al titular, en todo tiempo, el pleno y efectivo
+ejercicio del derecho de habeas data. b) Solicitar y conservar copia de la respectiva autorización otorgada
+por el titular en el formato en la que fue registrada. c) Informar debidamente al titular sobre la finalidad de la
+recolección y los Derechos que le asisten en virtud de la autorización
+otorgada. d) Respetar y conservar la información, bajo las condiciones de
+seguridad y privacidad de la información del titular, necesarias para impedir
+su adulteración, pérdida, consulta, uso o acceso no autorizado o fraudulento. e) Garantizar que la información que suministre al Encargado del
+Tratamiento sea veraz, completa, exacta, actualizada, comprobable, comprensible
+y que se trate de datos cuyo tratamiento estén previamente autorizados de
+conformidad con la Ley y la presente política. f) Realizar oportunamente la actualización, rectificación o supresión
+de la información, atendiendo de esta forma todas las novedades respecto de los
+datos del titular e implementar todas las medidas necesarias para que la
+información se mantenga actualizada. g) Tramitar las consultas, reclamos y solicitudes formuladas por los
+Titulares, en los términos señalados por la Ley. h) Informar al Encargado del Tratamiento cuando determinada
+información se encuentre en discusión por parte del Titular, una vez se haya
+presentado reclamación y no haya finalizado el trámite respectivo. i) Informar a solicitud del titular sobre el uso dado a sus datos. j) Informar a la autoridad de protección de datos de la Universidad
+cuando se presenten violaciones a los códigos de seguridad y existan riesgos en
+la administración de la información de los titulares. k) Cumplir con las instrucciones y requerimientos que imparta la
+Superintendencia de Industria y Comercio. l) En calidad de Encargada del Tratamiento, actualizar la información
+reportada por los responsables del tratamiento, dentro de los cinco (5) días
+hábiles contados a partir de su recibo. m) Registrar en la base de datos la leyenda "Reclamo en
+Trámite" en la forma legalmente establecida. n) Insertar en la base de datos la leyenda "Información en
+discusión judicial", una vez sea notificado por parte de la autoridad
+competente un proceso judicial relacionado con la calidad del dato personal. o) Abstenerse de circular información que esté siendo controvertida
+por el Titular y cuyo bloqueo haya sido ordenado por la Superintendencia de
+Industria y Comercio. p) Permitir el acceso a la información únicamente a las personas que
+pueden tener acceso a ella, según lo previsto en el literal j) artículo 18 de
+la Ley 1581 de 2012. q) Cumplir los requerimientos e instrucciones que imparta la
+Superintendencia de Industria y Comercio sobre el tema en particular e informar
+cuando se presenten violaciones a los códigos de seguridad y existan riesgos en
+la administración de la información de los titulares. r) Usar únicamente datos cuyo tratamiento esté previamente autorizado
+de conformidad con lo previsto en la Ley 1581 de 2012. VIII. AUTORIZACIón DEL TITULAR Los datos personales que han sido suministrados y autorizados por
+los titulares a la Universidad Nacional de Colombia,  ya sea por cualquier
+medio escrito, verbal, físico o electrónico, o a través de acciones inequívocas
+al ingresar de manera voluntaria a las instalaciones, o cuando navegan en los
+canales tecnológicos (WEB, apps, etc.) de la Institución, de acuerdo con los
+avisos de privacidad y seguridad difundidos en los diferentes canales, aceptan
+el tratamiento de los mismos y autorizan su uso a la Universidad Nacional de
+Colombia, conforme a las finalidades descritas en esta Política y a lo
+establecido en la Ley 1581 de 2012. La Universidad Nacional de Colombia utilizará los mecanismos
+adecuados, e implementará y adoptará las acciones tendientes y necesarias para
+mantener registro o mecanismos técnicos o tecnológicos idóneos de cuándo y cómo
+obtuvo autorización por parte de los titulares de datos personales para el
+tratamiento de los mismos. Para dar cumplimiento a lo anterior, se podrán
+establecer archivos físicos o repositorios electrónicos realizados de manera
+directa o a través de terceros contratados para tal fin. La autorización del titular de la información no será necesaria en
+los siguientes casos: a) Informaci ó n requerida por una entidad p ú blica o administrativa en ejercicio de sus funciones legales o por
+orden judicial. b) Datos de naturaleza p ú blica. c) Casos de urgencia m é dica o sanitaria. d) Tratamiento de informaci ó n autorizado por la ley para fines hist ó ricos, estad í sticos o cient í ficos. e) Datos relacionados con el Registro Civil de las personas. No obstante, aún en los casos de los literales mencionados aplica
+la autorización sin perjuicio de la prevalencia de los principios de protección
+de datos personales, según lo dispuesto por la Corte Constitucional mediante
+Sentencia C-748 del 06 de octubre de 2011. IX. AVISO DE PRIVACIDAD El AVISO DE
+PRIVACIDAD es la comunicación verbal, escrita o electrónica que es puesta a
+disposición del Titular para darle a conocer la información, existencia y las
+formas de acceder a la política de Tratamiento de Datos Personales que le serán
+aplicables. La Universidad Nacional de Colombia al momento de recolectar o
+capturar los datos personales, implementará el aviso de privacidad, de
+conformidad con lo previsto en los artículos 2.2.2.25.3.2. y 2.2.2.25.3.3. del Decreto 1074 de 2015 -Decreto Único Reglamentario del Sector
+Comercio, Industria y Turismo. El Aviso de Privacidad, como mínimo, deberá contener la siguiente
+información: a) Nombre o razón social y datos de contacto del responsable del
+tratamiento. b) La finalidad de la recolección de los datos y el tipo de
+tratamiento al que serán sometidos. c) Los Derechos que tiene el titular de la información. d) Los mecanismos y canales de atención dispuestos por el responsable
+de los datos para que el titular conozca la política y acceda a sus Derechos Constitucionales. e) En caso de que la organización o el responsable recolecte datos
+personales sensibles tales como el origen racial o étnico, orientación sexual,
+filiación política o religiosa, etc.; debe explicarle al titular de los datos
+el carácter sensible que posee este tipo de información y, además, debe darle
+la opción de elegir si responde o brinda estos datos. Para la difusión del aviso de privacidad y de la Política de
+Tratamiento de Datos Personales, el responsable podrá valerse de documentos,
+formatos electrónicos, medios verbales o cualquier otra tecnología, siempre y
+cuando garantice y cumpla con el deber de informar al titular. X. TRATAMIENTO AL CUAL SERÁN SOMETIDOS LOS DATOS Y FINALIDAD DEL
+MISMO El tratamiento para los datos personales indispensables de
+aspirantes, estudiantes, egresados, docentes, trabajadores, empleados,
+ex-empleados, pensionados, beneficiarios, proveedores o contratistas, o de
+cualquier persona con la cual la Universidad Nacional de Colombia tuviere
+establecida o establezca una relación permanente u ocasional, se realizará en
+el marco legal y en virtud de su condici ó n de Instituci ó n de Educaci ó n Superior, y ser á n todos los
+datos necesarios para el cumplimiento de la misi ó n institucional de docencia, investigaci ó n y extensi ó n. Además de lo anterior, y en todo caso, los datos personales podrán
+ser recolectados y tratados para los siguientes fines: a) Gestión de Ofertas, Servicios e Información Institucional y
+Académica La Universidad Nacional de Colombia realizará Tratamiento de Datos
+Personales para la promoción y difusión de programas educativos; desarrollo de
+los procesos académicos; institucionales; actividades y prácticas que realicen
+los investigadores de la Universidad o un tercero, ya sea en calidad de
+investigador o profesor; actividades científicas; bienestar universitario;
+prácticas profesionales; financiación; biblioteca; becas y ayudas económicas;
+relaciones internacionales; movilidad internacional; participación en eventos o
+concursos (académicos, culturales, recreativos, deportivos); congresos y/o
+seminarios; relacionamiento de egresados y graduados; difusión de información a
+través de los medios de comunicación de la Universidad; temas publicitarios,
+comerciales; investigativos y de extensión, estadísticos, y de mercadeo;
+inteligencia de mercados y mediciones de percepción y satisfacción; marketing
+digital; networking y, en general, para todas las actividades que se enmarquen
+dentro de los fines de la Universidad, así como para los titulares que sean
+objeto de tratamiento como: aspirantes, estudiantes, egresados, docentes,
+trabajadores, empleados, ex-empleados, pensionados, beneficiarios, proveedores
+o contratistas y demás que tuvieren establecida o establecieren una relación
+permanente u ocasional con la Universidad Nacional de Colombia. b) Gestión Administrativa - Financiera La Universidad realizará Tratamiento de Datos Personales para el
+envío de información de procesos de selección y/o oportunidades de empleos,
+convocatorias, procesos de contratación; afiliación al Sistema de Seguridad
+Social Integral (Salud, Pensión y Riesgos Laborales); implementación del
+Sistema de Seguridad y Salud en el Trabajo; gestión de proveedores y
+contratistas bajo el cumplimiento normativo; ejecución de convenios con
+terceros para el otorgamiento de beneficios; pago de nómina, bienestar
+organizacional; afiliación a cajas de compensación familiar; fondo de
+empleados; ofrecimiento de programas educativos; becas y ayudas económicas;
+participación en eventos o concursos (académicos, culturales, recreativos,
+deportivos), actividades académicas e investigativas y de extensión, congresos
+y/o seminarios; información de gestión médica y salud; difusión de información
+a través de los medios de comunicación de la Universidad; temas publicitarios,
+comerciales, investigativos, estadísticos, de mercadeo; inteligencia de
+mercados y mediciones de percepción y satisfacción; marketing digital;
+networking y, en general, para todas las actividades que se enmarquen dentro
+del objeto social de la universidad, así como para los titulares que sean
+objeto de tratamiento como: aspirantes, estudiantes, egresados, docentes,
+trabajadores, empleados, ex-empleados, pensionados, beneficiarios, proveedores
+o contratistas y demás que tuvieren establecida o establezcan una relación
+permanente u ocasional con la Universidad Nacional de Colombia. c) Gestión de Tratamiento de Datos Sensibles El Tratamiento de los Datos Sensibles está prohibido, excepto
+cuando: 1. El Titular haya dado su autorización explícita a dicho
+Tratamiento, salvo en los casos que por ley no sea requerido el otorgamiento de
+dicha autorización; 2. El Tratamiento sea necesario para salvaguardar el interés vital
+del Titular y este se encuentre física o jurídicamente incapacitado. En estos
+eventos, los representantes legales deberán otorgar su autorización; 3. El Tratamiento sea efectuado en el curso de las actividades
+legítimas y con las debidas garantías por parte de una fundación, ONG,
+asociación o cualquier otro organismo sin ánimo de lucro, cuya finalidad sea
+política, filosófica, religiosa o sindical, siempre que se refieran
+exclusivamente a sus miembros o a las personas que mantengan contactos
+regulares por razón de su finalidad. En estos eventos, los datos no se podrán
+suministrar a terceros sin la autorización del Titular; 4. El Tratamiento se refiera a datos que sean necesarios para el
+reconocimiento, ejercicio o defensa de un derecho en un proceso judicial; 5. El Tratamiento tenga una finalidad histórica, estadística o
+científica. En este evento deberán adoptarse las medidas conducentes a la
+supresión de identidad de los Titulares. En los anteriores eventos es posible el Tratamiento de los Datos
+Personales, siempre y cuando se cumplan las siguientes obligaciones: 1. Informar al titular que por tratarse de datos sensibles no está
+obligado a autorizar su Tratamiento. 2. Informar al titular de forma explícita y previa, además de los
+requisitos generales de la autorización para la recolección de cualquier tipo
+de dato personal, cuáles de los datos que sean objeto de Tratamiento son
+sensibles y la finalidad del Tratamiento, así como obtener su consentimiento
+expreso. Se aclara que el suministro de datos personales sensibles no puede
+condicionar ninguna actividad. d) Gestión de Tratamiento de Datos de Menores de Edad El Tratamiento de datos personales de niños, niñas y adolescentes
+está prohibido, excepto cuando se trate de datos de naturaleza pública, de
+conformidad con lo establecido en el artículo 7 de la Ley 1581 de 2012 y cuando
+dicho Tratamiento cumpla con los siguientes parámetros y requisitos: 1. Que la finalidad del tratamiento responda al interés superior de
+los niños, niñas y adolescentes. 2. Que se asegure el respeto de sus derechos fundamentales de los
+niños, niñas y adolescentes. 3. De acuerdo con la madurez, autonomía y capacidad para entender el
+asunto, se debe tener en cuenta la opinión del el niño, niña o adolescente. 4. Que se cumpla con los principios previstos en la Ley 1581 de 2012
+para el tratamiento de datos personales. Cumplidos los anteriores requisitos, el representante legal del
+niño, niña o adolescente otorgará la autorización respetando la opinión del
+menor de edad. e) Gestión de Datos de Historias Clínicas La Universidad Nacional de Colombia recolecta información en
+general y de terceros no vinculados con la Universidad Nacional de Colombia, cuando
+son utilizados los servicios de salud. Las finalidades de la recolección de
+datos personales de esta base de datos son: Resolver
+las necesidades de orientación, información, educación y atención básica de las
+necesidades en salud de los usuarios garantizando sus derechos y guiándolos en
+el cumplimiento de sus deberes. Buscando el mejoramiento de su estado de salud
+a través de una Medicina Preventiva. f) Gestión de Riesgos y Emergencias, Urgencias Médicas o Sanitarias Para realizar una adecuada gestión de riesgos que permita atender
+de manera oportuna y adecuada emergencias que puedan afectar la integridad
+física de las personas, es necesario tener en tiempo real información de las
+personas que se encuentren en el desarrollo de nuestras actividades que permita
+su análisis. De igual manera, se requiere la recolección y uso de datos en caso
+de urgencia médica o sanitaria, entendiendo que todos los datos sobre la salud
+de las personas son información sensible y su tratamiento
+requiere mayores medidas de seguridad, restricción de circulación, acceso y
+uso. g) Gestión Plataformas WEB y Aplicaciones Tecnológicas El Tratamiento de los Datos Personales suministrados a través de
+herramientas tecnológicas, de inteligencia artificial, electrónicas, páginas
+web, sistemas de información, aplicaciones web, app´s, software, entre otros,
+se regirá bajo el cumplimiento de la normativa nacional y universitaria
+aplicable según la presente Política, y su finalidad se desarrollará de acuerdo
+al objeto y legitimación que se indiquen en cada uno de los formularios de recolección
+de datos personales de las herramientas mencionadas. Cuando se ingrese a los sitios web o se utilice un servicio online
+de la Universidad Nacional de Colombia, se recopilará la información necesaria
+para brindar acceso, para el funcionamiento del sitio web y para cumplir con
+los requisitos legales y de seguridad que son necesarios para el funcionamiento
+del sitio web, o su registro en el mismo, como: número de identificación,
+email, nombres completos, contraseñas, las direcciones IP y los ajustes del
+navegador, entre otros. Durante la visita a las plataformas y aplicaciones
+tecnológicas también se recopilará información acerca de las actividades
+realizadas en las mismas, para personalizar la experiencia en el sitio web,
+como, por ejemplo, registrar preferencias y ajustes, y recopilar estadísticas,
+que permiten a la Universidad mejorar y a seguir desarrollando los sitios web,
+productos y servicios. Los sitios web de la Universidad Nacional de Colombia podrán usar cookies, que son necesarias para su correcto funcionamiento, así como procesar
+información de interés cuando los visitan. Estas cookies pueden usarse
+también para el seguimiento de eventos y para la
+comercialización de productos. Los datos recogidos con estas etiquetas se
+usarán conforme la presente política y las normativas de privacidad de las
+redes sociales. El Sitio Web puede contener enlaces a otras páginas web. h) Gestión de Datos Biométricos - Imágenes y Video La información recolectada como datos biométricos, imágenes
+fotográficas o videos, capturadas en nuestros eventos, cursos, talleres,
+seminarios, sistemas de video-vigilancia y demás actividades para el desarrollo
+de los fines de la Universidad, se utilizarán o podrán ser tratadas para fines
+de seguridad de los bienes y personas, convivencia de las personas, promoción,
+mercadeo, soporte o constancia de las labores y actividades desarrolladas. Las
+imágenes serán tratadas de manera adecuada, pertinente y no excesiva, en
+relación con el ámbito, y las finalidades determinadas, legítimas y explícitas,
+que hayan justificado su tratamiento y durante el tiempo necesario. i) Gestión de Actividades de Investigación y de Extensión En las actividades y prácticas que realicen los investigadores de
+La Universidad o un tercero, ya sea en calidad de investigador o profesor que
+apoye la Universidad Nacional de Colombia, así como las relacionadas con el
+servicio de extensión, innovación y propiedad intelectual, se deberán seguir
+las reglas establecidas en la presente Política de Tratamiento de Datos
+Personales, así como los procedimientos internos establecidos en el Manual
+interno de políticas y procedimientos para el Tratamiento de Datos Personales.
+Su finalidad es el fomento, el desarrollo y la consolidación de la
+investigación y la extensión de la Universidad
+Nacional de Colombia, a trav é s de planes, programas y proyectos con criterios de integraci ó n, equidad, excelencia y calidad que respondan a diversas tendencias internacionales, a necesidades
+e intereses nacionales y regionales, así como a la respectiva academia de la
+comunidad universitaria de las diferentes sedes. Los datos personales tratados
+tienen como fin el intercambio, la aplicación y la integración, en forma
+dinámica y coordinada, del conocimiento científico, tecnológico, artístico y
+cultural que se produce en la Universidad Nacional de Colombia, en interacción
+con el entorno económico, político, cultural y social del país, actividad
+académica que busca mejorar el bienestar de las comunidades y aumentar la
+productividad y la competitividad del aparato productivo. Para lograr ese fin
+es necesario articular la docencia, la investigación y la extensión. XI. PERSONAS A QUIENES SE LES PUEDE SUMINISTRAR LA INFORMACIÓN La información que reúna las condiciones establecidas en la Ley
+podrá suministrarse a las siguientes personas: a) A los titulares, sus causahabientes (cuando aquellos falten) o sus
+representantes legales. b) A las entidades públicas o administrativas en ejercicio de sus
+funciones legales o por orden judicial. c) A los terceros autorizados por el titular o por la Ley. XII. RESPONSABLE DE LA POL Í TICA DE TRATAMIENTO DE DATOS PERSONALES Y LÍDER DE LA ATENCIÓN DE CONSULTAS,
+RECLAMOS Y SOLICITUDES La Vicerrectoría General será responsable de los lineamientos,
+seguimiento y articulación de la política de Tratamiento de Datos Personales y
+líder de la gestión del procedimiento de consultas, reclamos y solicitudes de los
+titulares para el ejercicio de los Derechos a que se refiere la Ley 1581 de
+2012, sus Decretos reglamentarios y las Circulares Externas expedidas por la
+Superintendencia de Industria y Comercio y demás normas o disposiciones que las
+modifiquen, complementen o reemplacen. La Vicerrectoría General, designará a un oficial para el
+Tratamiento de Datos Personales, quien velará por la implementación efectiva de
+las políticas y procedimientos adoptados para cumplir las normas de Tratamiento
+de Datos Personales, así como la implementación de buenas prácticas de gestión
+dentro de la Entidad, bajo la orientación y lineamientos del Líder de
+Tratamiento de Datos Personales. De igual manera, recepcionará, radicará y hará
+el reparto de las consultas, reclamos y solicitudes presentadas por los
+Titulares de la información para el ejercicio de sus derechos a las áreas o dependencias
+funcionales encargadas del Tratamiento de los Datos Personales para que se
+resuelvan con el apoyo en caso de ser necesario de la Dirección Jurídica
+Nacional y las Oficinas Jurídicas de Sede, según el ámbito de competencia. En cumplimiento de la normatividad vigente de tratamiento y
+protección de datos personales, el titular o representante y/o apoderado del
+Titular puede tramitar las peticiones, consultas y reclamos de manera directa,
+y por escrito, aportando la documentación que soporte su
+requerimiento, a través de los siguientes canales de atención: Oficina de correspondencia: Comunicaci ó n dirigida al Oficial de Protecci ó n de Datos Personales; Direcci ó n: Carrera 45 # 26-85 Edif. Uriel Gutiérrez Bogotá D.C., Colombia - 5 Piso - Oficina 566. Correo electrónico: protecdatos_na@unal.edu.co Teléfono: (+57 1) 316 5000 -
+Ext. 18407 XIII. PROCEDIMIENTO PARA EL EJERCICIO DE LOS DERECHOS DE LOS TITULARES
+DE LA INFORMACIÓN El titular de los datos o su representante y/o apoderado, puede
+ejercer sus Derechos a consultar, actualizar, rectificar, suprimir y revocar la
+autorización bajo el siguiente procedimiento. PRESENTACIÓN DE LA SOLICITUD . La
+solicitud debe presentarse en cualquiera de nuestros canales de atención:  Por
+medio escrito a la Universidad Nacional de Colombia, ubicada en Carrera 45 #
+26-85 Edif. Uriel Gutiérrez 5 Piso Of. 566 - Bogotá D.C., Colombia; por vía telefónica al número de contacto (+57 1) 316 5000 - Ext. 18407; o por medio electrónico a través de email: protecdatos_na@unal.edu.co REQUISITOS DE LA SOLICITUD . La solicitud debe
+contemplar los siguientes requisitos: 1. Nombres y apellidos del titular. 2. Número de identificación del titular. 3. Datos de localización del titular. 4. Descripción de los hechos que dan lugar a la consulta, reclamo o
+revocatoria. 5. Documentos que considere soportan su consulta, reclamo o
+revocatoria. 6. Medio por el cual desea recibir respuesta. 7. Nombre del peticionario, el cual, si es diferente al titular, debe
+adjuntar los documentos que le permitan actuar en su nombre. 8. Firma del peticionario. Se debe tener en cuenta las siguientes indicaciones: a) Si el Titular actúa por sí mismo, deberá acreditar su identidad
+adjuntando copia del documento de identidad, manifestando de manera clara y
+expresa el motivo de la solicitud. b) Si se trata de causahabiente, deberá adjuntar copia del documento
+de identidad, registro civil de defunción del Titular, manifestando de manera
+clara y expresa, el motivo de la solicitud. c) En caso de que el Titular actúe mediante representación o
+apoderado, deberá acreditarse tal calidad mediante poder debidamente conferido
+por el Titular del dato recolectado, manifestando de manera clara y expresa el
+motivo de la solicitud. d) En caso de actuar por medio de otra persona, se deberá aportar
+poder y/o autorización debidamente conferida por el Titular, y se deberá
+manifestar de manera clara y expresa el motivo de la solicitud. e) Para el caso de los menores de edad se solicitará a su
+representante o acudiente la presentación del documento que acredite el
+parentesco o relación que lo vincule como representante legal del menor
+(Registro civil de nacimiento). GESTIÓN DE LA SOLICITUD . Todas las
+solicitudes que realicen las personas legitimadas para ejercer cualquiera de
+los Derechos previamente mencionados se gestionarán de la siguiente manera: · Si la solicitud corresponde a una consulta, esta será atendida en
+un término máximo de diez (10) días hábiles contados a partir de la fecha de
+recibo de la solicitud. Cuando no fuere posible atender la consulta en el
+término indicado, se informará al interesado y/o Titular los motivos de la
+demora, e indicará la fecha en la cual será atendida su consulta, la cual no
+podrá superar los cinco (5) días hábiles siguientes al vencimiento del primer
+término. · Si la solicitud corresponde a un reclamo con el objeto de
+corrección, actualización o supresión, esta será atendida en un término máximo
+de quince (15) días hábiles contados a partir del día siguiente a la fecha de
+su recibo. Cuando no fuere posible atender la solicitud dentro de dicho
+término, se informará al interesado y/o Titular los motivos de la demora y la
+fecha en que se atenderá la solicitud, la cual en ningún caso podrá superar los
+ocho (8) días hábiles siguientes al vencimiento del primer término. En todo caso, si la solicitud resulta incompleta o no es clara, se
+requerirá al interesado y/o Titular dentro de los cinco (5) días hábiles siguientes
+a la recepción de la comunicación para que subsane o aclare las falencias; una
+vez aclarada la solicitud, se incluirá en la base de datos la leyenda "reclamo
+en trámite". · Si transcurridos dos (2) meses desde la fecha del requerimiento,
+el solicitante no presenta la información requerida, se entenderá que ha
+desistido de la solicitud. Adicionalmente, en el caso de solicitud de supresión o eliminación
+de las bases de datos, el Titular y/o interesado deberá manifestar de forma
+clara y concreta el motivo por el cual realiza tal solicitud, dicho motivo podrá
+ser la simple voluntad del titular; y una vez recibida la solicitud y
+verificada la información, se contará con el término de diez (10) días hábiles
+a la verificación para proceder a la eliminación y/o supresión de los datos
+personales del Titular o solicitante de la(s) base(s) de datos de la
+Universidad Nacional de Colombia. Finalizada la eliminación, se le informará al
+Titular o solicitante por el mismo canal mediante el cual se recibió la solicitud,
+y enviará prueba que respalde la comunicación. De igual forma, se informará al
+Titular o solicitante, cuando no fuere posible la eliminación total de los
+datos personales de las bases de datos de la Universidad Nacional de Colombia,
+por ejemplo, por temas académicos, administrativos, contables, fiscales,
+legales, contractuales e históricos de la información, como la obligación en
+temas tributarios. No obstante, inhabilitará la información solicitada. Sin perjuicio de lo anterior, y en caso de que sea requerida esta
+información por alguna entidad pública en ejercicio de sus funciones o por
+notificación judicial se reactivará el dato para cumplir con los términos de
+ley.  Si la Universidad Nacional de Colombia no es la entidad competente para
+resolver un reclamo, dará traslado de este a quien corresponda en un término
+máximo de dos (2) días hábiles, si el nuevo responsable es identificable se
+informará de la situación al interesado para que pueda hacer seguimiento o
+identifique claramente la entidad a la cual debe dirigirse. XIV. MEDIDAS DE SEGURIDAD PARA LA PROTECCIÓN Y PRIVACIDAD DE LA INFORMACIÓN La Universidad
+Nacional de Colombia se compromete a adoptar las medidas de seguridad
+impartidas por las Superintendencia de Industria y Comercio acorde Artículo 2.2.2.25.3.7.
+del Decreto 1074 de 2015 -Decreto Único Reglamentario del Sector
+Comercio, Industria y Turismo , para el Tratamiento de Datos
+Personales. No obstante, lo anterior, la Universidad Nacional de Colombia en su
+proceso de mejora continua establece controles que permitan, en la medida de lo
+posible, conservar la información y su contenido para limitar el acceso de
+terceros no autorizado s. XV. SANCIONES APLICABLES SANCIONES :  El incumplimiento de las
+disposiciones aquí contempladas, dará lugar a las sanciones previstas en el
+Código General Disciplinario Ley 1952 de 2019 y demás concordantes y/o que las
+modifiquen, sin perjuicio de las acciones civiles y penales a que haya lugar. Para
+el caso de la Universidad Nacional de Colombia, la titularidad de la potestad
+disciplinaria y autonomía de la acción consagrada en el artículo 2., le
+corresponde a la Dirección Nacional de Veeduría Disciplinaria, (Acuerdo 171 de
+2014 del Consejo Superior Universitario). La Superintendencia de Industria y Comercio podrá imponer a los
+responsables del tratamiento y encargados del tratamiento las siguientes
+sanciones: · Multas de carácter personal e institucional hasta por el
+equivalente de dos mil (2.000) salarios mínimos mensuales legales vigentes al
+momento de la imposición de la sanción. Las multas podrán ser sucesivas
+mientras subsista el incumplimiento que las originó. · Suspensión de las actividades relacionadas con el tratamiento
+hasta por un término de seis (6) meses. En el acto de suspensión se indicarán
+los correctivos que se deberán adoptar. · Cierre temporal de las operaciones relacionadas con el Tratamiento
+una vez transcurrido el término de suspensión sin que se hubieren adoptado los correctivos
+ordenados por la Superintendencia de Industria y Comercio. · Cierre inmediato y definitivo de la operación que involucre el
+Tratamiento de datos sensibles. PARÁGRAFO . Las sanciones indicadas en el
+presente artículo sólo aplican para las personas de naturaleza privada. En el
+evento en el cual la Superintendencia de Industria y Comercio advierta un
+presunto incumplimiento de una autoridad pública a las disposiciones de la
+presente ley, remitirá la actuación a la Procuraduría General de la Nación para
+que adelante la investigación respectiva. XVI. TRANSFERENCIA Y TRANSMISI Ó N INTERNACIONAL DE DATOS PERSONALES La Universidad Nacional de Colombia en
+cumplimiento de la misión institucional de docencia, investigación y extensión
+y, en consideración de sus vínculos permanentes u ocasionales de carácter
+académico y administrativo con Instituciones Internacionales, Entidades
+Gubernamentales Internacionales, Agencias de Cooperación Internacional, podrá
+efectuar transferencia y/o transmisión de datos personales de los titulare s. Para las
+transferencias internacionales de datos personales de los titulares, se tomarán
+las medidas necesarias para garantizar el tratamiento conforme al cumplimiento
+de las finalidades establecidas y su uso será solamente mientras esta dure, de
+forma que no podrá ser usada o destinada para propósitos o fines diferentes.
+Para la transferencia internacional de datos personales se observará lo
+previsto en el artículo 26 de la Ley 1581 de 2012.  Las transmisiones internacionales
+de datos personales que efectúe la Universidad
+Nacional de Colombia no requerirán ser informadas al Titular ni contar con su
+consentimiento cuando medie un contrato de transmisión de datos personales de
+conformidad con el artículo 2.2.2.25.5.2 del Decreto 1074
+de 2015 -Decreto Único Reglamentario del Sector Comercio, Industria y Turismo . XVII.  REGISTRO NACIONAL DE BASE DE DATOS PERSONALES La Universidad Nacional de
+Colombia informa que da cumplimiento al Decreto 090 del 18 de enero de 2018 en
+su "Artículo 2.2.2.26.1.2. Ámbito de aplicación. Serán objeto de inscripción en
+el Registro Nacional de Bases de Datos, las bases de datos que contengan datos
+personales cuyo Tratamiento automatizado o manual sea realizado por los
+responsables del tratamiento que reúnan las siguientes características:
+"...b) Personas jurídicas de naturaleza pública", así como en lo establecido
+en su "Artículo 2.2.2.26.3.1. Plazo de inscripción, literal "c) Los
+Responsables del Tratamiento, personas jurídicas de naturaleza pública, deberán
+realizar la referida inscripción a más tardar el treinta y uno (31) de enero de
+2019, de conformidad con las instrucciones impartidas por la Superintendencia
+de Industria y Comercio." Y en cumplimiento del artículo 2.2.2.25.2.8. del Decreto 1074 de 2015 -Decreto Único Reglamentario del Sector
+Comercio, Industria y Turismo , solo podrá recolectar,
+almacenar, usar o circular los datos personales durante el tiempo que sea
+razonable y necesario de acuerdo con las finalidades que justificaron su
+tratamiento , atendiendo a las disposiciones aplicables a la materia de que se
+trate y a los aspectos administrativos, contables, fiscales, jurídicos e
+históricos de la información. XVIII. CAMBIOS EN LA
+POLITICA DE TRATAMIENTO DE DATOS PERSONALES La Universidad Nacional de Colombia se reserva el derecho de
+modificar la presente Política según lo requiera para su funcionamiento y
+cumplimiento normativo. No obstante, lo anterior en caso de haber cambios
+sustanciales en el contenido de las políticas de privacidad y tratamiento de
+datos, así como cambios normativos, se dará a conocer su última versión a
+través de una nueva Resolución y, adicionalmente, se realizará la divulgación
+de dicha actualización o modificación por medio de canales físicos, electrónicos
+o página Web y demás que disponga la Universidad Nacional de Colombia .

@@ -84,7 +84,7 @@ def obtener_html_selenium(d_i, tmt, driver, cookie2=None):
         driver.add_cookie(cookie2)
 
     try:
-        WebDriverWait(driver, 20).until(
+        WebDriverWait(driver, 100).until(
             lambda d: d.find_element(By.ID, "nor_texto").text.strip() != ""
         )
         html = driver.page_source
@@ -92,7 +92,7 @@ def obtener_html_selenium(d_i, tmt, driver, cookie2=None):
         print(f"⚠ Tiempo de espera agotado para {url}")
         html = None
 
-    # driver.close()
+    driver.close()
     driver.switch_to.window(driver.window_handles[0])
     # driver.quit()
     
@@ -119,7 +119,7 @@ driver = iniciar_driver(headless=False)
 
 
 with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, ncols=80) as pbar:
-    cookie2 = None
+    cookie2 = {'domain': 'legal.unal.edu.co', 'httpOnly': True, 'name': 'JSESSIONID', 'path': '/rlunal', 'sameSite': 'Lax', 'secure': False, 'value': '534243683E036FD18EE0F92A8F5F4471'}
     try:
         driver.title  # Intentar acceder al título de la página
     except:
@@ -127,10 +127,12 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
         driver.quit()
         driver = iniciar_driver(headless=False)
     for categoria, id_tuples in ids_dict.items():
+        categoria = categoria.replace('/', '-')
         resultados[categoria] = {}
 
         for d_i, tmt in id_tuples:
             if (d_i,tmt) in visited:
+                pbar.update(1)
                 continue
             print(f"📄 Accediendo a d_i: {d_i}, tmt: {tmt}")
 
@@ -139,7 +141,7 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
             print(cookie2, type(cookie2))
             contenido_html = extraer_html_completo(html) if html else "⚠ No se pudo obtener el contenido."
             resultados[categoria][(d_i, tmt)] = contenido_html
-
+            
             filename = f"documentos/{categoria}-{d_i}-{tmt}.txt"
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(contenido_html)
@@ -148,7 +150,7 @@ with tqdm(total=total_documentos, desc="Procesando", unit="doc", leave=False, nc
                 pickle.dump(visited, file)
             print(f"✅ Guardado en {filename}")
             pbar.update(1)
-            time.sleep(random.uniform(2, 5))
+            #time.sleep()
     driver.close()
          
 

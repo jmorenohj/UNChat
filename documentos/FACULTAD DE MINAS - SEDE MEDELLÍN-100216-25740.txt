@@ -1,0 +1,72 @@
+ACUERDO
+3 DE 2022 (ACTA
+13 DEL 25 DE ABRIL) "Por
+el cual se modifica parcialmente la agrupación "Optativas Formación Disciplinar
+o Profesional" del literal b) del artículo 1 del Acuerdo 35 de 2019 del Consejo
+de la Facultad de Minas a través del cual se establece el plan de estudios del
+programa curricular de pregrado Ingeniería Química de la Facultad de Minas de
+la Universidad Nacional de Colombia, Sede Medellín" EL CONSEJO DE LA FACULTAD DE MINAS, En
+ejercicio de las facultades conferidas por los artículos 6 y 12 del Acuerdo 163
+de 2018 del Consejo Académico, y CONSIDERANDO Que el plan de
+estudios vigente del Programa Curricular de Ingeniería Química de la
+Facultad de Minas de la Universidad Nacional de Colombia, Sede Medellín, se
+rige por el Acuerdo 163 de 2018 del Consejo Académico y el Acuerdo 35 de 2019
+del Consejo de la Facultad de Minas de la Sede Medellín. Que el Comité de
+Directores de Área Curricular en sesión realizada el 18 de abril mediante acta 08
+de 2022, recomendó modificar requisitos de
+unas asignaturas en la Agrupación: Optativas Formación Disciplinar o Profesional , éstas son: · Cambiar el
+prerrequisito de la asignatura "Tópicos Especiales en Operaciones Unitarias"
+que es la asignatura "Fenómenos de Transporte" por la asignatura "Operaciones
+de Transferencia de Masa". · Cambiar el requisito
+de la asignatura "Simulación de Procesos Químicos" que es la asignatura "Fenómenos
+de Transporte" por la asignatura "Operaciones de Transferencia de Masa" la cual
+pasa de prerrequisito a correquisito. · Modificar el requisito
+de la asignatura "Análisis de Plantas Industriales" que es la asignatura "Ingeniería
+de Procesos", la cual pasa de prerrequisito a correquisito. Que el Consejo de la Facultad de Minas en sesión 13 de 2022,
+realizada el 25 de abril, analizó la recomendación del Comité de Directores de
+Área Curricular de la Facultad de Minas y decidió aprobar la modificación. En
+mérito de lo anterior, ACUERDA ARTÍCULO 1. Modificar parcialmente el literal
+b) del artículo 1 del Acuerdo 35 de 2019 del Consejo de la Facultad de Minas, en
+lo que respecta a la Agrupación: Optativas Formación Disciplinar o Profesional la cual quedará así: Agrupación: Optativas Formación Disciplinar o Profesional Código Nombre
+  Asignatura Créditos Obligatoria Requisitos Código Nombre
+  Asignatura Tipo Termodinámica 3010430 Tópicos
+  Especiales en Termodinámica 3 No 3010478 Termodinámica
+  General Prerrequisito 3010473 Ciclos
+  de Potencia y Análisis Energético 3 No 3010478 Termodinámica
+  General Prerrequisito Operaciones Unitarias y
+  Diseño 3010472 Simulación
+  de Procesos Químicos 3 No 3007822 Operaciones
+  de Transferencia de Masa Correquisito 3010462 Tópicos
+  Especiales en Operaciones Unitarias 3 No 3007822 Operaciones
+  de Transferencia de Masa Prerrequisito 3010471 Separación
+  de Sistemas Multicomponentes 3 No 3007822 Operaciones
+  de Transferencia de Masa Prerrequisito 3010652 Análisis
+  de Plantas Industriales 3 No 3007820 Operaciones
+  de Transferencia de Calor Prerrequisito 3007821 Operaciones
+  de Transferencia de Cantidad de Movimiento Prerrequisito 3007822 Operaciones
+  de Transferencia de Masa Prerrequisito 3009352 Introducción
+  al Control de Procesos Prerrequisito 3007816 Ingeniería
+  de Procesos Correquisito 3010477 Laboratorio
+  de Control de Procesos 3 No 3009352 Introducción
+  al Control de Procesos Correquisito Proyectos en Ingeniería 3010674 Estrategias
+  de Gestión y Gerencia de Proyectos en Ingeniería 3 No 3010407 Estructuración
+  y Evaluación de Proyectos en Ingeniería Prerrequisito 3010537 Gestión
+  de Proyectos de Desarrollo y Metodología General Ajustada 3 No 3010407 Estructuración y Evaluación de Proyectos de Ingeniería Prerrequisito 3010668 Proyectos
+  de Innovación y Desarrollo 3 No 3010407 Estructuración y Evaluación de Proyectos de Ingeniería Prerrequisito 3010669 Toma
+  de Decisión para el Diseño en Ingeniería 3 No 3010407 Estructuración y Evaluación de Proyectos de Ingeniería Prerrequisito 3010535 Fundamentos
+  de Ciclo de Vida para Ingeniería 3 No 3010439 Proyecto Integrado de Ingeniería Prerrequisito Créditos exigidos en la agrupación Optativas Formación Disciplinar
+o Profesional: Nueve (9) ARTÍCULO
+2. Las demás disposiciones contenidas
+en el Acuerdo 35 de 2019 del Consejo de la Facultad de Minas, se mantienen sin
+modificación alguna. ARTÍCULO 3. Comunicar el presente Acuerdo a la Dirección Académica de la Sede Medellín, a
+la Dirección de Área Curricular de Ingeniería Química e Ingeniería de Petróleos
+de la Facultad de Minas y a la Dirección Nacional de Programas Curriculares de
+Pregrado. ARTÍCULO
+4. El presente Acuerdo rige a partir
+de su publicación en el Sistema de Información Normativa, Jurisprudencial y de
+Conceptos - Régimen Legal. PUBLÍQUESE,
+COMUNÍQUESE Y CÚMPLASE Dado
+en Medellín, a los tres (03) días del mes de mayo de dos mil veintidós (2022). Verónica
+Catalina Botero Fernández Presidenta Flor
+Ángela Marulanda Valencia Secretaria
+de Facultad

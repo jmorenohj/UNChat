@@ -1,0 +1,231 @@
+ACUERDO M.SFCA-059
+DE 2019 (Acta 004 del 18 de febrero) Derogado por Art. 2, Acuerdo CF Ciencias Agrarias 063 de 2019. "Por el cual se modifica el plan de
+estudios del programa curricular de Ingeniería Forestal de la Facultad de
+Ciencias Agrarias de la Universidad Nacional de Colombia Sede Medellín" EL CONSEJO DE LA FACULTAD DE CIENCIAS
+AGRARIAS En uso de sus facultades legales y
+estatutarias, en especial las conferidas en el Capítulo 6, artículo 35, del
+Acuerdo 011 de 2005 del Consejo Superior Universitario, y CONSIDERANDO Que, el Consejo Superior Universitario en sesión del
+26 de noviembre aprobó el Acuerdo 033 de 2007 "por el cual se establecen los
+lineamientos básicos para el proceso de formación de los estudiantes de la
+Universidad Nacional de Colombia a través de sus programas curriculares". Que, el Consejo Académico, mediante Acuerdo 017 del
+17 de abril de 2009, modificó la estructura del plan de estudios del programa
+curricular Ingeniería Forestal de la Facultad de Ciencias Agropecuarias
+de la Universidad Nacional de Colombia, Sede Medellín, para ajustarlo al
+Acuerdo 033 de 2007 del Consejo Superior Universitario. Que, el Consejo de la Facultad de
+Ciencias Agrarias, mediante Acuerdo 040 del 27 de julio de 2016 modificó el plan
+de estudios de Ingeniería Forestal , especificando los créditos, las
+agrupaciones y las asignaturas del plan de estudios del programa curricular,
+las cuales se distribuyeron así: a. Componente
+de Fundamentación: setenta y tres (73) créditos exigidos, de los cuales el
+estudiante deberá aprobar cincuenta y nueve (59) créditos correspondientes a
+asignaturas obligatorias y catorce (14) créditos correspondientes a asignaturas
+optativas. b. Componente de
+Formación Disciplinar o Profesional: sesenta y cuatro (64) créditos exigidos,
+de los cuales el estudiante deberá aprobar cincuenta (50) créditos
+correspondientes a asignaturas obligatorias y catorce (14) créditos
+correspondientes a asignaturas optativas. c. Componente
+de Libre Elección: treinta y cinco (35) créditos exigidos, que corresponden al
+20% del total de créditos del plan de estudios. Que el Comité Asesor del Programa
+Curricular de Ingeniería Forestal , en su sesión del 6 de febrero de
+2019, Acta 03, recomendó modificar el plan de estudio para incluir dos nuevas
+asignaturas optativas en el Componente de Formación Disciplinar o Profesional,
+en la Agrupación Ciencias Forestales: la asignatura "Introducción a la
+Modelación Forestal" con el prerrequisito 3007006-Bioestadística I y la
+asignatura "Mejoramiento Genético Forestal" con el prerrequisito
+3007115-Genética y Viveros Forestales. Que, el Consejo de la Facultad en
+su sesión del 18 de febrero, Acta 004-19, estudió las modificaciones
+solicitadas por el Comité Asesor del Programa Curricular Ingeniería Forestal,
+mediante oficio M. ACBAFCA-009 del 6 de febrero de 2019. Que, en mérito de lo expuesto, ACUERDA ARTÍCULO
+1 . Los créditos,
+agrupaciones y asignaturas de los componentes de Fundamentación y
+Disciplinar/Profesional del plan de estudios, quedan especificados de la
+siguiente manera: A) COMPONENTE
+DE FUNDAMENTACIÓN Agrupación:
+Matemáticas y Estadísticas Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 1000004 Cálculo
+  Diferencial 4 SI 1000005 Cálculo
+  Integral 4 SI 1000004 Cálculo
+  Diferencial Prerrequisito 3007006 Bioestadística
+  I 3 SI 1000004 Cálculo
+  Diferencial Prerrequisito 3007007 Bioestadística
+  II 4 SI 3007006 Bioestadística
+  I Prerrequisito 1000007 Ecuaciones
+  Diferenciales 4 NO 1000005 Cálculo
+  Integral Prerrequisito 1000003 Álgebra
+  Lineal 4 NO 3007100 Modelación
+  Lineal 4 NO 3007006 Bioestadística
+  II Prerrequisito 3006926 Estadística
+  Bayesiana 4 NO 3007006 Bioestadística
+  I Prerrequisito 3009297 Series
+  de Tiempo Univariadas 4 NO 3007006 Bioestadística
+  I Prerrequisito Créditos exigidos en la agrupación Matemáticas y
+Estadística: diecinueve ( 19) Agrupación:
+Biología y Química Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 1000009 Biología
+  General 3 SI 3006948 Botánica
+  y Fisiología Vegetal 3 SI 1000009 Biología
+  General Prerrequisito 3007114 Zoología 3 SI 3007082 Ecología
+  Forestal I Prerrequisito 3007080 Dendrología 5 SI 3006948 Botánica
+  y Fisiología Vegetal Prerrequisito 3006829 Química
+  General 3 SI 3006825 Laboratorio
+  de Química General 2 SI 3006829 Química
+  General Correquisito 3006835 Genética 4 NO 1000035 Laboratorio
+  de Química Orgánica 2 NO 1000034 Química
+  Orgánica Prerrequisito 3006800 Entomología
+  General 4 NO 1000009 Biología
+  General Prerrequisito 3007081 Ecología
+  de Insectos 4 NO 3006817 Biología
+  Molecular 4 NO 1000009 Biología
+  General Prerrequisito 3007104 Principios
+  de Biología Evolutiva 6 NO 1000009 Biología
+  General Prerrequisito 1000034 Química
+  Orgánica 3 NO 3006829 Química
+  General Prerrequisito Créditos exigidos en la agrupación Biología y
+Química: veintitrés (23) Agrupación:
+Física Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 1000019 Física
+  Mecánica 4 SI 1000004 Cálculo
+  Diferencial Prerrequisito 3007008 Biofísica
+  General 3 SI 1000019 Física
+  Mecánica Prerrequisito Créditos exigidos en la agrupación Física: siete
+(7) Agrupación:
+Ciencias de la Tierra Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+  Correquisito Código Nombre Requisitos 3006954 Geomorfología 3 SI 3006950 Ciencia
+  del Suelo 3 SI 3006954 Geomorfología Prerrequisito 3007096 Hidroclimatología 4 SI 3006948 Botánica
+  y Fisiología Vegetal Prerrequisito 3006954 Geomorfología Correquisito 3007401 Topografía 3 SI Optativas
+  Herramientas Informáticas Prerrequisito Créditos exigidos en la agrupación Ciencias de la
+Tierra: trece (13) Agrupación:
+Humanidades Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3007487 Naturaleza-
+  Cultura-Gestión de los Recursos 3 SI 3007488 Política
+  y Legislación Forestal Correquisito 3007077 Cuencas
+  Hidrográficas Prerrequisito 3007488 Política
+  y Legislación Forestal 2 SI 3007077 Cuencas
+  Hidrográficas Prerrequisito 3007195 Economía
+  Política I 4 NO 3007490 Negociación
+  de Conflictos Ambientales 4 NO 3008603 Historia
+  Social y de la Cultura II: Amazonia, región y nación 3 NO 3007199 Estructura
+  y dinámica de los sistemas territoriales 3 NO 3009970 Economía
+  y Cultura 3 NO 3008723 Evaluación
+  y Valoración Económica del Impacto Ambiental 3 NO 3007116 Énfasis
+  II: Paisaje y Espacios Verdes  Urbanos 4 NO 3008523 Énfasis
+  III: Planeación Municipal 4 NO Créditos exigidos en la agrupación Humanidades: ocho
+(8) Agrupación:
+Herramientas Informáticas Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+  Correquisito Código Nombre Requisitos 3007742 Fundamentos
+  de Programación 3 NO 3006826 Sistemas
+  Numéricos 4 NO 3007742 Fundamentos
+  de Programación Prerrequisito 1000008 Geometría
+  Vectorial y Analítica 4 NO Créditos exigidos en la agrupación Herramientas
+Informáticas: tres (3) B) COMPONENTE
+DE FORMACIÓN DISCIPLINAR O PROFESIONAL: Agrupación:
+Medición Forestal Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3007078 Dasometría 3 SI 3007007 Bioestadística
+  II Prerrequisito 3007099 Inventarios
+  de Vegetación 2 SI 3007078 Dasometría Prerrequisito Créditos exigidos en la agrupación Medición
+Forestal: cinco (5) Agrupación:
+Economía y Administración Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3007084 Economía
+  y Medio Ambiente 3 SI 3007078 Dasometría Prerrequisito 3010171 Administración
+  de Empresas Agrarias 3 SI 3007084 Economía
+  y Medio Ambiente Prerrequisito Créditos exigidos en la agrupación Economía y
+Administración: seis (6) Agrupación:
+Cuencas-Territorio Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3007094 Geomática 4 SI 3007401 Topografía Prerrequisito 3007096 Hidroclimatología Prerrequisito 3007077 Cuencas
+  Hidrográficas 3 SI 3007094 Geomática Prerrequisito 3007082 Ecología
+  Forestal I Prerrequisito 3007102 Planificación
+  del Territorio Rural 3 SI 3007488 Política
+  y Legislación Forestal Prerrequisito Créditos exigidos en la agrupación Cuencas y
+Territorio: diez (10) Agrupación:
+Plantaciones e Industrias Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3007110 Silvicultura
+  de Plantaciones 3 SI 3007115 Genética
+  y Viveros Forestales Prerrequisito 3007089 Estructura,
+  Morfología y Propiedades de la Madera 3 SI 3007080 Dendrología Prerrequisito 3007082 Ecología
+  Forestal I Prerrequisito 3007078 Dasometría Prerrequisito 3007091 Fundamentos
+  de Industrias 3 SI 3007089 Estructura,
+  Morfología y Propiedades de la Madera Prerrequisito 3007115 Genética
+  y Viveros Forestales 3 SI 3007083 Ecología
+  Forestal II Prerrequisito Créditos exigidos en la agrupación Plantaciones e
+Industrias: doce (12) Agrupación:
+Ecosistemas y Áreas protegidas Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3007082 Ecología
+  Forestal I 3 SI 3006950 Ciencia
+  del Suelo Prerrequisito 3007007 Bioestadística
+  II Prerrequisito 3007083 Ecología
+  Forestal II 3 SI 3007082 Ecología
+  Forestal I Prerrequisito 3007078 Dasometría Prerrequisito 3007109 Silvicultura
+  de Bosques Naturales 3 SI 3007083 Ecología
+  Forestal II Prerrequisito 3007099 Inventarios
+  de Vegetación Prerrequisito Créditos exigidos en la agrupación Ecosistemas y
+Áreas Protegidas: nueve (9 Agrupación:
+Ciencias Forestales Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3007111 Taller
+  de Ordenamiento Territorial 3 NO 3007102 Planificación
+  del Territorio Rural Prerrequisito 3007097 Hidrología
+  Forestal 3 NO 3007096 Hidroclimatología Prerrequisito 3007094 Geomática Prerrequisito 3006952 Formulación
+  y Evaluación de Proyectos Agrarios 3 NO 3010248 Valoración
+  de Bosques 2 NO 3007084 Economía
+  y Medio Ambiente Prerrequisito 3007086 Emprendimiento
+  Empresarial 3 NO 3007088 Estructura
+  Microscópica y Calidad de la  Madera 3 NO 3007089 Estructura,
+  Morfología y Propiedades de la Madera Prerrequisito 3007103 Preservación
+  de la Madera 2 NO 3007089 Estructura,
+  Morfología y Propiedades de la Madera Prerrequisito 3007106 Secado
+  Industrial de la Madera 2 NO 3007089 Estructura,
+  Morfología y Propiedades de la Madera Prerrequisito 3007072 Caminos
+  Forestales 3 NO 3007094 Geomática Prerrequisito 3007093 Geografía
+  Ambiental de Colombia 3 NO 3007077 Cuencas
+  Hidrográficas Prerrequisito 3007076 Conservación
+  y Restauración de Ecosistemas 3 NO 3007083 Ecología
+  Forestal II Prerrequisito 3007101 Ordenación
+  de Bosques 3 NO 3007110 Silvicultura
+  de Plantaciones Prerrequisito 3007108 Seminario
+  en Bienes y Servicios de los Árboles y Bosques 3 NO 3007083 Ecología
+  Forestal II Prerrequisito 3007107 Seminario
+  de Grado 3 NO 3007074 Conceptos
+  Avanzados de Cosecha 3 NO 3007091 Fundamentos
+  de Industrias Prerrequisito 3007069 Práctica
+  Profesional Forestal 15 NO 3007099 Inventarios
+  de Vegetación Prerrequisito 3007089 Estructura,
+  Morfología y Propiedades de la Madera Prerrequisito 3007083 Ecología
+  Forestal II Prerrequisito 3007077 Cuencas
+  Hidrográficas Prerrequisito 3007114 Zoología Prerrequisito 3009017 Dendrología
+  II 3 NO 3007080 Dendrología Prerrequisito 3007719 Ecofisiología
+  de Plantas y Cambio Climático 3 NO 3007082 Ecología
+  Forestal I Prerrequisito 3006816 Ecología
+  Animal 3 NO 3007114 Zoología Prerrequisito 3007075 Conservación
+  y Manejo de Vida Silvestre 3 NO 3007114 Zoología Prerrequisito 3007079 Dendrocronología 3 NO 3007085 Ecosistemas
+  de Manglar 3 NO 3007083 Ecología
+  Forestal II Prerrequisito 3007090 Fotointerpretación
+  Avanzada 3 NO 3007094 Geomática Prerrequisito 3007112 Taller
+  sobre SIG 3 NO 3007094 Geomática Prerrequisito 3009495 Geomática
+  Aplicada a los Recursos Hídricos 3 NO 3007094 Geomática Prerrequisito 3009759 Interacción
+  Planta-Animal 3 NO 3007114 Zoología Prerrequisito 3007083 Ecología
+  Forestal II Prerrequisito 3009836 Teledetección
+  Espacial 3 NO 3007007 Bioestadística
+  II Prerrequisito 3007094 Geomática Prerrequisito 3009835 Rehabilitación
+  y Manejo de tierras Degradadas 3 NO 3007077 Cuencas
+  Hidrográficas Prerrequisito 3008561 Ornitología 3 NO 3007114 Zoología Prerrequisito 3010249 Sistemas
+  Agroforestales 3 NO 3007109 Silvicultura
+  de Bosques Naturales Prerrequisito 3007115 Genética
+  y Viveros Forestales Prerrequisito 3010559 Introducción
+  a la Modelación Forestal 3 NO 3007006 Bioestadística
+  I Prerrequisito 3010560 Mejoramiento
+  Genético Forestal Avanzado 3 NO 3007115 Genética
+  y Viveros Forestales Prerrequisito Créditos exigidos en la agrupación Ciencias
+Forestales: catorce (14) Asignaturas
+sin Agrupación Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+  Correquisito Código Nombre Requisitos 3007098 Introducción
+  a las Ciencias Forestales 2 SI Créditos exigidos en Asignaturas sin agrupación: dos ( 2) Trabajo
+de Grado Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+  Correquisito 3007491 Trabajo
+  de Grado 6 SI 41 créditos del Componente de
+  Formación Disciplinar o Profesional 3007492 Cursos
+  de Posgrado Créditos exigidos en Trabajo de grado: seis (6) ARTÍCULO 2 . El presente
+Acuerdo rige a partir de la fecha de su publicación en el Sistema de
+Información Normativa, Jurisprudencial y de Conceptos ¿ Régimen Legal de la
+Universidad Nacional de Colombia y deroga el Acuerdo 054 de 2017 del Consejo
+de la Facultad de Ciencias Agrarias y todas las disposiciones que le sean
+contrarias. PUBLÍQUESE, COMUNÍQUESE Y CÚMPLASE Dado en Medellín, a veintisiete (27) día
+del mes de febrero de 2019. GUILLERMO LEON VASQUEZ VELÁSQUEZ Presidente Consejo de Facultad NATALIA LÓPEZ LOAIZA Secretaria Consejo de Facultad

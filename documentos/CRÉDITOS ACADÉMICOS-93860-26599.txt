@@ -1,0 +1,202 @@
+FACULTAD DE CIENCIAS HUMANAS Y ECONOMICAS ACUERDO CF-026
+DE 2019 (Acta
+19 del 13 de noviembre de 2018) "Por el
+cual se especifican los créditos, las agrupaciones y las asignaturas del plan
+de estudios del programa curricular de pregrado Ciencias de la Computación de
+la Universidad Nacional de Colombia, Sede Medellín" EL
+CONSEJO DE LA FACULTAD DE CIENCIAS en ejercicio de las facultades conferidas por el
+artículo 6 del Acuerdo 041 de 2018 del Consejo de la Sede Medellín, y CONSIDERANDO: Que en sesión 05 del 27 de febrero
+de 2014, el Consejo de la Facultad de Ciencias avaló la propuesta de creación
+del programa curricular de pregrado en Ciencias de la Computación en la
+Universidad Nacional de Colombia. Que el plan de estudio del programa
+curricular de pregrado en Ciencias de la Computación fue estudiado y
+avalado por el Comité Nacional de Programas Curriculares del 9 de agosto de
+2016. Que el Consejo Académico en sesión 07
+del 25 de noviembre 2016 (Oficio CA-3768-16) recomendó la creación del programa
+curricular de pregrado en Ciencias de la Computación ante el Consejo
+Superior Universitario. Que el Consejo Superior
+Universitario, en sesión 11 del 6 de diciembre de 2016, aprobó la creación del
+programa curricular de pregrado Ciencias de la Computación en la Universidad
+Nacional de Colombia mediante Acuerdo 232 de 2016. Que el Consejo de Sede, en sesión del
+25 de mayo de 2018, aprobó la apertura del plan de estudios del programa curricular
+de pregrado Ciencias de la Computación en la Facultad de Ciencias de la
+Universidad Nacional de Colombia Sede Medellín, mediante Acuerdo CS-041 de 2018
+en el cual los ciento cuarenta y seis (146) créditos exigidos en el plan
+de estudios del programa curricular de pregrado Ciencias de la Computación, de la Facultad de Ciencias de la Sede Medellín, de la Universidad Nacional de
+Colombia, quedaron distribuidos y caracterizados así: a) Componente de
+Fundamentación :
+el estudiante deberá aprobar sesenta y un (61) créditos, de los cuales
+cincuenta y tres (53) créditos corresponden a asignaturas obligatorias y ocho
+(8) créditos corresponden a asignaturas optativas. b) Componente de
+Formación Disciplinar o Profesional : el estudiante deberá aprobar cincuenta
+y seis (56) créditos exigidos, de los cuales veinte (20) créditos corresponden a
+asignaturas obligatorias, veintiocho (28) créditos corresponden a asignaturas
+optativas y ocho (8) corresponden al Trabajo de Grado. c) Componente de
+Libre Elección :
+veintinueve (29) créditos exigidos, que corresponden al 20% del total de
+créditos del plan de estudios. Que en sesión del 13 de noviembre de
+2018, acta 13, el grupo gestor del programa de Ciencias de la Computación presentó ante el Consejo de la Facultad de Ciencias la propuesta de especificación
+de los créditos, las agrupaciones y las asignaturas del plan de estudios del
+programa curricular de Ciencias de la Computación . Que el Consejo de la Facultad de
+Ciencias de la Sede Medellín en su sesión del 13 de noviembre de 2018 mediante
+Acta 013; estudió y avaló la propuesta presentada por el grupo gestor. Que en mérito de lo anterior este
+Cuerpo Colegiado, ACUERDA: Artículo 1. Especificar que
+las agrupaciones del Componente de Fundamentación y del Componente de Formación
+Disciplinar o Profesional del plan de estudios del programa curricular de Ingeniería
+Geológica están conformadas por las siguientes asignaturas: a) Componente de
+Fundamentación: sesenta y un (61) créditos Agrupación:
+Matemáticas Código Nombre
+   de la asignatura Cred. Obl. Asignatura
+   prerrequisito / correquisito Código Nombre Tipo 3006824 Fundamentos
+  de matemáticas 4 Si 3010389 Fundamentos
+  de análisis 4 Si 3006824 Fundamentos
+  de matemáticas Pre 3010390 Fundamentos
+  de matemáticas discretas 4 Si 3006824 Fundamentos
+  de matemáticas Pre 1000004 Cálculo
+  diferencial 4 Si 1000005 Cálculo
+  integral 4 Si 1000004 Cálculo
+  diferencial Pre 1000006 Cálculo
+  en varias variables 4 Si 1000005 Cálculo
+  integral Pre 1000008 Geometría
+  vectorial y analítica 4 Si 1000003 Álgebra
+  lineal 4 Si 1000008 Geometría
+  vectorial y analítica Pre 1000007 Ecuaciones
+  diferenciales 4 Si 1000003 Álgebra
+  lineal Pre 3010394 Teoría
+  básica de la probabilidad 4 Si 1000005 Cálculo
+  integral Pre 3010390 Fundamentos
+  de matemáticas discretas Pre 3006994 Introducción
+  al análisis real 4 No 3010390 Fundamentos
+  de análisis Pre 3006993 Grupos
+  y anillos 4 No 3010390 Fundamentos
+  de matemáticas discretas Pre 3006822 Combinatoria 4 No 3010390 Fundamentos
+  de matemáticas discretas Pre 3006900 Introducción
+  a la teoría de grafos 4 No 3010390 Fundamentos
+  de matemáticas discretas Pre 3009257 Teoría
+  elemental de números 4 No 3010390 Fundamentos
+  de matemáticas discretas Pre 3006905 Matemáticas
+  especiales 4 No 1000007 Ecuaciones
+  diferenciales Pre 1000006 Cálculo
+  en varias variables Co Créditos
+Exigidos en la agrupación Matemáticas: 44 (40 obligatorios + 4 optativos) Agrupación:
+Programación Código Nombre de la asignatura Cred. Obl. Asignatura prerrequisito / correquisito Código Nombre Tipo 3007742 Fundamentos
+  de programación 3 Si 1000003 Álgebra
+  lineal Pre 3007744 Programación
+  orientada a objetos 3 Si 3007742 Fundamentos
+  de programación Pre 3007741 Estructuras
+  de datos 3 Si 3007744 Programación
+  orientada a objetos Pre Créditos
+Exigidos en la agrupación Programación: 9 (9 obligatorios) Agrupación:
+Ciencias Naturales y Estadística Código Nombre de la asignatura Cred. Obl. Asignatura prerrequisito / correquisito Código Nombre Tipo 3006929 Inferencia
+  estadística 4 Si 3010394 Teoría
+  básica de la probabilidad Pre 1000019 Física
+  mecánica 4 No 1000004 Cálculo
+  diferencial Pre 1000018 Física
+  moderna 4 No 1000006 Cálculo
+  en varias variables Pre 3006829 Química
+  general 4 No 1000009 Biología
+  general 4 No 3007826 Termodinámica
+  general 4 No 1000004 Cálculo
+  diferencial Pre Créditos
+Exigidos en la agrupación Ciencias Naturales y Estadística: 8 (4 obligatorios +
+4 optativos) b) Componente de
+Formación Disciplinar o Profesional: cincuenta y seis (56) créditos Agrupación:
+Algoritmos y Computación Código Nombre de la asignatura Cred. Obl. Asignatura prerrequisito/ correquisito Código Nombre Tipo 3010393 Introducción
+  a la teoría de la computación 4 Si 3010390 Fundamentos
+  de matemáticas discretas Pre 3010392 Introducción
+  a algoritmos 4 Si 3007741 Estructuras
+  de datos Pre 3010390 Fundamentos
+  de matemáticas discretas Pre 3008082 Criptografía
+  y seguridad 4 Si 3010390 Fundamentos
+  de matemáticas discretas Pre 3006995 Programación
+  lineal y optimización combinatoria 4 No 1000006 Cálculo
+  en varias variables Pre 1000003 Álgebra
+  lineal Pre 3010390 Fundamentos
+  de matemáticas discretas Pre 3010426 Teoría
+  de lenguajes de programación 3 No 3007742 Fundamentos
+  de programación Pre 3010390 Fundamentos
+  de matemáticas discretas Pre 3006894 Introducción
+  al álgebra computacional 4 No 3006993 Grupos
+  y anillos Pre 3010590 Tópicos
+  avanzados en criptografía 4 No 3008082 Criptografía
+  y seguridad Pre 3010591 Tópicos
+  especiales en algoritmos 4 No 3010392 Introducción
+  a algoritmos Pre Créditos
+Exigidos en la agrupación Algoritmos y Computación: 19 (12 obligatorios + 7
+optativos) Agrupación:
+Computación Científica Código Nombre de la asignatura Cred. Obl. Asignatura prerrequisito/ correquisito Código Nombre Tipo 3006886 Análisis
+  numérico 4 Si 3010389 Fundamentos
+  de análisis Pre 3010391 Geometría
+  aplicada 4 Si 1000003 Álgebra
+  lineal Pre 3006909 Programación
+  científica 4 No 1000003 Álgebra
+  lineal Pre 3006888 Diseño
+  Geométrico Asistido por Computadora 4 No 1000006 Cálculo
+  en varias variables Pre 3010391 Geometría
+  aplicada Pre 3006908 Modelamiento
+  matemático 4 No 1000007 Ecuaciones
+  diferenciales Pre 3006884 Álgebra
+  lineal aplicada 4 No 1000006 Cálculo
+  en varias variables Pre 1000003 Álgebra
+  lineal Pre 3006996 Programación
+  no lineal 4 No 3006824 Fundamentos
+  de matemáticas Pre 1000006 Cálculo
+  en varias variables Pre 1000003 Álgebra
+  lineal Pre 3010588 Computación
+  gráfica y visualización científica 4 No 3010391 Geometría
+  aplicada Pre 3007744 Programación
+  orientada a objetos Pre Créditos
+Exigidos en la agrupación Computación Científica: 16 (8 obligatorios + 8
+optativos) Agrupación:
+Sistemas de Cómputo Código Nombre de la asignatura Cred. Obl. Asignatura prerrequisito/
+   correquisito Código Nombre Tipo 3007863 Arquitectura
+  de computadores 3 No 3007742 Fundamentos
+  de programación Pre 3007867 Sistemas
+  operativos 3 No 3007863 Arquitectura
+  de computadores Pre 3007865 Redes
+  y Telecomunicaciones I 3 No 3007867 Sistemas
+  operativos Pre 3007866 Redes
+  y Telecomunicaciones II 3 No 3007867 Sistemas
+  operativos Pre 3007847 Base
+  de Datos I 3 No 3007741 Estructuras
+  de datos Pre 3010390 Fundamentos
+  de matemáticas discretas Pre 3007848 Base
+  de Datos II 3 No 3007847 Base
+  de datos i Pre 3010114 Teoría
+  de la Computación y la Compilación 3 No 3007744 Programación
+  orientada a objetos Pre Créditos
+Exigidos en la agrupación Sistemas de Cómputo: 6 (6 optativos) Agrupación:
+Computación Aplicada Código Nombre de la asignatura Cred. Obl. Asignatura prerrequisito/ correquisito Código Nombre Tipo 3009754 Física
+  computacional 3 No 3006830 Bioinformática 4 No 3006988 Fundamentos
+  de sistemas de información geográfica 3 No 3010476 Introducción
+  a la inteligencia artificial 3 No 3006929 Inferencia
+  estadística Pre 3007741 Estructuras
+  de Datos Pre 3007854 Técnicas
+  en aprendizaje estadístico 3 No 3010476 Introducción
+  a la inteligencia artificial Pre 3009150 Redes
+  neuronales artificiales y algoritmos bio-inspirados 3 No 3010476 Introducción
+  a la inteligencia artificial Pre 3009151 Introducción
+  a la robótica 3 No 3010476 Introducción
+  a la inteligencia artificial Pre 3010589 Realidad
+  virtual y aumentada 4 No 3010391 Geometría
+  aplicada Pre 3010587 Aprendizaje
+  automático 4 No 3010394 Teoría
+  básica de la probabilidad Pre 1000006 Cálculo
+  en varias variables Pre 3006935 Procesos
+  estocásticos con aplicaciones 4 No 3006934 Probabilidad 3006926 Estadística
+  bayesiana 4 No 3006929 Inferencia
+  estadística Pre Créditos
+Exigidos en la agrupación Computación Aplicada: 7 (7 optativos) Agrupación:
+Trabajo de Grado Código Nombre de la asignatura Cred. Obl. Prerrequisito 3010664 Trabajo
+  de grado 8 Si Haber aprobado 34 créditos ( 60%) del total
+  de créditos exigidos en el Componente de Formación Disciplinar o profesional 3010665 Cursos
+  de posgrado Créditos
+Exigidos en la agrupación Trabajo de Grado: 8 (8 Obligatorios) ARTICULO 2. El presente
+acuerdo rige a partir de la fecha de su publicación en el Régimen Legal de la
+Universidad Nacional de Colombia y deroga todas las normas que le sean
+contrarias. PUBLÍQUESE,
+COMUNÍQUESE Y CÚMPLASE Dado
+en Medellín, a los veintinueve (29) días del mes de mayo de dos mil diecinueve
+(2019). JORGE
+ANSELMO PUERTA ORTÍZ Presidente BLANCA
+FABIOLA ESPEJO BENAVIDES Secretaria

@@ -1,0 +1,231 @@
+ACUERDO 53 DE 2019 (ACTA 02 DEL 4 DE
+FEBRERO) Derogado por Art. 6, Acuerdo CF Arquitectura 80 de 2021. "Por el
+cual se especifican los créditos, las agrupaciones, los prerrequisitos y las
+asignaturas del plan de estudios del programa curricular de Construcción de la
+Facultad de Arquitectura de la Sede Medellín de la Universidad Nacional de
+Colombia y se deroga el Acuerdo MSFAr- 043 de 2017" EL
+CONSEJO DE FACULTAD DE ARQUITECTURA En ejercicio de
+las facultades conferidas por el artículo 6 del Acuerdo 036 de 2008 del Consejo
+Académico, y CONSIDERANDO: Que el Programa
+Curricular de Construcción de la Facultad de Arquitectura de la Sede Medellín de la Universidad Nacional de Colombia fue creado mediante el Acuerdo 142
+de 1968 del Consejo Superior Universitario. Que el plan de
+estudios del Programa Curricular de Construcción de la Facultad de Arquitectura
+de la Sede Medellín de la Universidad Nacional de Colombia se rige por
+el Acuerdo No. 36 de 2008 del Consejo Académico y por el Acuerdo MSFAr-043 de
+2017 del Consejo de la Facultad de Arquitectura. QUE los
+ciento ochenta (180) créditos exigidos del plan de estudios del Programa
+Curricular de Construcción, de la Facultad de Arquitectura de la Sede Medellín,
+de la Universidad Nacional de Colombia, se encuentran distribuidos y
+caracterizados así: a. Componente
+de Fundamentación: cincuenta y cuatro (54) créditos exigidos, cuarenta
+y cuatro (44) son obligatorios y diez (10) son optativos. b. Componente
+de Formación Disciplinar o Profesional: noventa (90)
+créditos exigidos, sesenta y ocho (68) son obligatorios y veintidós (22) son
+optativos. c. Componente
+de Libre Elección: treinta y seis (36) créditos exigidos, que
+corresponden al 20% del total de créditos del plan de estudios. QUE es necesario
+replantear el enfoque y alcance del componente de fundamentación en las
+agrupaciones de Ingeniería y Ciencias y Representación del Proyecto, como
+prerrequisito para cursar otras asignaturas del plan de estudios, dado que
+estos conocimientos son necesarios para garantizar la comprensión de contenidos
+y el desarrollo de competencias profesionales. QUE las
+asignaturas de la agrupación Representación del Proyecto deben adecuar sus
+contenidos a las necesidades específicas de formación de los estudiantes del
+programa curricular de Construcción . Que teniendo en
+cuenta los anteriores aspectos el Comité Asesor del programa Curricular de
+Construcción presentó propuesta de modificación del plan de estudios, con la
+finalidad de incluir prerrequisitos de asignaturas que se consideran
+fundamentales para mejorar la formación de los estudiantes del programa
+curricular de Construcción. Que el Consejo
+de la Facultad de Arquitectura de la Sede Medellín en su sesión del 04 de febrero
+ de 2019 mediante Acta 02; estudió y avaló la propuesta de modificación del
+plan de estudios del programa curricular Construcción, presentada por el Comité
+Asesor del programa Curricular de Construcción. QUE con mérito
+en lo anterior, ACUERDA ARTÍCULO 1. Especificar que
+las agrupaciones del Componente de Fundamentación y del Componente de Formación
+Disciplinar o Profesional del plan de estudios del programa curricular de
+Construcción están compuestas por las siguientes asignaturas: A)        COMPONENTE DE FUNDAMENTACIÓN Agrupación:
+Ingeniería y Ciencias Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 1000008 Geometría
+  vectorial y analítica 4 SI 1000019 Física
+  mecánica 4 SI 1000008 Geometría
+  vectorial y analítica Prerrequisito 1000004 Calculo
+  diferencial Prerrequisito 3007380 Geología
+  aplicada 3 SI 3006712 Análisis
+  estructural I- CNT 2 SI 1000019 Física
+  mecánica Prerrequisito 3006713 Análisis
+  estructural II- CNT 2 SI 3006712 Análisis
+  estructural I- CNT Prerrequisito 3007401 Topografía 3 SI 3006740 Fundamentos
+  de instalaciones técnicas 2 SI 1000004 Calculo
+  diferencial 4 SI Créditos exigidos en la agrupación Ingeniería y
+Ciencias: veinticuatro (24). Agrupación:
+Representación del Proyecto Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3010345 Representación
+  del proyecto 1- CNT 4 SI 3010346 Representación
+  del proyecto 2- CNT 4 SI 3010345 Representación
+  del proyecto 1- CNT Prerrequisito 3010347 Representación
+  del proyecto 3- CNT 4 SI 3010346 Representación
+  del proyecto 2- CNT Prerrequisito Créditos exigidos en la agrupación Representación
+del Proyecto: doce (12). Agrupación:
+Humanística Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3006605 Introducción
+  historia y teoría 4 SI 3006745 Hábitat
+  I 2 SI 3006746 Hábitat
+  II 2 SI 3006745 Hábitat
+  I Prerrequisito Créditos exigidos en la agrupación Humanística: ocho
+(8). Agrupación:
+Optativas Componente de Fundamentación Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 1000005 Calculo
+  integral 4 NO 1000004 Calculo
+  diferencial Prerrequisito 3007418 Mecánica
+  de suelos y rocas 4 NO 3007380 Geología
+  aplicada Prerrequisito 3006618 Representación
+  del proyecto 4 2 NO 3010347 Representación
+  del proyecto 3- CNT Prerrequisito 3006619 Representación
+  del proyecto 5 2 NO 3006618 Representación
+  del proyecto 4 Prerrequisito 3006620 Representación
+  del proyecto 6 2 NO 3006619 Representación
+  del proyecto 5 Prerrequisito 3007829 Énfasis
+  1 en representación del proyecto: gestión informática del modelo constructivo 6 NO 3006619 Representación
+  del proyecto 5 Prerrequisito 3006601 Historia
+  y teoría 1 2 NO 3006605 Introducción
+  historia y teoría Prerrequisito 3006602 Historia
+  y teoría 2 2 NO 3006603 Historia
+  y teoría 3 2 NO 3006604 Historia
+  y teoría 4 2 NO 3010187 Taller
+  de hábitat 4 NO 3006745 Hábitat
+  I Prerrequisito 3006600 Urbanística
+  1 2 NO 3006605 Introducción
+  historia y teoría Prerrequisito 3006627 Urbanística
+  2 2 NO 3006600 Urbanística
+  1 Prerrequisito 3006793 Urbanística
+  3 2 NO Créditos exigidos en la agrupación Optativas
+Componente de Fundamentación: diez (10). B)        COMPONENTE
+DE FORMACIÓN DISCIPLINAR O PROFESIONAL Agrupación:
+Materiales de Construcción Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3006739 Química
+  de los materiales 2 SI 3006741 Materiales
+  I 2 SI 3006739 Química
+  de los materiales Prerrequisito 3006780 Materiales
+  II 2 SI 3006739 Química
+  de los materiales Prerrequisito 3006781 Materiales
+  III 2 SI 3006741 Materiales
+  I Prerrequisito 3006782 Materiales
+  IV 2 SI 3006739 Química
+  de los materiales Prerrequisito Créditos exigidos en la agrupación Materiales de
+Construcción: diez (10). Agrupación:
+Patología: Prevención Mantenimiento y Restauración de Edificaciones Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+  Correquisito Código Nombre Requisitos 3010220 Patología
+  I 2 SI 3006720 Construcción
+  IV Prerrequisito 3006787 Patología
+  II 2 SI 3010220 Patología
+  I Prerrequisito 3010221 Patología
+  III 2 SI 3006787 Patología
+  II Prerrequisito Créditos exigidos en la agrupación Patología: Prevención
+Mantenimiento y Restauración de Edificaciones: seis (6). Agrupación:
+Ejecución de Obras Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+  Correquisito Código Nombre Requisitos 3010319 Construcción
+  I 3 SI 3010283 Construcción
+  II 3 SI 3010319 Construcción
+  I Prerrequisito 3006719 Construcción
+  III 3 SI 3010283 Construcción
+  II Prerrequisito 3006720 Construcción
+  IV 3 SI 3006719 Construcción
+  III Prerrequisito 3006722 Construcción
+  V 3 SI 3006720 Construcción
+  IV Prerrequisito 3006723 Construcción
+  VI 3 SI 3006720 Construcción
+  IV Prerrequisito 3006740 Fundamentos
+  de instalaciones técnicas Prerrequisito 3006724 Construcción
+  VII 3 SI 3006720 Construcción
+  IV Prerrequisito 3006740 Fundamentos
+  de instalaciones técnicas Prerrequisito 3006772 Taller
+  I- CNT 4 SI 3006719 Construcción
+  III Prerrequisito 3007401 Topografía Prerrequisito 3010347 Representación
+  del proyecto III- CNT Prerrequisito 3006712 Análisis
+  estructural I Prerrequisito 3006773 Taller
+  II- CNT 4 SI 3006772 Taller
+  I- CNT Prerrequisito 3006722 Construcción
+  V Prerrequisito 3006774 Taller
+  III- CNT 4 SI 3006773 Taller
+  II- CNT Prerrequisito 3006723 Construcción
+  VI Prerrequisito Créditos exigidos en la agrupación Ejecución de
+Obras: treinta y tres (33). Agrupación:
+Gestión de la Construcción Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3006760 Legislación
+  laboral y pública 3 SI 3006762 Programación
+  de obras I 2 SI 3006720 Construcción
+  IV Prerrequisito 3006732 Costos
+  y presupuestos I 2 SI 3006762 Programación
+  de obras I Prerrequisito 3006729 Controles
+  de obra I 2 SI 3006762 Programación
+  de obras I Prerrequisito 3006743 Gestión
+  integrada de proyectos I 2 SI 3006732 Costos
+  y presupuestos I Prerrequisito 3006768 Sistemas
+  de gestión 2 SI 3006729 Controles
+  de obra I Prerrequisito Créditos exigidos en la agrupación Gestión de la
+Construcción: trece (13). Agrupación:
+Trabajo de Grado Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+  Correquisito Código Nombre Requisitos 3006715 Trabajo
+  de grado 6 SI 3010221 Patología
+  III Prerrequisito 3006724 Construcción
+  VII Prerrequisito 3006774 Taller
+  III- CNT Prerrequisito 3006743 Gestión
+  integrada de proyectos I Prerrequisito 3006768 Sistemas
+  de gestión Prerrequisito Créditos exigidos en la agrupación Trabajo de Grado: seis (6). Agrupación:
+Optativas Componente Disciplinar o Profesional Código Nombre de la Asignatura Créditos Obligatoria Asignatura Prerrequisito /
+   Correquisito Código Nombre Requisitos 3009047 Materiales
+  V 3 NO 3006741 Materiales
+  I Prerrequisito 3006780 Materiales
+  II Prerrequisito 3006781 Materiales
+  III Prerrequisito 3006782 Materiales
+  IV Prerrequisito 3009048 Materiales
+  VI 3 NO 3009047 Materiales
+  V Prerrequisito 3009050 Patología
+  IV 3 NO 3010221 Patología
+  III Prerrequisito 3006725 Construcción
+  VIII 3 NO 3006720 Construcción
+  IV Prerrequisito 3009307 Taller
+  IV- CNT 4 NO 3006773 Taller
+  II- CNT Prerrequisito 3006724 Construcción
+  VII Prerrequisito 3006776 Taller
+  V- CNT 4 NO 3006725 Construcción
+  VIII Prerrequisito 3007283 Contabilidad
+  de costos 4 NO 3007202 Fundamentos
+  de economía 3 NO 3006914 Estadística
+  I 4 NO 3009054 Programación
+  de obras II 3 NO 3006762 Programación
+  de obras I Prerrequisito 3009042 Costos
+  y presupuestos II 3 NO 3006732 Costos
+  y presupuestos I Prerrequisito 3009040 Controles
+  de obra II 3 NO 3006729 Controles
+  de obra I Prerrequisito 3009044 Gestión
+  integrada de proyectos II 3 NO 3006743 Gestión
+  integrada de proyectos I Prerrequisito 3009041 Controles
+  de programación 3 NO 3006762 Programación
+  de obras I Prerrequisito 3009039 Control
+  de costos 3 NO 3006732 Costos
+  y presupuestos I Prerrequisito 3009043 Gerencia
+  de proyectos Inmobiliarios 3 NO 3006732 Costos
+  y presupuestos I Prerrequisito 3009045 Interventoría 3 NO 3006722 Construcción
+  V Prerrequisito 3009046 Legislación
+  ambiental- CNT 3 NO 3009010 Contratación 3 NO 3006760 Legislación
+  laboral y pública Prerrequisito 3009053 Planes
+  de negocios 3 NO 3009101 Residencia
+  en obra 3 NO 3006732 Costos
+  y presupuestos I Prerrequisito 3009485 Metodología
+  de la investigación en construcción 4 NO 3006722 Construcción
+  V Prerrequisito 3009082 Iluminación 3 NO Créditos exigidos en la agrupación Optativas
+Componente Profesional: veintidós (22). ARTÍCULO 2. La oferta de
+asignaturas optativas será revisada periódicamente y podrá ser modificada por
+el Consejo de Facultad, previa recomendación del Comité Asesor del programa de
+Construcción, teniendo en cuenta en dichas modificaciones, el mejoramiento en
+el nivel de flexibilidad del plan de estudios. ARTÍCULO 3. El presente
+Acuerdo rige a partir de la fecha de su publicación en el Sistema de
+información Normativa, jurisprudencial y de Conceptos "Régimen Legal" de la
+Universidad Nacional de Colombia y deroga las normas que le sean contrarias, en
+particular el Acuerdo MSFAR- 043 de 2017. PUBLÍQUESE Y
+CÚMPLASE Dada en Medellín
+el 14 de mayo de 2019 JUAN PABLO DUQUE
+CAÑAS Presidente CLAUDIA MARIA
+BETANCUR MONTOYA Secretaria

@@ -1,0 +1,61 @@
+ACUERDO
+084 DE 2019 (Acta No.040 DEL 3 DE OCTUBRE) "Por la cual se modifica la Resolución CFA- 126 de 2008, en
+cuanto a los prerrequisitos de asignaturas del programa curricular de
+Administración de Sistemas Informáticos" EL
+CONSEJO DE FACULTAD DE ADMINISTRACIÓN DE LA UNIVERSIDAD NACIONAL DE COLOMBIA -
+SEDE MANIZALES En uso de sus facultades legales y
+estatutarias establecidas en el Acuerdo 011 de 2005 del Consejo Superior
+Universitario, y CONSIDERANDO: Que el Consejo Superior Universitario en sesión del 26 de
+noviembre aprobó el Acuerdo 033 de 2007 "Por el cual se establecen los lineamientos
+básicos para el proceso de formación de los estudiantes de la Universidad
+Nacional de Colombia a través de sus programas curriculares" ; Que el Consejo Académico, mediante Acuerdo 018 del 25 de septiembre
+de 2008, Acta 09, aprobó la modificación de la estructura del plan de estudios
+del programa curricular de Administración de Sistemas Informáticos de la
+Facultad de Administración de la Sede Manizales de la Universidad Nacional de
+Colombia para adaptarse al Acuerdo 033 de 2007; Que el Consejo de la Facultad de Administración, mediante
+Resolución CFA-126 de 2008 especificó los créditos, las agrupaciones y las
+asignaturas del plan de estudios del programa curricular de Administración de
+Sistemas Informáticos para adaptarse al Acuerdo 033 de 2007 del Consejo
+Superior Universitario; Que el Comité Asesor del programa curricular de Administración de
+Sistemas Informáticos, mediante oficio ACICO-074 de 23 de julio de 2019,
+solicitó al Consejo de la Facultad modificar los prerrequisitos del plan de
+estudios, a partir del primer semestre de 2020, previo estudio y recomendación
+por parte del cuerpo académico del Departamento de Informática y Computación; Que el Consejo de Facultad de Administración, en las sesiones del
+29 de julio de 2019, Acta No. 031 y del 3 de octubre de 2019, Acta No. 040,
+acordó aprobar la solicitud del Comité Asesor para modificar los prerrequisitos
+referidos en el cuarto considerando; Que en mérito de lo anterior, ACUERDA: Artículo 1. Modificar el Artículo 2 ,
+de la Resolución CFA-126 de 2008, del Consejo de Facultad de Administración, el
+cual queda en los siguientes términos: a) Componente de Fundamentación: Agrupación: Cuantitativa NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Estadística I 3 SI Cálculo Integral Prerrequisito Cálculo Diferencial 4 SI - - Cálculo Integral 4 SI Cálculo Diferencial Prerrequisito Investigación de Operaciones I 3 SI Algebra Lineal Prerrequisito Algebra Lineal 4 SI - - Matemáticas Discretas 3 SI - - Estadística II 3 NO Estadística I Prerrequisito Cálculo Vectorial 4 NO Cálculo Integral Prerrequisito Investigación de Operaciones II 3 NO Investigación de Operaciones I Prerrequisito Ecuaciones Diferenciales 4 NO Cálculo Integral Prerrequisito Física Mecánica 4 NO Cálculo Diferencial Prerrequisito Créditos exigidos en la agrupación Cuantitativa: veintisiete (27) Agrupación: Administración NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Introducción a la Administración de Sistemas Informáticos 3 SI - - Teoría de la Administración y la Organización I 3 SI - - Contabilidad y Costos 4 SI - - Administración Financiera 3 SI Contabilidad y Costos Prerrequisito Fundamentos de Economía 3 SI Introducción a la Administración de Sistemas Informáticos Prerrequisito Créditos exigidos en la agrupación Administración: dieciséis (16) Agrupación: Humanística NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Introducción a la Epistemología 3 SI - - Psicología Social 3 SI Haber aprobado 25 créditos (30%) del componente profesional Créditos exigidos en la agrupación Humanística: seis (6) Agrupación: Herramientas Informáticas NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Soluciones Lógicas Computacionales 3 SI - - Créditos exigidos en la agrupación Herramientas Informáticas: tres (3) b)
+Componente de formación disciplinar o profesional: Agrupación: Opcionales profesional NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Simulación 3 NO Investigación de Operaciones I Prerrequisito Dinámica de Sistemas 3 NO Introducción a la Administración de Sistemas Informáticos Prerrequisito Estadística I Auditoría de Sistemas II 3 NO Auditoría de Sistemas I Prerrequisito Minería de Datos 3 NO Estadística I Prerrequisito Bases de Datos I Bases de Datos II 3 NO Bases de Datos I Prerrequisito Sistemas Inteligentes Computacionales 3 NO Estructuras de Datos Prerrequisito Modelos de Gestión de Tecnologías de Información 3 NO Auditoría de Sistemas I Prerrequisito Sociología de la Industria y el Trabajo 3 NO - - Sistemas de Gestión Integral y Gestión del Conocimiento 3 NO Haber aprobado 16 créditos (20%) del componente profesional Teoría de la Administración y la Organización II 3 NO Teoría de la Administración y la Organización I Prerrequisito Ingeniería de Software III 3 NO Ingeniería de Software II Prerrequisito Créditos exigidos en la agrupación Opcionales profesional: nueve (9) Agrupación: Programación NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Estructuras de Datos 3 SI Programación II Prerrequisito Matemáticas Discretas Programación I 3 SI Soluciones Lógicas Computacionales Prerrequisito Análisis y Diseño de Algoritmos 3 SI Estructuras de Datos Prerrequisito Programación II 3 SI Programación I Prerrequisito Créditos exigidos en la agrupación Programación: doce (12) Agrupación: Sistemas de información e ingeniería de software . NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Bases de Datos I 3 SI Estructuras de Datos Prerrequisito Ingeniería de Software I 3 SI Planeación de Sistemas de Información Prerrequisito Análisis y Diseño de Algoritmos Ingeniería de Software II 3 SI Ingeniería de Software I Prerrequisito Planeación de Sistemas de Información 3 SI Sistemas de Información Prerrequisito Sistemas de Información 3 SI Introducción a la Administración de Sistemas Informáticos Prerrequisito Créditos exigidos en la agrupación Sistemas de información e
+ingeniería de software: quince
+(15) Agrupación: Gestión informática NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Auditoría de Sistemas I 3 SI Planeación de Sistemas de Información Prerrequisito Sistemas Operativos Formulación y Evaluación de Proyectos Informáticos 3 SI Administración Financiera Prerrequisito Legislación Tecnológica 3 SI Contabilidad y Costos Prerrequisito Metodología de Investigación 3 SI Haber aprobado 117 créditos (70%) del plan de estudios Estadística I Prerrequisito Gerencia Estratégica del Talento Humano 3 SI Haber aprobado 94 créditos (56%) del plan de estudios Inteligencia de Negocios 3 SI Haber aprobado 25 créditos (30%) del componente profesional Bases de Datos I Prerrequisito Teoría de la decisión y Aprendizaje Organizacional 3 SI Haber aprobado 25 créditos (30%) del componente profesional Gerencia de Proyectos Tecnológicos 3 SI Formulación y Evaluación de Proyectos Informáticos Prerrequisito Gerencia Estratégica del Talento Humano Créditos exigidos en la agrupación Gestión informática: veinticuatro (24) Agrupación: Sistemas computacionales NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Arquitectura de Computadores 3 SI - - Sistemas Operativos 3 SI Arquitectura de Computadores Prerrequisito Fundamentos de Redes de Datos 3 SI Sistemas Operativos Prerrequisito Créditos exigidos en la agrupación Sistemas computacionales: nueve (9) Agrupación: Práctica profesional NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Práctica 7 SI Haber aprobado 63 (77%) créditos exigidos en el componente
+  disciplinar o profesional. Créditos exigidos en la agrupación Práctica profesional: 7 (siete) Trabajo de grado NOMBRE DE LA ASIGNATURA CRÉDITOS OBLIGATORIA ASIGNATURA
+  PRERREQUISITO/CORREQUISITO NOMBRE REQUISITOS Trabajo de Grado 6 SI Metodología de Investigación. Prerrequisito Haber aprobado 63 (77%) créditos exigidos en el componente
+  disciplinar o profesional. Créditos exigidos para
+Trabajo de grado: seis (6) Parágrafo . El plan de transición para las modificaciones de
+requisitos del plan de estudios será: para la asignatura Auditoria de Sistemas
+I, el requisito de Sistemas Operativos a partir del segundo semestre del 2020;
+para el requisito de la asignatura Metodología de Investigación, haber aprobado
+117 créditos (70%) del plan de estudios a partir del primer período académico
+del año 2021; los demás requisitos se aplicarán a partir del primer semestre
+del año 2020. ARTÍCULO 2. El
+presente Acuerdo rige a partir de la fecha de su publicación en el Sistema de
+Información Normativa, Jurisprudencial y de Conceptos Régimen Legal de la
+Universidad Nacional de Colombia y deroga aquellas que le
+sean contrarias en particular las resoluciones CFA-032 de 2009, CFA- 061 de 2009
+y el Acuerdo 04 de 2011. PUBLÍQUESE,
+COMUNÍQUESE, Y CÚMPLASE. Dado en Manizales, a los tres (3) días
+del mes de octubre de dos mil diecinueve (2019) JAIME ANDRÉS
+VIEIRA SALAZAR Presidente
+del Consejo FRANCISCO
+JAVIER VALENCIA DUQUE Secretario
+Académico

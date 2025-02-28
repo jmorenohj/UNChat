@@ -1,0 +1,184 @@
+RESOLUCIÓN  253  DE 2019 03 DE ABRIL) "Por medio de la cual se adopta la Política
+del carné institucional en la Universidad Nacional de Colombia" LA RECTORA DE LA UNIVERSIDAD NACIONAL DE
+COLOMBIA En uso de sus facultades legales y
+estatutarias, y CONSIDERANDO Que
+según lo establecido en el artículo 16 del Acuerdo 011 de 2005 del Consejo
+Superior Universitario, Estatuto General, es competencia de la Rectoría expedir
+la reglamentaciones y actos administrativos que sean necesarios para el
+cumplimiento de la misión de la Universidad, y que no sean competencia de otra
+instancia de la misma. Que
+en el numeral 3 del artículo 4 del citado Estatuto, se establece como principio
+de la organización interna de la Universidad, la coordinación y desarrollo de
+funciones por parte de las distintas instancias y dependencias, orientadas a
+armonizar la gestión institucional. Que,
+con el fin de garantizar la gestión académica y administrativa, eficiente y
+eficaz, es necesario establecer la política de carné institucional que permita,
+entre otros, identificar a todos los miembros de la comunidad universitaria y
+demás personas que temporalmente se vinculen a la misma. Que en el numeral 2.4 del artículo 3 de
+la resolución 185 de 2017 de Rectoría se establece como función de la Dirección
+Nacional de Tecnologías de la Información y Comunicaciones, la definición de los estándares y lineamientos sobre Tecnologías de la Información y las
+Comunicaciones -TIC- para toda la Universidad Nacional de Colombia. Que de conformidad con el numeral 3 del
+artículo 2 de la resolución 381 de 2014 de Rectoría, le corresponde a la Unidad
+de Medios de Comunicación -UNIMEDIOS, formular, implementar y hacer el
+seguimiento de las políticas de identidad e imagen institucional. De igual
+manera, el artículo 10 de la Resolución 101 de 2016 de la Rectoría, prescribe
+que la dirección de UNIMEDIOS será la responsable de la elaboración, evaluación
+y actualización permanente de las guías para el tratamiento de los elementos de
+identidad visual y el manejo de la imagen institucional. Que
+es preciso establecer los lineamientos y responsabilidades para la
+estandarización, expedición e implementación del carné institucional en todas
+las sedes de la Universidad Nacional de Colombia. Esto con el fin de facilitar
+a la comunidad universitaria, el acceso a los servicios y la recuperación de
+datos e información para la toma de decisiones. En
+mérito de lo anterior, RESUELVE CAPÍTULO I Aspectos Generales ARTÍCULO
+1. La
+presente política establece los lineamientos y responsabilidades para la estandarización,
+expedición e implementación del carné institucional en la Universidad Nacional
+de Colombia. ARTICULO
+2.  Objetivos. Los
+objetivos de la Política son: 2.1. Fomentar
+el sentido de pertenencia e identidad con la institución. 2.2. Facilitar
+el acceso a los servicios que se prestan en las distintas instancias y
+facilitar la convivencia de la comunidad universitaria. 2.3 Posibilitar
+la movilidad de los miembros de la comunidad universitaria entre las distintas Sedes
+de la Universidad. 2.4 Facilitar
+la identificación y acceso a los campus de las Sedes, a todos los miembros de
+la comunidad universitaria y demás personas que por razones distintas se
+encuentran vinculados a la misma. 2.5 Contribuir
+con la seguridad y convivencia de los miembros de la comunidad universitaria,
+personas que temporalmente se vinculen a la misma y visitantes en los campus de
+las Sedes de la Universidad. 2.6 Acceder
+a servicios externos con base en lo definido por la Universidad. 2.7 Generar
+la información estadística necesaria para tomar decisiones y formular planes de
+mejora de los servicios. ARTÍCULO
+3.  Responsables de la gestión de la identificación institucional. Las dependencias
+que se describen a continuación, son responsables de la aplicación de los
+lineamientos para la estandarización, expedición e implementación del carné
+institucional, de acuerdo a sus competencias, de la siguiente manera: 3.1 .     La
+Dirección Nacional de Tecnologías de la Información y las Comunicaciones -
+DNTIC. Es la responsable de la definición de la directriz técnica aplicable
+y de la revisión, evaluación permanente y actualización de acuerdo con el
+desarrollo tecnológico o la conveniencia de adopción de nuevas tecnologías. La
+directriz técnica incorporará como mínimo: esquemas de licenciamiento, software
+para el control de la expedición del carné institucional, tecnologías a
+utilizar, e información que contendrá cada una de las tecnologías incluidas en
+el carné. A
+partir de la entrada en vigencia de la presente resolución, se debe tener en
+cuenta los siguiente: 3.1.1. Para la adquisición de soluciones de control de acceso, se debe
+tener un servidor maestro para toda la Universidad, y cada sede debe tener un
+servidor satélite o esclavo. 3.1.2. Las tarjetas inteligentes elegidas en conjunto entre la DNTIC
+y las OTIC por las sedes de la Universidad, deben tener un serial único con el
+fin de que sea compatible con el resto de los sistemas en la sede. Las tarjetas
+implementadas en las sedes deben cumplir con el estándar ISO 14443. 3.1.3. Cada sede debe contar con lectores multitecnología que
+permitan la lectura de al menos, los siguientes carnés con serial único: MIFARE
+Classic, MIFARE Ultraligth, MIFARE T-CL, MNIFARE Desfire, MIFARE DESFire EV1. 3.2. La
+Unidad de Medios de Comunicación - UNIMEDIOS. Es la responsable de la
+definición de la imagen del carné institucional y de la tarjeta provisional,
+así como de conceptuar y avalar los ajustes de diseño que se requieran de
+acuerdo con requerimientos de la Universidad. 3.3. Las
+Vicerrectorías de Sede o quien haga sus veces. Son las responsables
+de la implementación de la política del carné institucional en su sede. En el
+nivel nacional la responsabilidad es de la Vicerrectoría General. 3.4. Las
+Direcciones de Bienestar Universitario y de Personal de cada sede. Son las
+responsables de las acciones pedagógicas dirigidas a los usuarios sobre el
+porte y uso adecuado y uso del carné institucional dentro y fuera de la
+Universidad. 3.5. Las
+Divisiones de Registro de cada Sede. Son las responsables de las siguientes
+labores: 3.5.1. Solicitar a la DNTIC y a UNIMEDIOS las directrices
+relacionadas con el carné institucional y aplicar las mismas, de acuerdo con su
+competencia. 3.5.2. La emisión y activación del
+carné institucional y la expedición de la tarjeta provisional, en los casos en
+los que los Vicerrectores de sede, lo determinen: En Sede Bogotá En Sedes Medellín, Manizales,  Palmira y la Paz Para usuarios del nivel Nacional, de
+  la sede Bogotá y de las sedes de Presencial Nacional. Para los usuarios de sus respectivas
+  sedes. 3.5.3. La reposición por deterioro, pérdida, o hurto, de acuerdo al
+procedimiento que se establezca para tal fin. El valor del duplicado se regirá
+por lo definido en el artículo 7 sobre tarifas de la presente resolución. 3.5.4. La modificación de datos biográficos o errores que requieran
+la rectificación del documento. 3.5.5. La confirmación de la autenticidad de cada carné y tarjeta
+expedida, previo requerimiento de las autoridades competentes. 3.5.6. La verificación del vínculo de la persona con la Universidad
+que dio lugar a la emisión del documento y la veracidad de la información
+consignada en el mismo. 3.5.7. La inactivación o destrucción del carné en las circunstancias
+que se establezcan y el reporte a las autoridades universitarias competentes de
+los casos de falsificación de carnés y tarjetas que sean puestos en su
+conocimiento. 3.6. Las
+instancias disciplinarias de cada sede. Según el tipo de vinculación,
+procederán en los casos que se presenten usos inadecuados del carné
+institucional y de la tarjeta provisional. 3.7. Personal
+de vigilancia y seguridad de cada sede. Son responsables de adelantar acciones de
+control y prevención del riesgo en el campus, por tanto, están autorizados para verificar
+que quien porte el carné sea su titular. En caso de que detecten el uso
+inadecuado de dicho documento y la suplantación de su titular, podrán retenerlo
+y remitirlo a la División de Registro, con el fin de que se adelante la
+investigación del caso. ARTÍCULO 4.  Responsables de la
+gestión de los servicios. Las Direcciones de Bienestar, Investigación y
+Extensión, Financiera y Administrativa de cada Sede, serán las encargadas de
+determinar en cuáles de los servicios que prestan se utilizará el carné. Estas
+dependencias coordinarán esta gestión con los responsables de los sistemas de información.
+De igual manera, realizarán los ajustes necesarios para el registro de los
+servicios acordados, los cuales dependerán de la viabilidad financiera y
+tecnológica con que se cuente. No
+obstante, deberá considerarse como mínimo, la utilización del carné para los
+siguientes servicios: 4.1. [Bibliotecas] - Ingreso y préstamos bibliotecarios. 4.2. [Vigilancia]
+- Acceso peatonal y vehicular. 4.3 [Dirección
+de Bienestar] - Control de uso del bono alimentario. 4.4 [Bicirrum]
+- Préstamo de bicicletas en el caso de la Sede Bogotá. PARÁGRAFO. En caso de olvido del carné, cada
+dependencia prestadora de servicios deberá
+definir los lineamientos para la prestación de los mismos; tendrán máximo 6
+meses, contados desde la fecha en que entre en vigor la presente resolución. ARTÍCULO
+5.  Usuarios, tipos de identificación y período de validez. 5.1 Usuarios. Son las personas que accederán a los servicios ofertados por
+la Universidad a través del carné institucional, según la tipología definida
+por la universidad. 5.2 Tipos de identificación. Carné institucional y tarjeta
+provisional 5.2.1 Carne institucional . Es el documento oficial que acredita a una
+persona y los faculta para ejercer derechos y deberes dentro y fuera de la
+Universidad Nacional de Colombia. En su calidad de: Estudiante de pregrado o posgrado, Docente o funcionario, Estudiante de colegio y jardín de la Sede Bogotá o la Escuela de la Sede
+Medellín, Egresado o pensionado. 5.2.2. Tarjeta
+provisional .
+Es el documento que emite la Universidad a las personas que se encuentran
+vinculadas a la Institución temporalmente, acreditándolas, entre otros como: Contratistas Administrativo
+con vinculo provisional Docente
+no vinculado a la carrera Estudiante
+en movilidad nacional e internacional Estudiante
+vinculado a programas de educación continua y permanente. 5.3. Validez. El
+carné institucional estará vigente desde su emisión hasta la finalización del
+vínculo de la persona con la Universidad. Por interés propio los egresados y
+pensionados podrán solicitar la expedición de un carné institucional con dicha
+vinculación, cuya validez será permanente. La
+tarjeta provisional tendrá validez por el tiempo que duren las actividades que
+realizan en la institución y su expedición puede ser a través de medios
+impresos, utilizando los materiales y el formato que para ese fin determine
+Unimedios. La información será la misma del carné institucional, a excepción de
+los ítems 6.5 y 6.6. PARÁGRAFO.2           Deberes. El carné
+institucional y la tarjeta provisional son personales e intransferibles, el uso
+de éstos es permanente al interior de la Universidad y fuera de ella cuando se
+requiera. Los usuarios de los mismos, son responsables de su conservación y
+utilización adecuada, por tanto, no podrán cederse a terceros con fines de
+suplantación. Es obligatorio presentarlos al ser requerido por alguna autoridad
+o funcionario de la institución. CAPÍTULO II Contenido y tarifas del documento de
+identificación institucional ARTÍCULO
+6.  Contenido. El
+carné institucional de la Universidad Nacional de Colombia, tendrá consignados
+los siguientes datos: 6.1 Logo
+símbolo de la Universidad. 6.2 Nombres
+y Apellidos. 6.3 Fotografía. 6.4 Número
+de documento de identidad. 6.5 Grupo
+sanguíneo. 6.6 Factor
+RH. 6.7 Tipo
+de vinculación y duración en el caso de las tarjetas provisionales. 6.8 Texto
+de recomendación. 6.9 Firma
+del Vicerrector o Director de sede. 6.10 Componentes
+tecnológicos: Código de Barras, chip, código QR. ARTÍCULO
+7.  Tarifas. Para
+la expedición del carné institucional se regirán según lo definido en el Acuerdo 173 de 2014 del Consejo Superior Universitario "Por el cual se
+fijan derechos de pago para la expedición de documentos y realización de
+algunos trámites académico - administrativos" y la Resolución 1574 de 2014 de la Rectoría "Por la cual se fijan tarifas para la
+expedición de documentos solicitados por servidores públicos, ex servidores
+públicos y contratistas de la Universidad Nacional de Colombia" o
+aquellas que las deroguen o modifiquen. CAPÍTULO III Consideraciones finales ARTÍCULO
+8.  Régimen de Transición. La aplicación de la presente política se realizará a
+partir del semestre siguiente a la expedición de la presente resolución. Los
+carnés actuales mantendrán para todos los efectos su validez, siempre y cuando
+se mantenga la vinculación acreditada en ellos. ARTÍCULO
+9.  Vigencia. Esta
+resolución rige a partir de la fecha de su publicación en el Sistema de
+Información Normativa, Jurisprudencial y de Conceptos - Régimen Legal de la
+Universidad Nacional de Colombia. PUBLÍQUESE Y CÚMPLASE Dada en Bogotá, D.C. a los 3 días del
+mes de abril de 2019. DOLLY MONTOYA CASTAÑO Rectora

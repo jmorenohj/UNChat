@@ -1,0 +1,56 @@
+ACUERDO
+2 DE 2022 (ACTA
+11 DEL 04 DE ABRIL) Derogado por Art. 4, Acuerdo CF Minas 5 de 2022. "Por
+el cual se modifica parcialmente la agrupación "Optativas Componente
+Disciplinar" del literal b) del artículo 1 del Acuerdo 27 de 2019 del Consejo
+de la Facultad de Minas a través del cual se establece el plan de estudios del
+programa curricular de pregrado Ingeniería de Control de la Facultad de Minas
+de la Universidad Nacional de Colombia, Sede Medellín" EL CONSEJO DE LA FACULTAD DE MINAS, En
+ejercicio de las facultades conferidas por los artículos 6 y 12 del Acuerdo 156
+de 2018 del Consejo Académico, y CONSIDERANDO Que el plan de
+estudios vigente del Programa Curricular de Ingeniería de Control de la
+Facultad de Minas de la Universidad Nacional de Colombia, Sede Medellín, se
+rige por el Acuerdo 156 de 2018 del Consejo Académico y el Acuerdo 27 de 2019
+del Consejo de la Facultad de Minas de la Sede Medellín. Que en el Acuerdo 27
+de 2019 del Consejo de la Facultad de Minas en el Componente de Formación
+Disciplinar o Profesional, agrupación: "Optativas Componente Disciplinar" la signatura
+"Automatización Integrada" aparece como prerrequisito de la asignatura "Automatización
+Avanzada" así: b) Componente de
+Formación Disciplinar o Profesional: Agrupación: Optativas Componente Disciplinar Código Nombre Asignatura Créditos Obligatoria Requisitos Código Nombre Asignatura Tipo Área de Automatización e Instrumentación 3010498 Automatización Avanzada 3 NO 3010506 Automatización Integrada Prerrequisito Que el Comité de Directores de
+Área Curricular en sesión realizada el 28 de marzo mediante acta 07 de 2022, recomendó cambiar la asignatura
+"Automatización Integrada" de prerrequisito a correquisito de la asignatura
+"Automatización Avanzada". Que el Consejo de la Facultad de
+Minas en sesión 11 de 2022, realizada el 04 de abril, analizó la recomendación
+del Comité de Directores de Área Curricular de la Facultad de Minas y decidió
+aprobar la modificación. En mérito de lo anterior, ACUERDA ARTÍCULO 1. Modificar
+parcialmente el literal b) del artículo 1 del Acuerdo 27 de 2019 del Consejo de
+la Facultad de Minas, en lo que respecta a la agrupación denominada: "Optativas
+Componente Disciplinar" la cual quedará así: Agrupación:
+Optativas Componente Disciplinar Código Nombre Asignatura Créditos Obligatoria Requisitos Código Nombre Asignatura Tipo Área de Automatización e Instrumentación 3010424 Taller de Instrumentación, Control y Automatización 3 NO 3010412 Instrumentación Prerrequisito 3007344 Control: Análisis en Variables de Estado Prerrequisito 3010506 Automatización Integrada Correquisito 3010498 Automatización Avanzada 3 NO 3010506 Automatización Integrada Correquisito 3007595 Redes Teleinformáticas I 4 NO 3010483 Electrónica Digital Prerrequisito 3007596 Redes Teleinformáticas II 4 NO 3007595 Redes Teleinformáticas I Prerrequisito 3007597 Redes Teleinformáticas III 4 NO 3007596 Redes Teleinformáticas II Prerrequisito Área de Control 3010401 Control Predictivo 3 NO 3007344 Control: Análisis en Variables de Estado Prerrequisito 3007354 Identificación de Sistemas Correquisito 3010399 Control Adaptativo 3 NO 3007344 Control: Análisis en Variables de Estado Prerrequisito 3010509 Control Óptimo 3 NO 3007344 Control: Análisis en Variables de Estado Prerrequisito 3007354 Identificación de Sistemas Correquisito 3010406 Estimación de Estado 3 NO 3007344 Control: Análisis en Variables de Estado Prerrequisito Área de Electrónica y Telecomunicaciones 3010539 Procesamiento de señales 3 NO 3010421 Señales y Sistemas Lineales Prerrequisito 3010489 Modelado de Sistemas Fotovoltaicos 3 NO 3010457 Electrónica Análoga II Prerrequisito 3010484 Fundamentos de Electrónica de Potencia 3 NO 3010457 Electrónica Análoga II Prerrequisito 3010402 Control: Entrada - Salida Correquisito 3010493 Sistemas en Tiempo Real 3 NO 3010491 Procesadores Prerrequisito 3010532 Comunicaciones Digitales 3 NO 3010494 Telecomunicaciones Prerrequisito 3006876 Taller V (Electrónica Digital y Microcontroladores) 5 NO 3010458 Electrónica Análoga I Prerrequisito 3010435 Fundamentos de Programación Prerrequisito 3009671 Comunicaciones Inalámbricas y Redes de Sensores 3 NO 3010491 Procesadores Prerrequisito 3010494 Telecomunicaciones Prerrequisito 3006844 Fundamentos de Fibras Ópticas 4 NO 1000020-M Física de Oscilaciones, Ondas y Óptica Prerrequisito 3010458 Electrónica Análoga I Prerrequisito 3006850 Instrumentos Ópticos 4 NO 1000020-M Física de Oscilaciones, Ondas y Óptica Prerrequisito 3010412 Instrumentación Prerrequisito Área de Sistemas Dinámicos 3010520 Teoría Electromagnética 3 NO 1000017-M Física de Electricidad Y Magnetismo Prerrequisito 1000006-M Cálculo en Varias Variables Prerrequisito 3006905 Matemáticas Especiales Prerrequisito 3010661 Máquinas Eléctricas I 3 NO 3010520 Teoría Electromagnética Prerrequisito 3010662 Máquinas Eléctricas II 3 NO 3010661 Máquinas Eléctricas I Prerrequisito 3010538 Laboratorio de Máquinas Eléctricas 2 NO 3010662 Máquinas Eléctricas II Correquisito 3007814 Fenómenos de Transporte 4 NO 1000007-M Ecuaciones Diferenciales Prerrequisito 3010478 Termodinámica General Prerrequisito 3007821 Operaciones de Transferencia de Cantidad de Movimiento 4 NO 3010402 Control: Entrada - Salida Prerrequisito 3007814 Fenómenos
+  de Transporte Prerrequisito 3007811 Balances de Materia y Energía 4 NO 3010478 Termodinámica General Prerrequisito 3007820 Operaciones de Transferencia de Calor 4 NO 3010402 Control:
+  Entrada - Salida Prerrequisito 3007814 Fenómenos
+  de Transporte Prerrequisito 3007822 Operaciones de Transferencia de Masa 4 NO 3010402 Control:
+  Entrada - Salida Prerrequisito 3007814 Fenómenos
+  de Transporte Prerrequisito 3006884 Álgebra Lineal Aplicada 4 NO 1000006-M Cálculo en Varias Variables Prerrequisito 1000003-M Álgebra Lineal Prerrequisito 3006908 Modelamiento Matemático 4 NO 1000007 -M Ecuaciones
+  Diferenciales Prerrequisito 3007187 Econometría I 4 NO 1000003-M Álgebra Lineal Prerrequisito 3010651 Estadística I Prerrequisito 3007188 Econometría II 4 NO 3007187 Econometría I Prerrequisito Área de Básicas Disciplinares 3006960 Mecánica de Fluidos 4 NO 1000019-M Física
+  Mecánica Prerrequisito 1000007-M Ecuaciones
+  Diferenciales Prerrequisito 3010436 Gestión del Mantenimiento 3 NO 3010651 Estadística I Prerrequisito 70% de Avance en el Componente de Formación Disciplinar o
+  Profesional Prerrequisito Área de Herramientas Informáticas 3007853 Ingeniería de Software 3 NO 3010435 Fundamentos de Programación Prerrequisito 3007744 Programación Orientada a Objetos 3 NO 3007853 Ingeniería de Software Prerrequisito 3007741 Estructura de Datos 3 NO 3007744 Programación Orientada a Objetos Prerrequisito 1000005-M Calculo Integral Prerrequisito 3007847 Bases de Datos I 3 NO 3007853 Ingeniería de Software Prerrequisito 3006906 Matemáticas Discretas Prerrequisito 3010426 Teoría de Lenguajes de Programación 3 NO 3010435 Fundamentos de Programación Prerrequisito 3006906 Matemáticas Discretas Prerrequisito 3010476 Introducción a la Inteligencia Artificial 3 NO 3010426 Teoría de Lenguajes de Programación Prerrequisito 3010651 Estadística I Prerrequisito 3007847 Bases de Datos I Prerrequisito Área de Proyectos en Ingeniería 3010674 Estrategias
+  de Gestión y Gerencia de Proyectos en Ingeniería 3 NO 3010407 Estructuración y Evaluación de Proyectos de Ingeniería Prerrequisito 3010537 Gestión
+  de Proyectos de Desarrollo y Metodología General Ajustada 3 NO 3010407 Estructuración y Evaluación de Proyectos de Ingeniería Prerrequisito 3010668 Proyectos
+  de Innovación y Desarrollo 3 NO 3010407 Estructuración y Evaluación de Proyectos de Ingeniería Prerrequisito 3010669 Toma de
+  Decisión para el Diseño en Ingeniería 3 NO 3010407 Estructuración y Evaluación de Proyectos de Ingeniería Prerrequisito 3010535 Fundamentos
+  de Ciclo de Vida para Ingeniería 3 NO 3010439 Proyecto Integrado de Ingeniería Prerrequisito Créditos exigidos en la agrupación Optativas Componente
+Disciplinar: Doce (12) ARTÍCULO 2. Las demás
+disposiciones contenidas en el Acuerdo 27 de 2019 del Consejo de la Facultad de
+Minas, se mantienen sin modificación alguna. ARTÍCULO 3. Comunicar el presente Acuerdo a la Dirección Académica de la Sede
+Medellín, a la Dirección de Área Curricular de Ingeniería Eléctrica e
+Ingeniería de Control de la Facultad de Minas y a la Dirección Nacional de
+Programas Curriculares de Pregrado. ARTÍCULO 4. El
+presente Acuerdo rige a partir de su publicación en el Sistema de Información
+Normativa, Jurisprudencial y de Conceptos - Régimen Legal. PUBLÍQUESE,
+COMUNÍQUESE Y CÚMPLASE Dado
+en Medellín, a los ocho (08) días del mes de abril de dos mil veintidós (2022). Verónica
+Catalina Botero Fernández Presidenta Flor
+Ángela Marulanda Valencia Secretaria
+de Facultad

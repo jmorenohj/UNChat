@@ -1,0 +1,131 @@
+ACUERDO 027 DE
+2019 (Acta CF-008 del
+2019) "Por el
+cual se deroga el Acuerdo 09 de 2016 de Consejo de Facultad, y se establecen las
+asignaturas del plan de estudios del programa curricular Matemáticas de la
+Facultad de Ciencias Sede Medellín ". EL CONSEJO DE LA
+FACULTAD DE CIENCIAS En uso de sus
+atribuciones legales y en especial las establecidas en el Artículo 8 del
+Acuerdo 12 de 2009 del Consejo Académico, y CONSIDERANDO Que el Consejo Académico, mediante
+Acuerdo 012 del 6 de marzo de 2009, Acta 02, aprobó la modificación de la
+estructura del plan de estudios del programa curricular Matemáticas de
+la Facultad de Ciencias de la Sede Medellín de la Universidad Nacional de
+Colombia para adaptarse al Acuerdo 033 de 2007 del Consejo Superior
+Universitario. Que los ciento cuarenta (140) créditos
+exigidos del plan de estudios del programa curricular Matemáticas , de la
+Facultad de Ciencias de la Sede Medellín, de la Universidad Nacional de
+Colombia, están distribuidos y caracterizados así: a. Componente de
+Fundamentación: cuarenta y ocho (48) créditos exigidos, de los cuales el estudiante deberá
+aprobar cuarenta (40) créditos correspondientes a asignaturas obligatorias y
+ocho (8) créditos correspondientes a asignaturas optativas. b. Componente de
+Formación Disciplinar o Profesional: sesenta y cuatro (64) créditos
+exigidos, de los cuales el estudiante deberá aprobar cuarenta y ocho (48)
+créditos correspondientes a asignaturas obligatorias y dieciséis (16) créditos
+correspondientes a asignaturas optativas. c.
+Componente de Libre Elección: veintiocho (28) créditos exigidos, que
+corresponden al 20% del total de créditos del plan de estudios. Que el Comité Asesor del programa Matemáticas en sesión del 11 de abril de 2019 (acta M.ACMAFC- 007) recomendó la modificación
+del plan de estudios ante el Consejo de la Facultad de Ciencias, que consistió
+en lo siguiente: · Agrupación:
+Geometría Básica: cambiar la asignatura obligatoria 3006891-Geometría
+Elemental por la 3010594-Geometría Euclidiana y no Euclidiana. · Agrupación: Matemática
+(fundamentación): cambiar la asignatura obligatoria 3006822-Conjuntos y
+Combinatoria por la 3010390-Fundamentos de Matemática Discreta. Cambiar la
+asignatura obligatoria 3006826-Sistemas Numéricos por la 3010389-Fundamentos de
+Análisis. Cambiar la asignatura obligatoria 3006934-Probabilidad por la
+3010394-Teoría básica de la probabilidad. · Agrupación:
+Electivas Disciplinares: agregar siete asignaturas optativas: 3010635-Pruebas
+básicas de independencia, 3010670-Introducción a la filosofía de las matemáticas,
+3010671-Introducción a la teoría de modelos y la recursión,
+3010393-Introducción a la teoría de la computación, 3010392-Introducción a
+algoritmos, 3010590-Tópicos avanzados en criptografía, 3010591-Tópicos
+especiales en algoritmos. · Agrupación: Análisis
+y Topología: agregar la asignatura optativa 3010586-Introducción a la topología
+algebraica avanzada. · Agrupación:
+Matemática Aplicada : agregar
+dos asignaturas optativas: 3010391- Geometría Aplicada y 3010588-Computación
+gráfica y visualización científica. · Agrupación:
+Trabajo de Grado: disminuir el número de créditos exigidos en asignaturas
+aprobadas en el Componente
+de Formación Disciplinar o Profesional, a 40 créditos (62,5%). · Eliminar el
+prerrequisito 3006824-Fundamentos de Matemáticas a la asignatura
+3006995-Programación Lineal y Optimización Combinatórica. Que el Consejo de Facultad en sesión del
+06 de mayo de 2019, Acta CF-008, estudió y acogió la propuesta de modificación
+del plan de estudios del programa curricular de pregrado Matemáticas. Que en mérito de lo expuesto, ACUERDA ARTÍCULO 1. Especificar las
+asignaturas de los componentes de Fundamentación y de Formación Disciplinar o
+Profesional del plan de estudios, de la siguiente manera: A) COMPONENTE DE FUNDAMENTACIÓN: Agrupación: Fundamentación
+en Física Código Nombre de la
+  Asignatura Créditos Obligatoria Asignatura
+  Prerrequisito / Correquisito Código Nombre Requisito 1000019-M Física Mecánica 4 SI 1000017-M Cálculo Diferencial Prerrequisito 1000020-M Física de Oscilaciones Ondas y
+  Óptica 4 NO 1000019-M Física Mecánica Prerrequisito 1000007-M Ecuaciones Diferenciales Prerrequisito 1000017-M Física de Electricidad y
+  Magnetismo 4 NO 1000019-M Física Mecánica Prerrequisito 1000005-M Cálculo Integral Prerrequisito Créditos
+exigidos en la agrupación Fundamentación en Física: ocho (8) Agrupación:
+Geometría Básica Código Nombre de la
+  Asignatura Créditos Obligatoria Asignatura
+  Prerrequisito / Correquisito Código Nombre Requisito 3010594 Geometría Euclidiana y no
+  Euclidiana. 4 NO -- -- -- 1000008 Geometría Vectorial y Analítica 4 NO -- ---- -- Créditos
+exigidos en la agrupación Geometría Básica: cuatro (4) Agrupación:
+Matemática (fundamentación) Código Nombre de la
+   Asignatura Créditos Obligatoria Asignatura
+   Prerrequisito / Correquisito Código Nombre Requisito 3006824 Fundamentos de Matemáticas 4 SI - - - 1000004 Cálculo Diferencial 4 SI - - - 3010390 Fundamentos de Matemática
+  Discreta 4 SI 3006824 Fundamentos de Matemáticas Prerrequisito 1000003 Álgebra Lineal 4 SI - - - 1000005 Cálculo Integral 4 SI 1000004 Cálculo Diferencial Prerrequisito 3010389 Fundamentos de Análisis 4 SI 3006824 Fundamentos de Matemáticas Prerrequisito 1000007 Ecuaciones Diferenciales 4 SI 1000005 Cálculo Integral Prerrequisito 1000003 Álgebra Lineal Prerrequisito 3010394 Teoría Básica de la
+  Probabilidad 4 SI 1000005 Cálculo Integral Prerrequisito 1000006 Cálculo en Varias Variables 4 SI 1000005 Cálculo Integral Prerrequisito Créditos
+exigidos en la agrupación Matemática (fundamentación): treinta y seis (36) B) COMPONENTE DE FORMACIÓN DISCIPLINAR O PROFESIONAL: Agrupación:
+Electivas Disciplinares Código Nombre de la
+   Asignatura Créditos Obligatoria Asignatura
+   Prerrequisito / Correquisito Código Nombre Requisito 3006903 Introducción a la Teoría de
+  Representación de Grupos 4 NO 3006993 Grupos y Anillos Prerrequisito 3006885 Álgebra Multilineal y Formas
+  Canónicas Prerrequisito 3006893 Introducción a la Geometría
+  Algebraica 4 NO 3006993 Grupos y Anillos Prerrequisito 3006913 Topología General Prerrequisito 3006900 Introducción a la Teoría de
+  Grafos 4 NO - - - 3006902 Introducción a la Teoría de
+  Nudos 4 NO - - - 3009257 Teoría Elemental de Números 4 NO - - - 3009354 Introducción al Álgebra no
+  Necesariamente Asociativas 4 NO 3006993 Grupos y Anillos Prerrequisito 3006898 Introducción a la Teoría de la
+  Computabilidad 4 NO 3010390 Fundamentos de Matemática
+  Discreta Prerrequisito 3006899 Introducción a la Teoría de
+  Conjuntos 4 NO 3006994 Introducción al Análisis Real Prerrequisito 3006894 Introducción al Álgebra
+  Computacional 4 NO 3006993 Grupos y Anillos Prerrequisito 3006897 Introducción a las Superficies
+  de Riemann 4 NO 3006735 Variable Compleja Prerrequisito 3006895 Introducción al Álgebra
+  Conmutativa 4 NO 3006993 Grupos y Anillos Prerrequisito 3010635 Pruebas básicas de
+  independencia 4 NO 3006904 Lógica Matemática Prerrequisito 3010670 Introducción a la filosofía de
+  las matemáticas 4 NO 3010389 Fundamentos de Análisis Prerrequisito 3010671 Introducción a la teoría de
+  modelos y la recursión 4 NO 3006904 Lógica Matemática Prerrequisito 3010393 Introducción a la teoría de la
+  computación 4 NO 3010390 Fundamentos de matemáticas
+  discretas Prerrequisito 3010392 Introducción a algoritmos 4 NO 3010390 Fundamentos de matemáticas
+  discretas Prerrequisito 3010590 Tópicos avanzados en
+  criptografía 4 No 3008082 Criptografía y seguridad Prerrequisito 3010591 Tópicos especiales en
+  algoritmos 4 No 3010392 Introducción a algoritmos Prerrequisito Créditos
+exigidos en la agrupación Electivas disciplinares: cuatro (4) Agrupación:
+Análisis y Topología Código Nombre de la
+   Asignatura Créditos Obligatoria Asignatura
+   Prerrequisito / Correquisito Código Nombre Requisito 3006887 Análisis Vectorial 4 SI 3006892 Integración y series Prerrequisito 3006994 Introducción al análisis real 4 SI 3010389 Fundamentos de Análisis Prerrequisito 3006892 Integración y series 4 SI 3006994 Introducción al Análisis real Prerrequisito 3006913 Topología General 4 SI 3006994 Introducción al Análisis real Prerrequisito 3006735 Variable Compleja 4 SI 3006892 Integración y series Prerrequisito 3006890 Geometría Diferencial 4 NO 1000003 Álgebra Lineal Prerrequisito 3006887 Análisis Vectorial Correquisito 1000006 Cálculo en Varias Variables Prerrequisito 3006896 Introducción al Análisis
+  Funcional 4 NO 3006892 Integración y series Prerrequisito 3006889 Ecuaciones Diferenciales
+  Parciales: Introducción 4 NO 3006892 Integración y series Prerrequisito 1000007 Ecuaciones Diferenciales Prerrequisito 3006910 Sistemas Dinámicos 4 NO 1000007 Ecuaciones Diferenciales Prerrequisito 3006912 Topología Algebraica I 4 NO 3006993 Grupos y Anillos Prerrequisito 3006913 Topología General Prerrequisito 3006901 Introducción a la Teoría de la
+  Medida 4 NO 3006892 Integración y series Prerrequisito 3009597 Introducción a la Topología
+  Diferencial 4 NO 3006913 Topología General Prerrequisito 3006887 Análisis Vectorial Correquisito 3010586 Introducción a la topología
+  algebraica avanzada 4 NO 3006913 Topología General Prerrequisito 3006993 Grupos y Anillos Prerrequisito Créditos
+exigidos en la agrupación Análisis y Topología: veintiocho (28) Agrupación:
+Álgebra y Lógica Código Nombre de la
+  Asignatura Créditos Obligatoria Asignatura
+  Prerrequisito / Correquisito Código Nombre Requisito 3006993 Grupos y Anillos 4 SI 3010390 Fundamentos de Matemática
+  Discreta Prerrequisito 3006885 Álgebra Multilineal y Formas
+  Canónicas 4 SI 3006993 Grupos y Anillos Prerrequisito 3006911 Teoría de Cuerpos 4 SI 3006993 Grupos y Anillos Prerrequisito 3006904 Lógica Matemática 4 SI 3006993 Grupos y Anillos Prerrequisito Créditos
+exigidos en la agrupación Álgebra y Lógica: dieciséis (16) Agrupación:
+Matemática Aplicada Código Nombre de la
+   Asignatura Créditos Obligatoria Asignatura
+   Prerrequisito / Correquisito Código Nombre Requisito 3006886 Análisis Numérico 4 SI 3006994 Introducción al Análisis real Prerrequisito 3006909 Programación Científica 4 NO - - - 3008082 Criptografía y Seguridad 4 NO 1000003 Álgebra lineal Prerrequisito 3006884 Álgebra Lineal Aplicada 4 NO 1000006 Cálculo en Varias Variables Prerrequisito 1000003 Álgebra Lineal Prerrequisito 3006908 Modelamiento Matemático 4 NO 1000007 Ecuaciones Diferenciales Prerrequisito 3006996 Programación no Lineal 4 NO 3006824 Fundamentos de Matemáticas Prerrequisito 1000006 Cálculo en varias variables Prerrequisito 1000003 Álgebra Lineal Prerrequisito 3006888 Diseño Geométrico Asistido por
+  Computadora 4 NO 1000006 Cálculo en Varias Variables Prerrequisito 1000003 Álgebra Lineal Prerrequisito 3006995 Programación Lineal y
+  Optimización Combinatórica 4 NO 1000006 Cálculo en varias variables Prerrequisito 1000003 Álgebra Lineal Prerrequisito 3010390 Fundamentos de Matemática
+  Discreta Prerrequisito 3010391 Geometría Aplicada 4 NO 1000003 Álgebra lineal Prerrequisito 3010588 Computación gráfica y
+  visualización científica 4 No 3010391 Geometría aplicada Prerrequisito 3007744 Programación orientada a objetos Prerrequisito Créditos
+exigidos en la agrupación Matemática Aplicada: ocho (8) Agrupación:
+Trabajo de Grado Código Nombre de la
+  Asignatura Créditos Obligatoria Asignatura
+  Prerrequisito / Correquisito Nombre 3006946 Trabajo de Grado 8 SI Haber aprobado 40 créditos ( 62.5% ) del total de
+  créditos exigidos en el Componente de Formación Disciplinar o Profesional 3006947 Cursos de Posgrado Créditos
+exigidos en la agrupación Trabajo de Grado: ocho (8) ARTÍCULO 2. El presente
+Acuerdo rige a partir de la fecha de su publicación en el Sistema de
+Información Normativa, Jurisprudencial y de Conceptos - Régimen Legal de la
+Universidad Nacional de Colombia y deroga el Acuerdo 04 de diciembre de 2014 del Consejo de Facultad y las demás normas que le sean contrarias. PUBLÍQUESE,
+COMUNÍQUESE Y CÚMPLASE Dado en Medellín,
+a los seis (01) días del mes julio de dos mil diecinueve (2019) JORGE ANSELMO
+PUERTA ORTIZ Decano BLANCA FABIOLA
+ESPEJO BENAVIDES Secretaria
