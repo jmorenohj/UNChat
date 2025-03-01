@@ -2,158 +2,158 @@
     "test_data" : [
         {
             "id" : 0,
-            "question" : "¿Cuáles son los medios para presentar solicitudes al Consejo de Facultad?",
+            "question" : "Pregado: ¿Cuáles son los medios para presentar solicitudes al Consejo de Facultad?",
             "answer" : "Los medios establecidos para presentar solicitudes son:\nEl Sistema de Información Académico (SIA), sección 'Trámites y Solicitudes' en la opción 'Mis solicitudes' se encuentran los diferentes tipos de solicitud.\nFormulario web disponible en:\nhttps://ingenieria.bogota.unal.edu.co/es/dependencias/secretaria-academica/solicitudes-estudiantiles.html"
         },
         {
             "id":1,
-            "question":"¿Se puede solicitar autorización para cursar menos de la carga mínima reglamentaria de 10 créditos?",
+            "question":"Pregado: ¿Se puede solicitar autorización para cursar menos de la carga mínima reglamentaria de 10 créditos?",
             "answer":"Sí. Se debe presentar la solicitud antes o durante el periodo establecido para la inscripción de asignaturas, a través del SIA en la opción: 'Autorización para cursar menos de la carga mínima' y adjuntar los respectivos soportes, o mediante el formulario web."
         }
         ,
         {
             "id":2,
-            "question":"¿Se puede solicitar autorización para cursar más de la carga máxima reglamentaria de 20 créditos?",
+            "question":"Pregado: ¿Se puede solicitar autorización para cursar más de la carga máxima reglamentaria de 20 créditos?",
             "answer":"Sí. Se debe presentar la solicitud antes o durante la primera semana del periodo académico en el que los requiera cursar, y adjuntar los respectivos soportes, o mediante el formulario web."
         },
         {
             "id":3,
-            "question":"¿Hasta qué fecha se puede solicitar cancelación de asignaturas sin pérdida de créditos?",
+            "question":"Pregado: ¿Hasta qué fecha se puede solicitar cancelación de asignaturas sin pérdida de créditos?",
             "answer":"1. El plazo finaliza con la segunda semana de cada periodo académico, coincide con el final del periodo de adición y cancelación de asignaturas o cuando se autorice de forma excepcional. 2. Cuando existan razones de fuerza mayor, se puede presentar la solicitud en cualquier momento, mediante el formulario web."
         },
         {
             "id":4,
-            "question":"¿Se pueden cancelar asignaturas antes de transcurrido el 50 % del periodo académico?",
+            "question":"Pregado: ¿Se pueden cancelar asignaturas antes de transcurrido el 50 % del periodo académico?",
             "answer":"Sí, en ese caso los créditos de las asignaturas canceladas se descontarán del cupo de créditos para inscripción. El estudiante realiza la cancelación de asignaturas a través del SIA. No se requieren soportes."
         },
         {
             "id":5,
-            "question":"¿Se pueden cancelar asignaturas, sin pérdida de créditos, antes de transcurrido el 50 % del periodo académico?",
+            "question":"Pregado: ¿Se pueden cancelar asignaturas, sin pérdida de créditos, antes de transcurrido el 50 % del periodo académico?",
             "answer":"Sí. Se debe presentar la solicitud al Consejo de Facultad antes de transcurrido el 50 % del período académico, es necesario exponer la justificación y entregar los soportes utilizando el formulario web."
         },
         {
             "id":6,
-            "question":"¿Se pueden cancelar asignaturas cuando el periodo académico ha avanzado más del 50 %?",
+            "question":"Pregado: ¿Se pueden cancelar asignaturas cuando el periodo académico ha avanzado más del 50 %?",
             "answer":"Sí. Se debe presentar la solicitud al Consejo de Facultad con justificación y soportes antes de haberse consolidado la calificación definitiva, en la opción 'Cancelación de asignaturas posterior a la mitad del período académico', a través del SIA o mediante el formulario web."
         },
         {
             "id":7,
-            "question":"¿Se puede solicitar la cancelación del periodo académico?",
+            "question":"Pregado: ¿Se puede solicitar la cancelación del periodo académico?",
             "answer":"Sí, en caso de fuerza mayor o caso fortuito. Se debe presentar la solicitud al Consejo de Facultad antes de haberse consolidado la nota definitiva de las asignaturas que esté cursando, a través del SIA en la opción 'Cancelación período académico', o mediante el formulario web. \n Le será devuelto proporcionalmente el valor de los derechos de matrícula, dependiendo la fecha de presentación y aprobación de la solicitud."
         },
         {
             "id":8,
-            "question":"¿Cómo se realiza la solicitud de convalidación y equivalencia de asignaturas cursadas en la Universidad Nacional de Colombia?",
+            "question":"Pregado: ¿Cómo se realiza la solicitud de convalidación y equivalencia de asignaturas cursadas en la Universidad Nacional de Colombia?",
             "answer":"La solicitud se realiza a través del SIA en la opción 'Homologación, equivalencia y convalidación de asignaturas', o mediante el formulario web. No se requieren soportes."
         },
         {
             "id":9,
-            "question":"¿Cómo se realiza la solicitud de homologación y convalidación de asignaturas cursadas en otras instituciones?",
+            "question":"Pregado: ¿Cómo se realiza la solicitud de homologación y convalidación de asignaturas cursadas en otras instituciones?",
             "answer":"La solicitud se realiza a través del SIA en la opción 'Homologación, equivalencia y convalidación de asignaturas', o mediante el formulario web. Debe anexar Certificados originales de calificaciones y contenidos de las asignaturas, si éstas hacen parte del componente de fundamentación o disciplinar."
         },
         {
             "id":10,
-            "question":"¿Cuáles son las modalidades de Trabajo de Grado aceptadas en la Facultad de Ingeniería?",
+            "question":"Pregado: ¿Cuáles son las modalidades de Trabajo de Grado aceptadas en la Facultad de Ingeniería?",
             "answer":"Las modalidades de trabajo de grado son:\n 1. Trabajos investigativos: Trabajo Monográfico, Proyecto Final, Participación en Proyecto de Investigación. En esta modalidad, la autorización de registro se debe solicitar antes de la finalización de la semana catorce del periodo académico anterior al cual aspire a realizar el Trabajo de Grado. \n2. Prácticas de extensión: Emprendimiento Empresarial, Pasantía, Proyecto Social. En esta modalidad de trabajo de grado, la autorización de registro se debe solicitar antes de finalizar la semana catorce del periodo académico anterior al cual aspire a realizar el Trabajo de Grado. \n3. Opción de grado: Admisión anticipada a posgrado. En esta modalidad el estudiante debe solicitar autorización al Comité Asesor del programa de posgrado para presentar el examen de admisión al programa que continuará cursando cuando finalice su pregrado. Si se le admite al programa de posgrado, las asignaturas que inscriba siendo estudiante de pregrado, constituyen el trabajo de grado de esta modalidad de graduación. El proceso se debe realizar en el periodo académico anterior a aquel en el que cursará las asignaturas, teniendo en cuenta el calendario del proceso de admisión a posgrado. En el formato de registro se debe incluir el nombre de las asignaturas y el programa curricular al que pertenecen. 4. Asignaturas de posgrado: En esta modalidad, el registro de la asignatura se debe solicitar antes de finalizar la semana doce del periodo académico anterior al cual la va a cursar. En el formato de registro se debe incluir el nombre de las asignaturas y el programa curricular al que pertenecen. El incumplimiento del plazo para solicitar el registro de la asignatura trabajo de grado o la entrega incompleta de los soportes requeridos para la modalidad escogida, da lugar a la no aprobación de la inscripción, siendo necesario realizar el proceso en el periodo siguiente."
         },
         {
             "id":11,
-            "question":"¿Cuáles son los requisitos para inscribir Trabajo de Grado?",
+            "question":"Pregado: ¿Cuáles son los requisitos para inscribir Trabajo de Grado?",
             "answer":"Haber aprobado los créditos del componente de formación disciplinar o profesional definidos por el programa curricular. Es indispensable revisar los requisitos en el plan de estudios del programa que corresponda."
         },
         {
             "id":12,
-            "question":"¿Cómo se realiza la inscripción del Trabajo de Grado?",
+            "question":"Pregado: ¿Cómo se realiza la inscripción del Trabajo de Grado?",
             "answer":"Se debe presentar la solicitud mediante el formulario web. REGISTRO DE LA ASIGNATURA (Así lo denomina el Acuerdo 026 de 2012 del Consejo Académico, mientras que en el Acuerdo 37 de 2017 del Consejo de la Facultad se denomina formalización de la solicitud de registro). Para cursar trabajo de grado, se debe solicitar autorización de registro de la asignatura, antes de finalizar la semana 14 del periodo académico anterior al cual aspire cursarla, o en el plazo anterior que se establece para cada modalidad, con el cumplimiento de los siguientes requisitos: Completar los requisitos que establece el plan de estudios para cursar la asignatura, durante el periodo académico en el que solicita el registro. Presentar en el formulario de solicitudes de pregrado, el formato de registro de la asignatura trabajo de grado, con todos los soportes que requiera la modalidad escogida, el cual debe estar firmado por el profesor y el estudiante. El formato se encuentra disponible para descargar en el siguiente enlace: https://bit.ly/3o3fzcQ. INSCRIPCIÓN Si su solicitud es aprobada por el comité, el(la) director(a) de Área Curricular se encargará de registrarla en el Sistema de Información Académica."
         },
         {
             "id":13,
-            "question":"¿Cómo se realiza la inscripción de asignaturas de posgrado como opción de grado?",
+            "question":"Pregado: ¿Cómo se realiza la inscripción de asignaturas de posgrado como opción de grado?",
             "answer":"En esta modalidad el estudiante debe solicitar autorización al Comité Asesor del programa de posgrado para presentar el examen de admisión al programa que continuará cursando cuando finalice su pregrado. Si se le admite al programa de posgrado, las asignaturas que inscriba siendo estudiante de pregrado, constituyen el trabajo de grado de esta modalidad de graduación. El proceso se debe realizar en el periodo académico anterior a aquel en el que cursará las asignaturas, teniendo en cuenta el calendario de admisión a posgrado. En el formato de registro se debe incluir el nombre de las asignaturas y el programa curricular al que pertenecen."
         },
         {
             "id":14,
-            "question":"¿Cómo se realiza la inscripción de Práctica estudiantil?",
+            "question":"Pregado: ¿Cómo se realiza la inscripción de Práctica estudiantil?",
             "answer":"Se puede inscribir práctica estudiantil, siempre que cumpla con los requisitos del plan de estudios y con lo establecido en el Acuerdo 016 de 2011 del Consejo Académico. Se debe presentar solicitud al Consejo de Facultad, con los debidos soportes (Contrato, Afiliación ARL), el semestre inmediatamente anterior al inicio de la práctica."
         },
         {
             "id":15,
-            "question":"¿Cuál es la diferencia entre práctica y pasantia?",
+            "question":"Pregado: ¿Cuál es la diferencia entre práctica y pasantia?",
             "answer":"La práctica estudiantil forma parte de las asignaturas del plan de estudios, es una modalidad que permite al estudiante vincularse por primera vez al contexto laboral enfocado a su área académica, con el objetivo de conocer las técnicas, los procesos y métodos propios de la Empresa, como también la oportunidad de aplicar los conocimientos y las habilidades adquiridas en su proceso de formación. La pasantía es una asignatura que forma parte del componente de formación disciplinar en la modalidad de Trabajo de Grado, que permite al estudiante la oportunidad de aplicar durante un periodo académico los métodos de investigación, de evaluación y análisis frente a situaciones específicas en la empresa, con el propósito de presentar un diagnóstico del estudio realizado y a su vez aportar propuestas de mejora o solución de dichas situaciones."
         },
         {
             "id":16,
-            "question":"¿Por qué razones se pierde la calidad de estudiante?",
+            "question":"Pregado: ¿Por qué razones se pierde la calidad de estudiante?",
             "answer":"El estudiante de pregrado pierde esa calidad por alguna de las siguientes razones: 1.  Culminar exitosamente los planes de estudio en los que fue aceptado. 2. No cumplir con los requisitos exigidos para la renovación de la matrícula, en los plazos señalados por la Universidad o en no hacer uso del derecho de matrícula, habiendo utilizado ya las dos reservas automáticas. 3. Presentar Promedio Aritmético Ponderado Acumulado menor que tres (3.0). 4. No disponer de créditos suficientes en el cupo para inscribir las asignaturas del plan de estudios pendientes de aprobación. 5. Recibir sanción disciplinaria de expulsión o suspensión impuesta de acuerdo con las normas vigentes."
         },
         {
             "id":17,
-            "question":"",
-            "answer":""
+            "question":"Pregado: ¿Si se pierde calidad de estudiante ¿es posible solicitar reingreso?",
+            "answer":"Sí. Debe realizar la solicitud a través del SIA en la opción 'Reingreso', o mediante el formulario web. -Se debe tener en cuenta que el Consejo de Facultad solo puede otorgar un reingreso, siempre que cumpla con que el solicitante no tenga un promedio aritmético ponderado acumulado menor a 2.7. -Cuando la causa de la pérdida de la calidad de estudiante haya sido la de no disponer de un cupo suficiente de créditos para la inscripción, el reingreso otorgado le permitirá al estudiante disponer de un cupo adicional de diez (10) créditos a lo sumo. -No se podrá solicitar reingreso después de tres años consecutivos de perder la calidad de estudiante. -La solicitud de reingreso que no cumpla con los requisitos mencionados se debe presentar al Consejo Superior Universitario."
         },
         {
             "id":18,
-            "question":"",
-            "answer":""
+            "question":"Pregado: ¿Cuál es el plazo para radicar la solicitud de reingreso?",
+            "answer":"La solicitud de reingreso debe ser presentada, desde el inicio de periodo académico hasta antes de la octava semana, y deberá ser decidida por el Consejo de Facultad o quien haga sus veces, antes de la duodécima semana del periodo académico anterior a aquel al cual desea reingresar. Se debe tener en cuenta el Calendario Académico de la Sede."
         },
         {
             "id":19,
-            "question":"",
-            "answer":""
+            "question":"Pregado: ¿Cómo se accede al beneficio de descuento electoral del 10 % aplicable sobre el valor de la matrícula?",
+            "answer":"Se deben tener en cuenta las fechas establecidas por la División de Registro. Se puede solicitar de forma digital o en físico:-Digital: Digitalizar en un archivo PDF en una sola hoja la cédula de ciudadanía del sufragante y el certificado electoral. Según el nivel de estudios, diligenciar y enviar el formulario Google Drive disponible en el siguiente enlace: http://www.registro.bogota.unal.edu.co/estudiantes/Electoral.html Nota: Diligenciar únicamente desde la cuenta de correo institucional personal. -Físico: Presentar ante la División de Registro y Matrícula Edificio 103 – Polideportivo, Piso 2, el original del certificado electoral y dos fotocopias legibles, en cada fotocopia incluir en la misma página la cédula de ciudadanía del sufragante y certificado electoral, indicando el plan de estudios al cual pertenece el solicitante."
         },
         {
             "id":20,
-            "question":"",
-            "answer":""
+            "question":"Pregado: ¿Cuáles son los criterios de financiación para movilidad académica?",
+            "answer":"Los criterios de financiación son: a. Se financia la presentación de ponencia oral o póster en Congresos o eventos tanto nacionales como internacionales y realización de pasantías de investigación para estudiantes de pregrado y posgrado, cuando no aplique al programa de internacionalización del nivel central. b. Los estudiantes de pregrado y especialización solo podrán recibir un apoyo del presente programa durante su tránsito por el plan de estudios. c. Los estudiantes de posgrado solo podrán recibir un apoyo anual por parte del presente programa durante su tránsito por el plan de estudios. d. Se otorgará solamente un apoyo por cada trabajo académico, independientemente del número de autores, sean estos estudiantes o docentes."
         },
         {
             "id":21,
-            "question":"",
-            "answer":""
+            "question":"Pregado: ¿Cuáles son los requisitos mínimos para solicitar apoyo a movilidad?",
+            "answer":"Los requisitos mínimos son: a. Estar matriculado en un programa de pregrado o posgrado de la Facultad de Ingeniería de la Universidad Nacional de Colombia, Sede Bogotá. b. Haber sido aceptado para presentar el trabajo académico en el evento, así como la aceptación en caso de la pasantía por parte de la entidad que lo recibe. Adicionalmente, debe cumplir con la documentación solicitada por la Dirección de Área Curricular."
         },
         {
             "id":22,
-            "question":"",
-            "answer":""
+            "question":"Pregado: ¿Cómo se debe solicitar el apoyo a movilidad?",
+            "answer":"El estudiante debe radicar en la Dirección de Área Curricular la solicitud de apoyo económico con la documentación requerida."
         },
         {
             "id":23,
-            "question":"",
-            "answer":""
+            "question":"Posgrado: ¿Cuáles son los medios para realizar solicitudes ante el Consejo de Facultad?",
+            "answer":"Las solicitudes se pueden realizar mediante: El Sistema de Información Académico (SIA), sección 'Tramites y Solicitudes' en la opción 'Mis solicitudes' se encuentran los diferentes tipos de solicitud."
         },
         {
             "id":24,
-            "question":"",
-            "answer":""
+            "question":"Posgrado: ¿Se puede solicitar autorización para cursar menos de la carga mínima reglamentaria de 3 créditos?",
+            "answer":"Sí. Se debe realizar la solicitud antes o durante el periodo establecido para la inscripción de asignaturas, a través del SIA en la opción: 'Autorización para cursar menos de la carga mínima' y adjuntar los respectivos soportes, o a través del formulario web"
         },
         {
             "id":25,
-            "question":"",
-            "answer":""
+            "question":"Posgrado: ¿Se pueden cancelar asignaturas antes de transcurrido el 50% del periodo académico?",
+            "answer":"Sí. Se debe tener en cuenta que la cancelación de asignaturas antes de transcurrir el 50% del periodo académico es libre, pero debe quedar inscrita una asignatura o actividad de mínimo 3 créditos. El estudiante realiza la cancelación de asignaturas a través del SIA. No se requieren soportes."
         },
         {
             "id":26,
-            "question":"",
-            "answer":""
+            "question":"Posgrado: ¿Se pueden cancelar asignaturas después del 50 % de avance del periodo académico?",
+            "answer":"Sí. Se debe realizar la solicitud con justificación y soportes, ante el Consejo de Facultad, según fechas establecidas en el calendario académico, a través del SIA en la opción 'Cancelación de asignaturas posterior a la mitad del período académico', o mediante el formulario web."
         },
         {
             "id":27,
-            "question":"",
-            "answer":""
+            "question":"Posgrado: ¿Se puede solicitar la cancelación del periodo académico?",
+            "answer":"Sí, en caso de fuerza mayor, o caso fortuito. Se debe realizar la solicitud a través del SIA en la opción 'Cancelación período académico', o mediante el formulario web. Le será devuelto proporcionalmente el valor de derechos académicos no causados, dependiendo la fecha de presentación de la solicitud"
         },
         {
             "id":28,
-            "question":"",
-            "answer":""
+            "question":"Posgrado: ¿Cómo se realiza la solicitud de convalidación y equivalencia de asignaturas cursadas en la Universidad Nacional de Colombia?",
+            "answer":"Posgrado: La solicitud se realiza a través del SIA en la opción 'Homologación, equivalencia y convalidación de asignaturas', o mediante el formulario web. No se requieren soportes."
         },
         {
             "id":29,
-            "question":"",
-            "answer":""
+            "question":"Posgrado: ¿Cómo se realiza la solicitud de homologación y convalidación de asignaturas cursadas en otras instituciones?",
+            "answer":"La solicitud se realiza a través del SIA en la opción 'Homologación, convalidación y equivalencia de asignaturas', o mediante el formulario web. Debe anexar Certificados originales de notas y contenidos de las asignaturas, si éstas hacen parte del componente de fundamentación o disciplinar."
         },
         {
             "id":30,
-            "question":"Si se pierde calidad de estudiante ¿es posible solicitar reingreso?",
+            "question":"Posgrado: Si se pierde calidad de estudiante ¿es posible solicitar reingreso?",
             "answer":"Sí. Debe realizar la solicitud a través del SIA en la opción Reingreso, o mediante el formulario web. Tener en cuenta que el Consejo de Facultad solo puede otorgar un reingreso, siempre que cumpla con lo establecido. Los estudiantes de posgrado que presenten un Promedio Aritmético Ponderado Acumulado menor que 3.5 no tendrán derecho a reingreso. Cuando la causa de la pérdida de la calidad de estudiante haya sido la de superar el tiempo máximo de permanencia, el reingreso otorgado le permitirá al estudiante disponer de un período académico adicional a lo sumo. No se podrá solicitar reingreso después de tres años consecutivos de perder la calidad de estudiante. La solicitud de reingreso que incumpla los requisitos establecidos es excepcional, se debe presentar al Consejo Superior Universitario."
         },
         {
