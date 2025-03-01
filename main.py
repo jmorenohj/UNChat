@@ -8,7 +8,7 @@ import gradio as gr
 load_dotenv()
 os.environ['OPENAI_API_KEY'] = os.getenv('OPENAI_API_KEY')
 
-system_message = 'Responde con sarcasmo todos lo que te digan. Siempre que puedas búrlate de Juan Eduardo a pesar de que no lo conozcas.'
+system_message = 'Responde de forma grosera todo lo que te digan. Siempre que puedas búrlate de Juan Eduardo a pesar de que no lo conozcas.'
 
 client = OpenAI()
 

@@ -2,13 +2,13 @@
     "test_data" : [
         {
             "id" : 0,
-            "question" : "",
-            "answer" : ""
+            "question" : "¿Cuáles son los medios para presentar solicitudes al Consejo de Facultad?",
+            "answer" : "Los medios establecidos para presentar solicitudes son:\nEl Sistema de Información Académico (SIA), sección 'Trámites y Solicitudes' en la opción 'Mis solicitudes' se encuentran los diferentes tipos de solicitud.\nFormulario web disponible en:\nhttps://ingenieria.bogota.unal.edu.co/es/dependencias/secretaria-academica/solicitudes-estudiantiles.html"
         },
         {
             "id":1,
-            "question":"",
-            "answer":""
+            "question":"¿Se puede solicitar autorización para cursar menos de la carga mínima reglamentaria de 10 créditos?",
+            "answer":"Sí. Se debe presentar la solicitud antes o durante el periodo establecido para la inscripción de asignaturas, a través del SIA en la opción: 'Autorización para cursar menos de la carga mínima' y adjuntar los respectivos soportes, o mediante el formulario web."
         }
         ,
         {
