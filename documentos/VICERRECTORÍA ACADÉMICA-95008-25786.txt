@@ -1,0 +1,120 @@
+CIRCULAR No.  08 DE 2019 Para: Dirección
+Nacional de Planeación y Estadística, Dirección Nacional de Programas
+Curriculares de Pregrado, Dirección Nacional de Programas Curriculares de
+Posgrado, Secretarías de Sede, Direcciones Académicas de Sede, Direcciones de
+Sede de Presencial Nacional, Oficinas de Planeación y Estadística, Divisiones
+de Registro y Matrícula, Decanaturas, Vicedecanaturas Académicas y Direcciones
+de Área Curricular. De: Vicerrectoría
+Académica Asunto : Disposición de datos e
+información contenidos en el Sistema de Información Académica - SIA. Fecha : 02
+de diciembre de 2019 _____________________________________________________________________________ Con el objetivo de homogenizar
+las fechas de entrega, aumentar la consistencia de las cifras académicas a
+nivel institucional, mejorar en la estandarización y actualización de la
+información, implementar buenas prácticas en los procesos de entrega, uso y
+visualización de información cuantitativa histórica y actual contenida en el Sistema
+de Información Académica - SIA y que sirven de base para la publicación de la
+información estadística oficial a nivel institucional, la construcción de los
+indicadores requeridos en los procesos nacionales e internacionales de autoevaluación
+con miras a la obtención de acreditaciones institucionales o de programas
+académicos, demás análisis sobre temas académicos de los estudiantes y la
+actualización de la Circular 01 de 2019 de la Vicerrectoría Académica, se hace
+necesario establecer algunas definiciones y directrices: · Dato : Es una representación simbólica de una característica
+particular de un elemento o situación, que pertenece a un modelo de una
+realidad. Tiene un tipo (por ejemplo, numérico, cadena de caracteres o lógico)
+que determina el conjunto de valores que el dato puede tomar. En el contexto
+informático, los datos se almacenan, procesan y transmiten usando medios
+electrónicos, constituyendo los elementos primarios de los sistemas de
+información. Los datos son números, letras, símbolos o combinación de estos que
+describen objetos, condiciones o situaciones. Son el conjunto básico de hechos
+referentes a una persona, cosa o transacción de interés para distintos
+objetivos, entre los cuales se encuentra la toma de decisiones. [1] · Información : Es un conjunto de datos organizados y procesados que
+tienen un significado, relevancia, propósito y contexto, que resulta útil para
+que los usuarios finales, ejecuten de manera apropiada su proceso de negocio y
+puedan tomar decisiones. La información puede servir como evidencia de las
+actuaciones de las entidades. [2] · Anonimizado : Expresar un dato relativo a entidades o personas,
+eliminando la referencia a su identidad · Tratamiento
+de dato : Se refiere a cualquier operación o conjunto de operaciones
+sobre datos, tales como la recolección, almacenamiento, uso, circulación o
+supresión. Teniendo en cuenta lo anterior,
+amablemente les solicito atender las siguientes directrices: 1. El primer día de la novena semana del calendario académico
+institucional, la Dirección Nacional de Información Académica pondrá a
+disposición de la Dirección Nacional de Planeación y Estadística, el acceso a
+BI Publisher para la descarga de archivos planos con los datos requeridos en
+los procesos de construcción de estadísticas institucionales oficiales, 2. La Dirección Nacional de Planeación y Estadística por
+intermedio de la Oficina Nacional de Estadística, aplicará el respectivo
+tratamiento de datos para propósitos de construcción y disposición de
+estadísticas estratégicas institucionales. Así mismo, remitirá la información a
+las Oficinas de Planeación y Estadística de las sedes o dependencias que hagan
+sus veces en las Direcciones de Sedes
+de Presencia Nacional, para sus respectivos usos. 3. En caso de que sean requeridos datos por las Oficinas de
+Planeación y Estadísticas de las sedes o dependencias que hagan sus veces en
+las Sedes de Presencia Nacional o por cualquier otra dependencia o miembro de
+la comunidad universitaria, la Dirección Nacional de Planeación y Estadística
+anonimizará los datos antes de su entrega. En caso de que el requerimiento no
+pueda atenderse por medio de datos anonimizados, remitirá el requerimiento a la
+Dirección Nacional de Información Académica para su estudio y respuesta. 4. Las Oficinas de Planeación y Estadística de las sedes o
+dependencias que hagan sus veces en las Sedes de Presencia Nacional serán las
+instancias responsables de garantizar la disposición de las estadísticas estratégicas
+institucionales oficiales derivadas del SIA a nivel de sede garantizando su
+consistencia y comparabilidad, en componentes y variables semejantes, con la
+información estadística oficial disponible a nivel nacional y provista por la Dirección
+Nacional de Planeación y Estadística. 5. El primer día de la novena semana del calendario académico
+institucional, la Dirección Nacional de Información Académica pondrá a
+disposición de las Direcciones Nacionales de Programas Curriculares de Pregrado
+y Posgrado, el acceso a BI Publisher para la descarga de archivos planos con
+los datos requeridos en los procesos de construcción de indicadores de
+autoevaluación con miras a la acreditación en alta calidad. 6. Las Direcciones Nacionales de Programas Curriculares de
+Pregrado y Posgrado, aplicarán el respectivo tratamiento de datos para
+propósitos de construcción y disposición de los indicadores exigidos en los
+procesos de autoevaluación con miras a las acreditaciones en alta calidad. De
+igual modo, remitirán la información, cuando sea requerido, a las Direcciones Académicas
+de las sedes y a las Direcciones de Sedes de Presencia Nacional, para sus
+respectivos usos. Adicionalmente, remitirá información a las Decanaturas, Vicedecanaturas
+y Direcciones de Área Curricular de todas las sedes que así lo requieran. 7. En caso de que sean requeridos datos por parte de las
+Direcciones Académicas de las sedes, las Direcciones de Sede de Presencia
+Nacional, las Decanaturas, las Vicedecanaturas, las Direcciones de Área
+Curriculares, las Coordinaciones de Programa o por cualquier otra dependencia o
+miembro de la comunidad universitaria, la Dirección Nacional de Información
+Académica analizará la solicitud, informará el procedimiento y formatos
+necesarios para su gestión, d e conformidad c on las disposiciones legales que regulan la protección de datos
+personales, artículo 15 de la Constitución Política de Colombia, Ley 1581 de
+2012, Decreto Reglamentario 1377 de 2013 y con la Resolución 4401 de 2019 de la
+Rectoría de la Universidad Nacional de Colombia. 8. Las Direcciones Nacionales de Programas Curriculares de
+Pregrado y Posgrado serán las instancias responsables de garantizar la
+disposición de las estadísticas e indicadores derivados del SIA, definidos en
+las guías de autoevaluación, para los procesos de autoevaluación y acreditación
+de alta calidad, los cuales estarán dispuestos en la plataforma desarrollada
+para tal fin. 9. En ningún caso la Dirección Nacional de Información
+Académica tramitará solicitudes puntuales de las sedes, facultades o programas
+académicos para propósitos de disposición de estadísticas oficiales o
+construcción de indicadores cuantitativos para los procesos de autoevaluación y
+cuyo contenido se encuentre disponible en la información entregada de manera
+oficial a la Dirección Nacional de Planeación y Estadística y a las Direcciones
+Nacionales de Programas Curriculares de Pregrado o Posgrado. En el eventual
+caso en que esto ocurra, la Dirección Nacional de Información Académica remitirá
+las respectivas solicitudes a las instancias antes mencionadas para sus
+respectivos trámites. 10. La información de estadísticas oficiales o de indicadores
+institucionales derivados del tratamiento de los datos contenidos en el Sistema
+de Información Académica - SIA que sean entregados de manera abierta -pública-
+a la sociedad o través de la web haciendo uso de herramientas especializadas en
+visualización de información, desarrollos internos u otros mecanismos de
+disposición de información cuantitativa agregada, deberá cumplir con los
+requisitos mínimos de buenas prácticas de entrega y disposición de información
+cuantitativa entre los que se destacan: disposición de metadatos, disposición
+de información histórica - series de tiempo-, disposición de desagregaciones,
+enfoque diferencial (sexo, PAES, PEAMA), aplicación de la normatividad
+institucional, uso de estándares de codificaciones o nomenclaturas nacionales o
+internacionales, garantía del derecho de Habeas Data , uso de reglas de visualización
+de información de manera gráfica y provisión de datos agregados en formatos
+abiertos. 11. La Dirección Nacional de Planeación y Estadística pondrá a
+disposición de la comunidad los documentos conceptuales y metodológicos
+requeridos para la implementación de las buenas prácticas requeridas en
+términos de gestión cuantitativa que redunden en el mejoramiento de la
+información provista por la Universidad. 12. Los responsables de la entrega y visualización de
+estadísticas oficiales y de construcción y disposición de los indicadores
+derivados del SIA propenderán por el mejoramiento continuo que redunden en la
+construcción y disposición de la información cuantitativa oficial. CARLOS AUGUSTO
+HERNÁNDEZ RODRÍGUEZ Vicerrector
+Académico [1] Tomado de: (MinTic,
+2016) [2] Tomado de: (MinTic,
+2016)

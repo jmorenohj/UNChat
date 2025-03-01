@@ -1,0 +1,109 @@
+CIRCULAR CONJUNTA 2 Para: Vicerrectores
+de Sede, Directores de Sedes de Presencia Nacional, Directores Financieros y
+Administrativos, Jefes de Unidad de Gestión Integral de Sedes de Presencia
+Nacional, Directores de Investigación y Extensión de Sede, Decanos de Facultad,
+Vicedecanos de Investigación y Extensión o quien haga sus veces, Directores de
+Institutos, Directores de Centros, Directores de proyectos, planes, programas y
+actividades de Extensión, Tesoreros y Jefes de Unidades Administrativas o
+quienes hagan sus veces, Jefe Área de Gestión Operativa, Contadores, Áreas de
+Bienes y Servicios, Áreas de Contratación. Fecha:       30 de abril de 2021 Asunto:     Implementación de
+Facturación Electrónica en la Universidad Nacional de Colombia para actividades
+de Educación Continua y Permanente abiertas al público. La
+Dirección de Impuestos y Aduanas Nacionales DIAN, mediante Resolución 042 de 05
+de mayo de 2020, modificada parcialmente por la Resolución 094 del 30 de
+septiembre de 2020, estableció la fecha máxima para iniciar a expedir factura
+electrónica de venta con validación previa para las entidades del estado del
+orden nacional y territorial. De
+acuerdo con el numeral 1 del artículo 2 del Decreto 2242 de 2015 la factura
+electrónica es "el documento que soporta transacciones de venta de bienes y/o
+servicios y que operativamente tiene lugar a través de sistemas computacionales
+y/o soluciones informáticas que permiten el cumplimiento de las características
+y condiciones que se establecen en el presente Decreto en relación con la
+expedición, recibo, rechazo y conservación. La expedición de la factura
+electrónica comprende la generación por el obligado a facturar y su entrega al
+adquirente". Asimismo,
+es de resaltar que, de acuerdo con lo establecido en los artículos 651, 652 y 652-1
+del Estatuto Tributario, la sanción por expedir facturas sin el lleno de requisitos
+corresponde al 1% del valor de las operaciones facturadas, sin exceder 950 UVT.
+Y si se incumplen los plazos allí previstos, la sanción puede ser de hasta 15.000
+UVT. En
+aplicación de la normativa en mención, la Universidad Nacional de Colombia, como
+entidad del Estado, y en calidad de gran contribuyente, a partir del 1 de
+diciembre de 2020 implementó la Facturación Electrónica en la venta y
+adquisición de bienes y servicios, para lo cual contrató los servicios del
+proveedor de interoperabilidad SYSWARE y el facturador electrónico CADENA. Esta
+medida abarca los servicios que la Universidad presta bajo la modalidad de
+Educación Continua y Permanente. En
+aras de generar al respecto, a continuación se precisan las generalidades y los
+lineamientos definidos para el proceso de emisión de factura electrónica en la
+Universidad para los servicios de Educación Continua y Permanente abiertos al público. 1. Generalidades a. De
+acuerdo con la Resolución 09 de 2014 de la Vicerrectoría de Investigación, el Sistema
+de Información Hermes constituye la herramienta informática única que reúne los
+datos relacionados con las actividades de investigación y extensión
+desarrolladas en la Universidad Nacional de Colombia. Por su parte, el
+procedimiento U.PR.06.005.005 V 1.0, establecido por la Dirección Nacional de
+Extensión, Innovación y Propiedad Intelectual para la gestión de la Educación
+Continua y Permanente ECP abierta al público, plantea que el registro de los
+subproyectos y la inscripción de los participantes a estas actividades se debe
+realizar a través de del Sistema Hermes, de donde se tomará la información
+requerida para la generación de la factura electrónica. b. No
+se generará facturación electrónica a los participantes que no realicen la
+inscripción a través del sistema de información Hermes, a fin de evitar la incursión
+en las sanciones establecidas en la normatividad de la DIAN. c. La
+información requerida para la generación de la factura electrónica se tomará
+del sistema de información Hermes así: El
+bus transaccional toma la información de Hermes y sube la información al
+proveedor tecnológico Cadena para generar la factura, nota crédito o nota débito,
+según sea el caso. d. En caso de que
+una persona jurídica sea quien pague la actividad de Educación Continua y
+Permanente abierta al público, la factura se genera desde el Sistema Financiero
+QUIPU y se excluirán desde la vista del sistema HERMES los usuarios a los que
+la persona jurídica les pague. e. NO se ANULARÁN las facturas electrónicas una vez estas sean generadas. En caso de que se
+requieran ajustes, se deberán generar NOTAS CRÉDITO o DÉBITO. NOTA CRÉDITO: Se
+genera para disminuir el valor parcial o total de una factura electrónica
+emitida. NOTA DÉBITO: Se
+genera para incrementar el valor de una factura electrónica emitida. f. Si bien la norma
+indica que las facturas se generan una vez se presta el servicio, dadas las
+condiciones de las actividades de Educación Continua y Permanente abiertas al
+público, tales facturaras se generarán a la fecha de inicio de la actividad, y no
+con el pago que realice el preinscrito y/o inscrito. g. Las facturas se
+generan a nombre del participante al que se le presta el servicio, incluyendo
+menores de edad. h. Una vez se emita
+la factura electrónica desde la plataforma del proveedor tecnológico CADENA, desde
+la dirección efactura_nal@unal.edu.co se enviará un mensaje al
+estudiante como el que se muestra a continuación: i. El
+participante tendrá un tiempo de (72) horas hábiles para aceptar o rechazar la
+factura electrónica; si en este tiempo no se recibe confirmación por parte de
+dicho participante, se generará la aceptación tácita de la factura. Para tal
+efecto, es menester tener en cuenta lo siguiente: -Se debe hacer
+clic sobre la opción ACEPTAR solo cuando haya validado que la información de la
+factura electrónica - adjunta al mensaje - corresponde a la adquisición del
+bien o servicio respectivo. -Si la información
+registrada en la factura electrónica - adjunta al mensaje - no corresponde a la
+adquisición del bien o servicio respectivo, se debe hacer clic sobre la opción
+RECHAZAR. j. Si
+la factura es rechazada por la DIAN durante el proceso de validación, el Bus
+transaccional (previo aviso del Proveedor Tecnológico CADENA) notificará este rechazo
+al área UNAL que originó la información de la factura, para que se realice el
+respectivo proceso de emisión de nota crédito, nota débito, o nueva factura. k. Si la factura es
+rechazada por el participante, se debe generar una Nota Crédito y realizar los
+ajustes solicitados por dicho participante, si hay lugar a ello. Para esto se
+debe generar nuevamente el proceso y desde el sistema HERMES se tomará
+nuevamente la información. l. Cada
+dependencia de extensión ¿o quien haga sus veces¿ responsable de las
+actividades de Educación Continua y Permanente en la respectiva sede, facultad,
+centro o instituto, deberá dar cumplimiento a la normativa y procedimiento
+asociado a ECP abierta al público y realizar las validaciones necesarias a fin
+de garantizar la consistencia entre la información del Sistema Hermes y la
+facturación electrónica emitida a través de la plataforma de CADENA. De igual
+manera, debe conservar dichas conciliaciones a fin de atender los requerimientos
+que realice cualquier ente de control. IMPORTANTE Cualquier
+inquietud relacionada con la factura electrónica deberá remitirse al correo
+electrónico reqefactura_nal.@unal.edu.co. La
+presente circular rige a partir de su publicación y deroga todas las
+disposiciones que le sean contrarias. Dada
+en Bogotá D.C., el 30 de abril de 2021 GUSTAVO
+BUITRAGO HURTADO Vicerrector
+de Investigación ALVARO
+VIÑA VIZCAÍNO Gerente
+Nacional Financiero y Administrativo

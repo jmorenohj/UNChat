@@ -1,0 +1,235 @@
+CIRCULAR 14 DE 2020 Para: Vicerrectorías
+de Sede, Direcciones de Sede de Presencia Nacional, Secretarías de Sede,
+Direcciones Académicas, Oficinas de Registro y Matrícula, o quien haga sus
+veces en las Sedes de Presencia Nacional. De: Vicerrectoría Académica Asunto : Directrices
+para el cierre del período académico 2020-1S, 2020-1I (Sede Medellín) y
+apertura del período 2020-2S Fecha : 9 de julio de 2020 La
+presente circular tiene como objetivo establecer directrices con respecto al cierre
+del periodo académico 2020-1S, 2020-1I y apertura del período académico 2020-2S
+en el Sistema de Información Académica (SIA). Estas directrices se generan como
+resultado de las sesiones de trabajo sostenidas con las Oficinas de Registros,
+Direcciones Académicas, Secretarías de Sede y la Dirección Nacional de
+Información Académica - DNINFOA, y posterior aval del equipo Directivo de la Vicerrectoría
+Académica: ACTIVIDADES
+PARA EL CIERRE DEL PERIODO 2020-1S , 2020-1I : 1. Pérdida
+por fallas : 
+Atendiendo el Art. 3 de la Resolución 347 de 2020 de Rectoría donde se indica
+que "(..)...Asistencia. No se tendrá en cuenta el porcentaje mínimo de
+asistencia contemplado en el programa- asignatura y en consecuencia no haber
+asistido con regularidad a las clases no implicará una nota de cero punto cero
+(0.0)". Se configura el sistema para que no permita incluir las fallas por
+parte del docente y de esta manera evitar la pérdida por fallas. 2. Cierre
+de calificaciones :
+se realizará de acuerdo con la fecha establecida en el calendario académico
+para cada una de las sedes. a. Se
+llevará a cabo el cierre de los grupos de asignaturas que logren culminar el
+proceso académico.  Es importante que los docentes realicen el cierre de sus
+grupos una vez calificados, en las fechas establecidas en el calendario
+académico de cada una de las sedes. b. Aquellas
+asignaturas que no completen el proceso académico, se excluirán del proceso de
+cierre.  Para esto, se requiere por parte de las facultades de cada una de las
+sedes, la relación de asignaturas a excluir. Aquellas asignaturas que no sean
+reportadas y que no estén calificadas, serán calificadas con la nota por
+defecto (RE- Reprobado). El
+listado de las asignaturas (cursos) a excluir lo harán llegar las facultades a
+las Oficinas de Registro o quien haga sus veces en las Sedes de Presencia
+Nacional - SPN, para que sean excluidos del proceso. El consolidado de cursos
+lo remitirán las Oficinas de Registro, o quien haga sus veces en las SPN, a la
+DNINFOA para llevar a cabo el proceso de exclusión. La fecha máxima para
+reportar las asignaturas a excluir será la fecha limite definida para el
+ingreso de calificaciones al SIA, estipulada en el calendario académico del
+periodo 2020-1S, 2020-1I (Sede Medellín) de la sede correspondiente. Para
+que los docentes puedan ingresar las calificaciones al SIA de las asignaturas
+relacionadas en el párrafo anterior del periodo 2020-1S, 2020-1I, se dejará
+disponible el sistema hasta el momento que se termine el proceso académico y se
+tenga la nota definitiva. La fecha máxima de cierre de notas para este caso,
+corresponderá al cierre de notas del periodo académico 2020-2S de la respectiva
+sede. c. Asignaturas
+y actividades académicas reprobadas en 2020-1S y 2020-1I (sede Medellín):
+Atendiendo los Art. 1 y 2 de la Resolución 347 de 2020 de Rectoría donde se
+indica que, aquellas asignaturas que sean calificadas con una nota inferior a
+3.0 o las asignaturas y las actividades académicas que obtengan la calificación
+de "Reprobado" (RE), se procederá a su cancelación (anulación) para
+pregrado y posgrado (con devolución de créditos para pregrado), por lo que no
+se tendrán en cuenta en el cálculo del Promedio Académico ni del Promedio
+Aritmético Ponderado Acumulado (P.A.P.A.).  La causa de anulación será "Resolución 347 de 2020 de Rectoría" operada con el código 6 en el sistema, y se incluirá
+el acto académico en la historia académica de cada estudiante sin que éste se
+vea reflejado al momento de expedirse un certificado de notas.  De esta manera,
+en caso de requerir corrección de nota, se puede realizar ejecutando el proceso
+de desanulación de manera manual y actualizando la nota tal como está establecido
+actualmente en el sistema. Con
+relación a los cursos nivelatorios (matemáticas básicas y lectoescritura) es
+preciso señalar que, para el caso de los estudiantes que obtengan en este
+período académico una calificación inferior a 3.0, se procederá de la misma manera como se señala en el punto anterior.
+Para estos estudiantes y para aquellos a quienes les fue autorizada la
+cancelación de estos cursos de nivelación por parte del Consejo de Facultad, se
+le cambiará el nodo "Estudiantes que deben nivelar" por el nodo "Estudiantes
+que no deben nivelar", con el fin de evitar afectaciones posteriores en el
+P.A.P.A. 3. Cálculo
+de promedios :  
+Se realizará el cálculo de promedios con las calificaciones que fueron
+ingresadas al sistema y cuyas listas de clase (actas de calificaciones) fueron
+cerradas. Es decir, para el cálculo de los promedios, tanto para el P.A.P.A
+como para el PA, el sistema solo tendrá en cuenta aquellas asignaturas que
+estén cerradas en la historia académica del estudiante, no se tendrán en cuenta
+las asignaturas anuladas. 4. Bloqueos
+por causas académicas : 
+Se ejecutará el proceso de bloqueos por causas académicas, tanto de pregrado
+como de posgrado, teniendo en cuenta lo siguiente: a. Se
+excluirán del proceso de bloqueo aquellos estudiantes que cuenten por lo menos
+con una asignatura o actividad académica por calificar, y que se encuentren relacionadas
+en la lista de asignaturas excluidas del punto 2 numeral b "Cierre de
+calificaciones". b. Tiempo
+máximo de permanencia en posgrado: Atendiendo el Art. 4 de la Resolución 347 de
+2020 de Rectoría donde se indica que, " La reserva de cupo (...) para
+efectos de posgrado no se contabilizará dentro del tiempo máximo de
+permanencia, (...) El primer período académico de 2020 de los estudiantes de
+posgrado, o su cancelación, no se considerarán para efectos de contabilizar el
+tiempo máximo de permanencia. (...) ", una vez ejecutado el proceso de bloqueo
+para el 2020-1S, se identificará la población que pierde calidad por esta causa
+y se desbloqueará (reinicio de estado) incluyendo una observación en la historia
+académica del estudiante indicando el acto académico que autoriza la excepción. ACTIVIDADES
+PARA LA APERTURA DEL PERIODO 2020-2S: Una
+vez realizado el cierre del periodo 2020-1S, 2020-1I, se ejecutará el
+alistamiento para apertura e inicio del periodo 2020-2S de acuerdo con el
+calendario establecido en cada una de las sedes, así: 1. Reingresos: se realizará el
+proceso de reingresos aprobados para el periodo, tal como se viene realizando
+en el sistema actualmente. 2. Reintegros : se realizará
+el proceso de reintegros (levantamiento de reservas de cupo), teniendo en
+cuenta que se levantarán las reservas de cupo o reintegrarán para el mismo
+periodo 2020-1S, 2020-1I, esto con el fin de que no cuenten en la historia académica
+del estudiante. Este proceso se ejecutará después del proceso de bloqueo del
+periodo 2020-1S, 2020-1I.  De esta manera, no se pierde trazabilidad de lo
+sucedido, se ingresará una observación en la historia académica del estudiante
+indicando el acto académico que autoriza la excepción (Art 4 de la Resolución 347
+de 2020 de Rectoría), donde se indica que, " La reserva de cupo efectuada en
+vigencia de la presente Resolución no hará parte de las dos reservas a que
+tiene derecho el estudiante ". 3. Traslados
+entre sedes: Se realizará el proceso de traslados tal y como se viene efectuando actualmente
+en el sistema, para que el estudiante pueda acceder a las clases de manera
+remota en la sede destino. Por lo tanto, los estudiantes no se desplazarán al
+lugar geográfico de la sede. 4. Vencimiento
+de aplazamientos :
+Se realizará el proceso tal como se viene efectuando actualmente. 5. Movilidad
+PEAMA : 
+Se realizará el proceso de movilidad PEAMA tal como se viene efectuando
+actualmente en el sistema, para que el estudiante pueda acceder a las clases de
+manera remota en la sede andina. Por lo tanto, los estudiantes no se desplazarán
+al lugar geográfico de la sede. Dando cumplimento a lo estipulado en el
+comunicado de Rectoría N ° 14 de 2020,
+donde se adopta la siguiente medida, " Las Direcciones Académicas, en
+coordinación con las Facultades de las distintas Sedes o las dependencias que
+hagan sus veces, diseñarán estrategias o mecanismos de preinscripción de
+asignaturas que ayuden a la planeación y coordinación de las actividades y
+faciliten a los estudiantes en movilidad, como puede ser el caso los PEAMA, la
+inscripción en asignaturas ofrecidas de manera remota." 6. Recibos
+de matrícula: se realizará el proceso de generación de recibos de pago de matrícula para el
+periodo 2020-2S, de los estudiantes que conserven su calidad después de
+realizado el cierre del periodo 2020-1S, 2020-1I, tal como se viene efectuando
+actualmente en el sistema. Se tendrá en cuenta lo siguiente: a. A
+los estudiantes que culminen el plan de estudios, contabilizando las
+asignaturas o actividades académicas sin calificar en 2020-1S, 2020-1I, que se
+encuentren relacionadas en la lista de asignaturas excluidas del punto 2 numeral b "Cierre de calificaciones", no se les generará recibo de matrícula para
+el periodo 2020-2S. En caso de que el estudiante repruebe las asignaturas o
+actividades académicas, deberá adelantar el proceso de renovación de matrícula,
+teniendo en cuenta que no culminó el plan de estudios para el período 2020-1s,
+2020-1I. b. A
+los estudiantes que tengan asignaturas en el periodo 2020-1S, 2020-1I inscritas
+y sin calificar, que se encuentren relacionadas en la lista de asignaturas
+excluidas del punto 2 numeral b "Cierre de calificaciones", que aún no culminen
+su plan de estudios, se le generará recibo de matrícula en periodo 2020-2S. Se debe considerar, que los estudiantes
+del punto a) siguen siendo estudiantes y pueden hacer uso de los recursos que
+ofrece la Universidad. 7. Programación
+Académica: a. Para
+el ingreso de la programación académica del periodo 2020-2S en el sistema, se
+sugiere no ofertar asignaturas que se encuentren en la lista de asignaturas
+excluidas del punto 2 numeral b "Cierre de calificaciones". Tener en cuenta el
+comunicado de Rectoría N ° 14 de 2020,
+donde se adopta  la  medida, " Excepcionalmente, con la aprobación de los
+Consejos de Sede, se podrán programar actividades prácticas y otras actividades
+presenciales, bajo medidas sanitarias debidamente establecidas y teniendo en
+cuenta las disposiciones del Ministerio de Educación, las restricciones de
+movilidad y las demás condiciones que impone el cuidado de la comunidad universitaria,
+así como las particularidades de los programas, entre ellos los del área de la
+salud. " b. Pre-requisitos
+y correquisitos: Es necesario que las facultades remitan el listado de las
+asignaturas y actividades académicas a las que no se les realizará control de
+prerrequisitos o correquisitos en el sistema para el proceso de inscripción de
+asignaturas. Tener en cuenta el comunicado de Rectoría N ° 14 de 2020, donde se adopta la siguiente medida, " Las
+Facultades realizarán la programación del período académico 2020-2 a la luz de
+estas medidas, adelantando las actividades que puedan llevarse a cabo de manera
+remota, buscando minimizar el impacto de la actual situación en el avance en
+los planes de estudio y manteniendo el diálogo constructivo con sus profesores.
+Igualmente, realizarán las suspensiones temporales de prerrequisitos y
+correquisitos que consideren necesario hacer, dada la flexibilidad que exige la
+circunstancia, las cuales deben ser registradas en el SIA, antes del 27 de
+junio de 2020 ." El
+Consejo de Facultad o el Comité Académico-Administrativo en la SPN, hará llegar
+a la Dirección Académica, o quien haga sus veces, el acto académico a través
+del cual se levanta el pre-requisito o correquisitos de las asignaturas del
+plan de estudios, para que se realice la gestión correspondiente. 8. Inscripciones :  Se realizarán
+las inscripciones para el periodo 2020-2S de acuerdo con los planteamientos
+plasmados en este documento, es decir, los estudiantes activos así cuenten con
+asignaturas inscritas y sin calificar en el 2020-1S, 2020-1I. 9. Generación
+de citas a inscripción : Se aplicarán los criterios definidos por el Comité
+Nacional de Programas Curriculares en sesión 07 del 25 de junio de 2019 (VRA-
+504-19 y VRA-510-19). 10. Estímulos
+académicos ,
+tener en cuenta lo siguiente: a. Generar
+el listado de mejores promedios en el periodo 2020-1S, 2020-1I, con las calificaciones que se tengan.
+Aplicar el descuento a los estudiantes favorecidos de acuerdo con los
+procedimientos establecidos. Cuando se cuente con la totalidad de las calificaciones,
+se harán los ajustes pertinentes y si algún estudiante tenía derecho al
+estímulo, se les reconocerá, realizando la devolución correspondiente. b. Para
+los planes de estudio que cuenten con la totalidad de las asignaturas y
+actividades académicas calificadas, se generará el listado de mejores promedios
+de acuerdo con los procedimientos establecidos y se aplicará el descuento a los
+estudiantes favorecidos, tal como se realiza actualmente en el sistema. 11. Consolidación
+de matrícula: se ejecutarán los procesos de consolidación de matrícula de acuerdo al
+calendario académico de cada sede , teniendo
+en cuenta lo dispuesto en el Art. 1 de la Resolución 023 de 2020 de la Comisión
+Delegataria del CSU, "(...)...permitir a los estudiantes de pregrado y posgrado
+de la Universidad Nacional de Colombia quedar en reserva de cupo durante el
+primer y segundo período académico de 2020 sin que dichas reservas se
+contabilicen dentro de las reservas de cupo automáticas y adicionales contempladas
+en el artículo 20 del Estatuto Estudiantil." Es decir, aquellos estudiantes
+que, al no haber renovado matrícula en el primer periodo académico de 2020,
+quedaron en reserva de cupo automática o en reserva de cupo adicional autorizada
+en el primer periodo académico de 2020, no perderán su calidad de estudiante. Para
+el período 2020-2s, se incluirá en el sistema el acto académico de Reserva de
+cupo adicional para aplicar de manera masiva, a todas las historias académicas
+de pregrado y posgrado que estuvieran en reserva de cupo en el período 2020-1S,
+2020-1I. 12.
+Movilidad interna entre sedes: Se realizará el proceso de movilidad
+interna entre sedes tal como se viene efectuando actualmente en el sistema,
+para que el estudiante pueda acceder a las clases de manera remota en la sede
+destino. Por lo tanto, los estudiantes no se desplazarán al lugar geográfico de
+la sede destino. Dando cumplimento a lo estipulado en el comunicado de Rectoría
+N °. 14 de 2020, donde se adopta la
+siguiente medida, " Las Direcciones Académicas, en coordinación con las
+Facultades de las distintas Sedes o las dependencias que hagan sus veces,
+diseñarán estrategias o mecanismos de preinscripción de asignaturas que ayuden
+a la planeación y coordinación de las actividades y faciliten a los estudiantes
+en movilidad, como puede ser el caso los PEAMA, la inscripción en asignaturas
+ofrecidas de manera remota." CONSIDERACIONES
+GENERALES: 1. Los
+procesos de bloqueo por causas académicas no serán retroactivos, por lo que cuando
+se vayan cerrando las calificaciones pendientes del 2020-1S, 2020-1I, la
+evaluación de la normativa para dichos estudiantes que están cursando
+asignaturas en 2020-2S, se les aplicará en el momento del cierre de este último,
+es decir, 2020-2S. 2. Para
+lograr las inscripciones en el 2020-2S es necesario realizar la programación
+académica en dicho periodo, teniendo en cuenta los posibles cruces que se
+puedan generar con las asignaturas que no se han terminado del 2020-1S, 2020-1I,
+sobre todo las del componente práctico. 3. Al
+finalizar el periodo 2020-2S todos los grupos de asignaturas y actividades
+académicas tanto de 2020-1S, 2020-1I como 2020-2S estarán calificados en su
+totalidad. 4. Se
+debe tener en cuenta la desincronización de los calendarios académicos de las
+sedes y los impactos en los procesos antes mencionados. 5. Algunos
+de los puntos anteriores es posible que se repliquen en el periodo 2020-2S en
+cuanto al cierre del periodo, ya que estará sujeto a la duración del
+asilamiento preventivo decretado por el Gobierno. La presente Circular rige a
+partir de la fecha de su publicación. CARLOS AUGUSTO
+HERNÁNDEZ Vicerrector
+Académico
