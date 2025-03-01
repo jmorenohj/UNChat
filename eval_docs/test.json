@@ -13,78 +13,78 @@
         ,
         {
             "id":2,
-            "question":"",
-            "answer":""
+            "question":"¿Se puede solicitar autorización para cursar más de la carga máxima reglamentaria de 20 créditos?",
+            "answer":"Sí. Se debe presentar la solicitud antes o durante la primera semana del periodo académico en el que los requiera cursar, y adjuntar los respectivos soportes, o mediante el formulario web."
         },
         {
             "id":3,
-            "question":"",
-            "answer":""
+            "question":"¿Hasta qué fecha se puede solicitar cancelación de asignaturas sin pérdida de créditos?",
+            "answer":"1. El plazo finaliza con la segunda semana de cada periodo académico, coincide con el final del periodo de adición y cancelación de asignaturas o cuando se autorice de forma excepcional. 2. Cuando existan razones de fuerza mayor, se puede presentar la solicitud en cualquier momento, mediante el formulario web."
         },
         {
             "id":4,
-            "question":"",
-            "answer":""
+            "question":"¿Se pueden cancelar asignaturas antes de transcurrido el 50 % del periodo académico?",
+            "answer":"Sí, en ese caso los créditos de las asignaturas canceladas se descontarán del cupo de créditos para inscripción. El estudiante realiza la cancelación de asignaturas a través del SIA. No se requieren soportes."
         },
         {
             "id":5,
-            "question":"",
-            "answer":""
+            "question":"¿Se pueden cancelar asignaturas, sin pérdida de créditos, antes de transcurrido el 50 % del periodo académico?",
+            "answer":"Sí. Se debe presentar la solicitud al Consejo de Facultad antes de transcurrido el 50 % del período académico, es necesario exponer la justificación y entregar los soportes utilizando el formulario web."
         },
         {
             "id":6,
-            "question":"",
-            "answer":""
+            "question":"¿Se pueden cancelar asignaturas cuando el periodo académico ha avanzado más del 50 %?",
+            "answer":"Sí. Se debe presentar la solicitud al Consejo de Facultad con justificación y soportes antes de haberse consolidado la calificación definitiva, en la opción 'Cancelación de asignaturas posterior a la mitad del período académico', a través del SIA o mediante el formulario web."
         },
         {
             "id":7,
-            "question":"",
-            "answer":""
+            "question":"¿Se puede solicitar la cancelación del periodo académico?",
+            "answer":"Sí, en caso de fuerza mayor o caso fortuito. Se debe presentar la solicitud al Consejo de Facultad antes de haberse consolidado la nota definitiva de las asignaturas que esté cursando, a través del SIA en la opción 'Cancelación período académico', o mediante el formulario web. \n Le será devuelto proporcionalmente el valor de los derechos de matrícula, dependiendo la fecha de presentación y aprobación de la solicitud."
         },
         {
             "id":8,
-            "question":"",
-            "answer":""
+            "question":"¿Cómo se realiza la solicitud de convalidación y equivalencia de asignaturas cursadas en la Universidad Nacional de Colombia?",
+            "answer":"La solicitud se realiza a través del SIA en la opción 'Homologación, equivalencia y convalidación de asignaturas', o mediante el formulario web. No se requieren soportes."
         },
         {
             "id":9,
-            "question":"",
-            "answer":""
+            "question":"¿Cómo se realiza la solicitud de homologación y convalidación de asignaturas cursadas en otras instituciones?",
+            "answer":"La solicitud se realiza a través del SIA en la opción 'Homologación, equivalencia y convalidación de asignaturas', o mediante el formulario web. Debe anexar Certificados originales de calificaciones y contenidos de las asignaturas, si éstas hacen parte del componente de fundamentación o disciplinar."
         },
         {
             "id":10,
-            "question":"",
-            "answer":""
+            "question":"¿Cuáles son las modalidades de Trabajo de Grado aceptadas en la Facultad de Ingeniería?",
+            "answer":"Las modalidades de trabajo de grado son:\n 1. Trabajos investigativos: Trabajo Monográfico, Proyecto Final, Participación en Proyecto de Investigación. En esta modalidad, la autorización de registro se debe solicitar antes de la finalización de la semana catorce del periodo académico anterior al cual aspire a realizar el Trabajo de Grado. \n2. Prácticas de extensión: Emprendimiento Empresarial, Pasantía, Proyecto Social. En esta modalidad de trabajo de grado, la autorización de registro se debe solicitar antes de finalizar la semana catorce del periodo académico anterior al cual aspire a realizar el Trabajo de Grado. \n3. Opción de grado: Admisión anticipada a posgrado. En esta modalidad el estudiante debe solicitar autorización al Comité Asesor del programa de posgrado para presentar el examen de admisión al programa que continuará cursando cuando finalice su pregrado. Si se le admite al programa de posgrado, las asignaturas que inscriba siendo estudiante de pregrado, constituyen el trabajo de grado de esta modalidad de graduación. El proceso se debe realizar en el periodo académico anterior a aquel en el que cursará las asignaturas, teniendo en cuenta el calendario del proceso de admisión a posgrado. En el formato de registro se debe incluir el nombre de las asignaturas y el programa curricular al que pertenecen. 4. Asignaturas de posgrado: En esta modalidad, el registro de la asignatura se debe solicitar antes de finalizar la semana doce del periodo académico anterior al cual la va a cursar. En el formato de registro se debe incluir el nombre de las asignaturas y el programa curricular al que pertenecen. El incumplimiento del plazo para solicitar el registro de la asignatura trabajo de grado o la entrega incompleta de los soportes requeridos para la modalidad escogida, da lugar a la no aprobación de la inscripción, siendo necesario realizar el proceso en el periodo siguiente."
         },
         {
             "id":11,
-            "question":"",
-            "answer":""
+            "question":"¿Cuáles son los requisitos para inscribir Trabajo de Grado?",
+            "answer":"Haber aprobado los créditos del componente de formación disciplinar o profesional definidos por el programa curricular. Es indispensable revisar los requisitos en el plan de estudios del programa que corresponda."
         },
         {
             "id":12,
-            "question":"",
-            "answer":""
+            "question":"¿Cómo se realiza la inscripción del Trabajo de Grado?",
+            "answer":"Se debe presentar la solicitud mediante el formulario web. REGISTRO DE LA ASIGNATURA (Así lo denomina el Acuerdo 026 de 2012 del Consejo Académico, mientras que en el Acuerdo 37 de 2017 del Consejo de la Facultad se denomina formalización de la solicitud de registro). Para cursar trabajo de grado, se debe solicitar autorización de registro de la asignatura, antes de finalizar la semana 14 del periodo académico anterior al cual aspire cursarla, o en el plazo anterior que se establece para cada modalidad, con el cumplimiento de los siguientes requisitos: Completar los requisitos que establece el plan de estudios para cursar la asignatura, durante el periodo académico en el que solicita el registro. Presentar en el formulario de solicitudes de pregrado, el formato de registro de la asignatura trabajo de grado, con todos los soportes que requiera la modalidad escogida, el cual debe estar firmado por el profesor y el estudiante. El formato se encuentra disponible para descargar en el siguiente enlace: https://bit.ly/3o3fzcQ. INSCRIPCIÓN Si su solicitud es aprobada por el comité, el(la) director(a) de Área Curricular se encargará de registrarla en el Sistema de Información Académica."
         },
         {
             "id":13,
-            "question":"",
-            "answer":""
+            "question":"¿Cómo se realiza la inscripción de asignaturas de posgrado como opción de grado?",
+            "answer":"En esta modalidad el estudiante debe solicitar autorización al Comité Asesor del programa de posgrado para presentar el examen de admisión al programa que continuará cursando cuando finalice su pregrado. Si se le admite al programa de posgrado, las asignaturas que inscriba siendo estudiante de pregrado, constituyen el trabajo de grado de esta modalidad de graduación. El proceso se debe realizar en el periodo académico anterior a aquel en el que cursará las asignaturas, teniendo en cuenta el calendario de admisión a posgrado. En el formato de registro se debe incluir el nombre de las asignaturas y el programa curricular al que pertenecen."
         },
         {
             "id":14,
-            "question":"",
-            "answer":""
+            "question":"¿Cómo se realiza la inscripción de Práctica estudiantil?",
+            "answer":"Se puede inscribir práctica estudiantil, siempre que cumpla con los requisitos del plan de estudios y con lo establecido en el Acuerdo 016 de 2011 del Consejo Académico. Se debe presentar solicitud al Consejo de Facultad, con los debidos soportes (Contrato, Afiliación ARL), el semestre inmediatamente anterior al inicio de la práctica."
         },
         {
             "id":15,
-            "question":"",
-            "answer":""
+            "question":"¿Cuál es la diferencia entre práctica y pasantia?",
+            "answer":"La práctica estudiantil forma parte de las asignaturas del plan de estudios, es una modalidad que permite al estudiante vincularse por primera vez al contexto laboral enfocado a su área académica, con el objetivo de conocer las técnicas, los procesos y métodos propios de la Empresa, como también la oportunidad de aplicar los conocimientos y las habilidades adquiridas en su proceso de formación. La pasantía es una asignatura que forma parte del componente de formación disciplinar en la modalidad de Trabajo de Grado, que permite al estudiante la oportunidad de aplicar durante un periodo académico los métodos de investigación, de evaluación y análisis frente a situaciones específicas en la empresa, con el propósito de presentar un diagnóstico del estudio realizado y a su vez aportar propuestas de mejora o solución de dichas situaciones."
         },
         {
             "id":16,
-            "question":"",
-            "answer":""
+            "question":"¿Por qué razones se pierde la calidad de estudiante?",
+            "answer":"El estudiante de pregrado pierde esa calidad por alguna de las siguientes razones: 1.  Culminar exitosamente los planes de estudio en los que fue aceptado. 2. No cumplir con los requisitos exigidos para la renovación de la matrícula, en los plazos señalados por la Universidad o en no hacer uso del derecho de matrícula, habiendo utilizado ya las dos reservas automáticas. 3. Presentar Promedio Aritmético Ponderado Acumulado menor que tres (3.0). 4. No disponer de créditos suficientes en el cupo para inscribir las asignaturas del plan de estudios pendientes de aprobación. 5. Recibir sanción disciplinaria de expulsión o suspensión impuesta de acuerdo con las normas vigentes."
         },
         {
             "id":17,
