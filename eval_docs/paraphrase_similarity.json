@@ -1,0 +1,315 @@
+{
+    "individual_scores": [
+        {
+            "id": 0,
+            "question": "Pregado: ¿Cuáles son los medios para presentar solicitudes al Consejo de Facultad?",
+            "similarity": 0.5196542739868164
+        },
+        {
+            "id": 1,
+            "question": "Pregado: ¿Se puede solicitar autorización para cursar menos de la carga mínima reglamentaria de 10 créditos?",
+            "similarity": 0.5795602202415466
+        },
+        {
+            "id": 2,
+            "question": "Pregado: ¿Se puede solicitar autorización para cursar más de la carga máxima reglamentaria de 20 créditos?",
+            "similarity": 0.4385087788105011
+        },
+        {
+            "id": 3,
+            "question": "Pregado: ¿Hasta qué fecha se puede solicitar cancelación de asignaturas sin pérdida de créditos?",
+            "similarity": 0.4079764783382416
+        },
+        {
+            "id": 4,
+            "question": "Pregado: ¿Se pueden cancelar asignaturas antes de transcurrido el 50 % del periodo académico?",
+            "similarity": 0.6752676963806152
+        },
+        {
+            "id": 5,
+            "question": "Pregado: ¿Se pueden cancelar asignaturas, sin pérdida de créditos, antes de transcurrido el 50 % del periodo académico?",
+            "similarity": 0.5073866844177246
+        },
+        {
+            "id": 6,
+            "question": "Pregado: ¿Se pueden cancelar asignaturas cuando el periodo académico ha avanzado más del 50 %?",
+            "similarity": 0.3817553222179413
+        },
+        {
+            "id": 7,
+            "question": "Pregado: ¿Se puede solicitar la cancelación del periodo académico?",
+            "similarity": 0.628677487373352
+        },
+        {
+            "id": 8,
+            "question": "Pregado: ¿Cómo se realiza la solicitud de convalidación y equivalencia de asignaturas cursadas en la Universidad Nacional de Colombia?",
+            "similarity": 0.38147372007369995
+        },
+        {
+            "id": 9,
+            "question": "Pregado: ¿Cómo se realiza la solicitud de homologación y convalidación de asignaturas cursadas en otras instituciones?",
+            "similarity": 0.6553070545196533
+        },
+        {
+            "id": 10,
+            "question": "Pregado: ¿Cuáles son las modalidades de Trabajo de Grado aceptadas en la Facultad de Ingeniería?",
+            "similarity": 0.7013053894042969
+        },
+        {
+            "id": 11,
+            "question": "Pregado: ¿Cuáles son los requisitos para inscribir Trabajo de Grado?",
+            "similarity": 0.6517274975776672
+        },
+        {
+            "id": 12,
+            "question": "Pregado: ¿Cómo se realiza la inscripción del Trabajo de Grado?",
+            "similarity": 0.6522254943847656
+        },
+        {
+            "id": 13,
+            "question": "Pregado: ¿Cómo se realiza la inscripción de asignaturas de posgrado como opción de grado?",
+            "similarity": 0.8751328587532043
+        },
+        {
+            "id": 14,
+            "question": "Pregado: ¿Cómo se realiza la inscripción de Práctica estudiantil?",
+            "similarity": 0.6468650102615356
+        },
+        {
+            "id": 15,
+            "question": "Pregado: ¿Cuál es la diferencia entre práctica y pasantia?",
+            "similarity": 0.6432158946990967
+        },
+        {
+            "id": 16,
+            "question": "Pregado: ¿Por qué razones se pierde la calidad de estudiante?",
+            "similarity": 0.9629080295562744
+        },
+        {
+            "id": 17,
+            "question": "Pregado: ¿Si se pierde calidad de estudiante ¿es posible solicitar reingreso?",
+            "similarity": 0.7256101965904236
+        },
+        {
+            "id": 18,
+            "question": "Pregado: ¿Cuál es el plazo para radicar la solicitud de reingreso?",
+            "similarity": 0.8791613578796387
+        },
+        {
+            "id": 19,
+            "question": "Pregado: ¿Cómo se accede al beneficio de descuento electoral del 10 % aplicable sobre el valor de la matrícula?",
+            "similarity": 0.5660672783851624
+        },
+        {
+            "id": 20,
+            "question": "Pregado: ¿Cuáles son los criterios de financiación para movilidad académica?",
+            "similarity": 0.6877349615097046
+        },
+        {
+            "id": 21,
+            "question": "Pregado: ¿Cuáles son los requisitos mínimos para solicitar apoyo a movilidad?",
+            "similarity": 0.5128597021102905
+        },
+        {
+            "id": 22,
+            "question": "Pregado: ¿Cómo se debe solicitar el apoyo a movilidad?",
+            "similarity": 0.4783415198326111
+        },
+        {
+            "id": 23,
+            "question": "Posgrado: ¿Cuáles son los medios para realizar solicitudes ante el Consejo de Facultad?",
+            "similarity": 0.7922831773757935
+        },
+        {
+            "id": 24,
+            "question": "Posgrado: ¿Se puede solicitar autorización para cursar menos de la carga mínima reglamentaria de 3 créditos?",
+            "similarity": 0.438947856426239
+        },
+        {
+            "id": 25,
+            "question": "Posgrado: ¿Se pueden cancelar asignaturas antes de transcurrido el 50% del periodo académico?",
+            "similarity": 0.8595281839370728
+        },
+        {
+            "id": 26,
+            "question": "Posgrado: ¿Se pueden cancelar asignaturas después del 50 % de avance del periodo académico?",
+            "similarity": 0.5359147787094116
+        },
+        {
+            "id": 27,
+            "question": "Posgrado: ¿Se puede solicitar la cancelación del periodo académico?",
+            "similarity": 0.6555922031402588
+        },
+        {
+            "id": 28,
+            "question": "Posgrado: ¿Cómo se realiza la solicitud de convalidación y equivalencia de asignaturas cursadas en la Universidad Nacional de Colombia?",
+            "similarity": 0.2974809408187866
+        },
+        {
+            "id": 29,
+            "question": "Posgrado: ¿Cómo se realiza la solicitud de homologación y convalidación de asignaturas cursadas en otras instituciones?",
+            "similarity": 0.6403149962425232
+        },
+        {
+            "id": 30,
+            "question": "Posgrado: ¿Por qué razones se pierde la calidad de estudiante?",
+            "similarity": 0.9614319801330566
+        },
+        {
+            "id": 31,
+            "question": "Posgrado: Si se pierde calidad de estudiante ¿es posible solicitar reingreso?",
+            "similarity": 0.7183637022972107
+        },
+        {
+            "id": 32,
+            "question": "Posgrado: ¿Cuál es la fecha máxima para radicar una solicitud de reingreso?",
+            "similarity": 0.6636161804199219
+        },
+        {
+            "id": 33,
+            "question": "Posgrado: ¿Cómo se accede al beneficio de descuento electoral del 10 % aplicable sobre el valor de la matrícula?",
+            "similarity": 0.5771796703338623
+        },
+        {
+            "id": 34,
+            "question": "Posgrado: ¿Cuáles son los criterios de financiación para movilidad académica?",
+            "similarity": 0.6829437613487244
+        },
+        {
+            "id": 35,
+            "question": "Posgrado: ¿Cuáles son los requisitos mínimos para solicitar apoyo a movilidad?",
+            "similarity": 0.5817208886146545
+        },
+        {
+            "id": 36,
+            "question": "Posgrado: ¿Cuál es el procedimiento para solicitar la inscripción de la asignatura Curso dirigido?",
+            "similarity": 0.9575878977775574
+        },
+        {
+            "id": 37,
+            "question": "Posgrado: ¿A cuántas reservas de cupo se tiene derecho durante el desarrollo de un programa de posgrado?",
+            "similarity": 0.7862343788146973
+        },
+        {
+            "id": 38,
+            "question": "Posgrado: ¿Se puede solicitar una reserva de cupo adicional?",
+            "similarity": 0.4633912444114685
+        },
+        {
+            "id": 39,
+            "question": "Posgrado: ¿Teniendo en cuenta la situación actual ocasionada por el COVID-19 las reservas de cupo serán contabilizadas dentro del tiempo de permanencia?",
+            "similarity": 0.8109765648841858
+        },
+        {
+            "id": 40,
+            "question": "Posgrado: ¿Cómo se realiza la solicitud de Tránsito a un programa de posgrado de un nivel superior?",
+            "similarity": 0.4527347683906555
+        },
+        {
+            "id": 41,
+            "question": "Posgrado: ¿Es posible realizar el cambio de plan de estudios en la maestría?",
+            "similarity": 0.5889790058135986
+        },
+        {
+            "id": 42,
+            "question": "Posgrado: ¿Es posible realizar traslado de programa académico?",
+            "similarity": 0.8371255397796631
+        },
+        {
+            "id": 43,
+            "question": "Posgrado: ¿Cómo y cuándo puedo solicitar la exención de pago por inscripción de tesis o trabajo final como única actividad académica?",
+            "similarity": 0.7241793274879456
+        },
+        {
+            "id": 44,
+            "question": "Posgrado: ¿Cuál es la normativa vigente que reglamenta los procesos académicos de los programas de posgrado?",
+            "similarity": 0.7045056819915771
+        },
+        {
+            "id": 45,
+            "question": "Posgrado: ¿Cuál es la fecha máxima para radicar solicitud de modificaciones a la propuesta de Trabajo Final de Maestría (cambio de título, objetivos, director, codirector)?",
+            "similarity": 0.7402740716934204
+        },
+        {
+            "id": 46,
+            "question": "Posgrado: ¿Cuál es la fecha máxima para radicar solicitud de modificaciones a la Tesis de Maestría (cambio de título, objetivos, director, codirector)?",
+            "similarity": 0.6342464685440063
+        },
+        {
+            "id": 47,
+            "question": "Posgrado: ¿Cuál es la fecha máxima para radicar la solicitud de nombramiento de jurados para tesis (maestría o doctorado), trabajo final de maestría o proyecto de tesis de doctorado?",
+            "similarity": 0.6312892436981201
+        },
+        {
+            "id": 48,
+            "question": "Posgrado: ¿En dónde se puede consultar el nombramiento de evaluadores de Proyecto de Tesis de Doctorado?",
+            "similarity": 0.6885150671005249
+        },
+        {
+            "id": 49,
+            "question": "Posgrado: ¿En dónde se puede consultar el nombramiento de jurados realizado por el Consejo de la Facultad de Ingeniería para la calificación de Tesis de Maestría y Tesis de Doctorado?",
+            "similarity": 0.4790287911891937
+        },
+        {
+            "id": 50,
+            "question": "Posgrado: ¿En dónde se puede consultar el nombramiento de evaluadores realizado por el Consejo de la Facultad de Ingeniería para la calificación de Trabajo Final de Maestría?",
+            "similarity": 0.6496555805206299
+        },
+        {
+            "id": 51,
+            "question": "Posgrado: ¿Una vez calificado el trabajo final o realizada la sustentación de la tesis de maestría/doctorado, en cuanto tiempo se ve reflejada la calificación en el SIA?",
+            "similarity": 0.5123386383056641
+        },
+        {
+            "id": 52,
+            "question": "Posgrado: ¿Se debe realizar algún trámite adicional por parte de los estudiantes para la modificación de la calificación del Trabajo Final o Tesis de maestría/doctorado?",
+            "similarity": 0.6991279125213623
+        },
+        {
+            "id": 53,
+            "question": "Posgrado: ¿Cuál es el procedimiento para solicitar paz y salvo académico?",
+            "similarity": 0.644349992275238
+        },
+        {
+            "id": 54,
+            "question": "Posgrado :¿Cuál es el procedimiento para realizar la inscripción a grados?",
+            "similarity": 0.5284633636474609
+        },
+        {
+            "id": 55,
+            "question": "Posgrado: ¿Cómo se debe solicitar el apoyo a movilidad?",
+            "similarity": 0.5610151290893555
+        },
+        {
+            "id": 56,
+            "question": "Posgrado: ¿Es posible realizar el pago del valor del semestre mediante fraccionamiento en posgrado?",
+            "similarity": 0.35504403710365295
+        },
+        {
+            "id": 57,
+            "question": "Posgrado: ¿Cuáles asignaturas son obligatorias en los programas de posgrado?",
+            "similarity": 0.8280019760131836
+        },
+        {
+            "id": 58,
+            "question": "Posgrado: ¿Hay una plantilla para la presentación de proyecto de tesis (Maestría o Doctorado) y propuesta de Trabajo Final de Maestría?",
+            "similarity": 0.3606034517288208
+        },
+        {
+            "id": 59,
+            "question": "Posgrado: ¿Cuáles soportes se deben anexar a la solicitud de nombramiento de jurados de tesis o evaluadores de trabajo final?",
+            "similarity": 0.8202899694442749
+        },
+        {
+            "id": 60,
+            "question": "Posgrado: ¿Cuál es el procedimiento para publicar el documento final de tesis (maestría o doctorado) y trabajo final de maestría en el repositorio institucional?",
+            "similarity": 0.4507421553134918
+        }
+    ],
+    "summary_statistics": {
+        "mean": 0.6307006800760988,
+        "min": 0.2974809408187866,
+        "max": 0.9629080295562744,
+        "std": 0.15853704799788595
+    }
+}
